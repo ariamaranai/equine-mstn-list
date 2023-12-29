@@ -5,7 +5,8 @@ a {
   padding-top: 1ex;
   text-decoration: unset;
   font-size: clamp(8px,2.2vw,12px);
-  line-height: 0
+  letter-spacing: -1;
+  line-height: 0;
 }
 #p {
   display: contents;
@@ -25,12 +26,6 @@ a {
 [s] {
   background-color: #531
 }
-::-webkit-scrollbar {
-  width: 21
-}
-::-webkit-scrollbar-thumb {
-  background-color: #666
-}
 p {
   display: flex;
   gap: 1px;
@@ -46,7 +41,14 @@ input {
 }
 :first-line {
   color: #ccc;
-  font: clamp(10px,2.2vw,12px)/2 hiragino kaku gothic pro,meiryo,sans-serif
+  font: clamp(10px,2.2vw,12px)/2 hiragino kaku gothic pro,meiryo,sans-serif;
+  letter-spacing: 0
+}
+::-webkit-scrollbar {
+  width: 20
+}
+::-webkit-scrollbar-thumb {
+  background-color: #666
 }
 @media(hover) {
   p:hover {

@@ -13,7 +13,7 @@ for (let y = 0;;) {
     let mstn = cell.mstn;
     html += `<a${href && " href=" + href.slice(href[12] == "j" ? -11 : 6)}` +
             `${mstn ? mstn == "CC" ? " s" : mstn == "CT" ? " a" : " e" : ""}>` +
-            `${cell.name}\u000a${cell.year}.${cell.cnty} ${cell.sex}`;
+            `${cell.name}\u000a${cell.year}-${cell.cnty}` + (x ? "": `-${cell.sex}`);
   }
   html += "</a>";
   if (++y == total) {
@@ -24,4 +24,4 @@ for (let y = 0;;) {
 
 Bun.write("../index.htm", html);
 let size = Bun.gzipSync(Buffer.from(html));
-console.log("size: " + size.length);
+console.log(`size: ${size.length}`);
