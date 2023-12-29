@@ -5,7 +5,7 @@ a {
   padding-top: 1ex;
   text-decoration: unset;
   font-size: clamp(8px,2.2vw,12px);
-  letter-spacing: -1;
+  letter-spacing: -.2;
   line-height: 0;
 }
 #p {
