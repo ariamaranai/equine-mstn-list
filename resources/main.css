@@ -50,6 +50,9 @@ input {
 ::-webkit-scrollbar-thumb {
   background-color: #666
 }
+::placeholder {
+  filter: contrast(.7)
+}
 @media(hover) {
   p:hover {
     filter: contrast(.7) brightness(1.1)
