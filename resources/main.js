@@ -5,5 +5,5 @@ ondragstart =a=> !1,
 oninput =a=> {
   let r = $total, s = 0, e;
   while ((e = document.body.children[r]).className = e.textContent.includes(a.target.value) ? (++s,'p') : 's', --r);  
-  p.textContent = s
+  p[0].textContent = s
 }

@@ -17,7 +17,7 @@ for (let y = 0;;) {
   }
   html += "</a>";
   if (++y == total) {
-    html += "</p>by <a href=//ariamaranai.github.io/ style=color:#cb0>@ariamaranai";
+    html += "</p>by <a href=//ariamaranai.github.io/ id=p>@ariamaranai";
     break;
   }
 }
