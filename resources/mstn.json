@@ -73,6 +73,40 @@
       "year": 2022,
       "cnty": "JPN",
       "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001360502/",
+      "mstn": "CC"
+    },
+    {
+      "name": "スワーヴリチャード",
+      "year": 2014,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001190059/",
+      "mstn": ""
+    },
+    {
+      "name": "Sailing Home",
+      "year": 2015,
+      "cnty": "GB",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001328548/",
+      "mstn": ""
+    },
+    {
+      "name": "Shamardal",
+      "year": 2002,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000858233/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2022,
+      "cnty": "JPN",
+      "sex": "F",
       "href": "https://www.jbis.or.jp/horse/0001361419/",
       "mstn": "CC"
     },
@@ -15909,6 +15943,40 @@
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000372784/",
       "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2022,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001352434/",
+      "mstn": "TT"
+    },
+    {
+      "name": "レイデオロ",
+      "year": 2014,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001189721/",
+      "mstn": "TT"
+    },
+    {
+      "name": "ミスペンバリー",
+      "year": 2002,
+      "cnty": "IRE",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000853083/",
+      "mstn": "TT"
+    },
+    {
+      "name": "Montjeu",
+      "year": 1996,
+      "cnty": "IRE",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000369845/",
+      "mstn": "TT"
     }
   ],
   [
