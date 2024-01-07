@@ -286,7 +286,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0001240055/",
-      "mstn": ""
+      "mstn": "CC"
     },
     {
       "name": "シゲルゴホウサイ",
@@ -626,7 +626,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0001240055/",
-      "mstn": ""
+      "mstn": "CC"
     },
     {
       "name": "シャワーブーケ",
@@ -1254,6 +1254,74 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0001082309/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "タイキマクスウェル",
+      "year": 2019,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001307149/",
+      "mstn": "CC"
+    },
+    {
+      "name": "ホッコータルマエ",
+      "year": 2009,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001107477/",
+      "mstn": ""
+    },
+    {
+      "name": "マロノヴィーナス",
+      "year": 2007,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001047836/",
+      "mstn": ""
+    },
+    {
+      "name": "タニノギムレット",
+      "year": 1999,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000611525/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "リンギングフォン",
+      "year": 2019,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001312733/",
+      "mstn": "CC"
+    },
+    {
+      "name": "Drefong",
+      "year": 2013,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001240055/",
+      "mstn": "CC"
+    },
+    {
+      "name": "ノーブルソニック",
+      "year": 2012,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001153734/",
+      "mstn": ""
+    },
+    {
+      "name": "ネオユニヴァース",
+      "year": 2000,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000701577/",
       "mstn": ""
     }
   ],
@@ -3090,6 +3158,40 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000714422/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Drefong",
+      "year": 2013,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001240055/",
+      "mstn": "CC"
+    },
+    {
+      "name": "Gio Ponti",
+      "year": 2005,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001053770/",
+      "mstn": ""
+    },
+    {
+      "name": "Eltimaas",
+      "year": 2007,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001112713/",
+      "mstn": ""
+    },
+    {
+      "name": "Ghostzapper",
+      "year": 2000,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000978108/",
       "mstn": ""
     }
   ],
@@ -7630,7 +7732,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0001240055/",
-      "mstn": ""
+      "mstn": "CC"
     },
     {
       "name": "スズカシャンティー",
@@ -7970,7 +8072,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0001240055/",
-      "mstn": ""
+      "mstn": "CC"
     },
     {
       "name": "レトロクラシック",
@@ -11285,6 +11387,40 @@
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000336430/",
       "mstn": "CC"
+    }
+  ],
+  [
+    {
+      "name": "セイウンアワード",
+      "year": 2012,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001153611/",
+      "mstn": "CT"
+    },
+    {
+      "name": "キングヘイロー",
+      "year": 1995,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000294840/",
+      "mstn": ""
+    },
+    {
+      "name": "ハッスルメール",
+      "year": 2003,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000754434/",
+      "mstn": ""
+    },
+    {
+      "name": "Victory Speech",
+      "year": 1993,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000360095/",
+      "mstn": ""
     }
   ],
   [
@@ -17983,6 +18119,40 @@
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000700008/",
       "mstn": "TT"
+    }
+  ],
+  [
+    {
+      "name": "オメガドラクロワ",
+      "year": 2014,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001190726/",
+      "mstn": "TT"
+    },
+    {
+      "name": "ステイゴールド",
+      "year": 1994,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000286968/",
+      "mstn": "TT"
+    },
+    {
+      "name": "Cativa",
+      "year": 2000,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001056017/",
+      "mstn": ""
+    },
+    {
+      "name": "Sir Cat",
+      "year": 1993,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000365209/",
+      "mstn": ""
     }
   ],
   [
