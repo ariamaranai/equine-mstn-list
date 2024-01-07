@@ -2,11 +2,11 @@ a {
   background-color: #222;
   color: #999;
   width: 999;
-  padding-top: 1ex;
+  padding-top: .3em;
   text-decoration: unset;
   font-size: clamp(8px,2.2vw,12px);
   letter-spacing: -.2;
-  line-height: 0;
+  line-height: 0
 }
 #p {
   display: contents;
@@ -29,8 +29,8 @@ a {
 p {
   display: flex;
   gap: 1px;
-  height: 44;
-  margin: 0 0 1 0
+  margin: 0 0 1 0;
+  height: 40
 }
 [e] {
   background-color: #145

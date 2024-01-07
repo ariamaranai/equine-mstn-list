@@ -4892,7 +4892,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000335975/",
-      "mstn": ""
+      "mstn": "CC"
     }
   ],
   [
@@ -5946,7 +5946,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000335975/",
-      "mstn": ""
+      "mstn": "CC"
     }
   ],
   [
@@ -6320,7 +6320,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000335975/",
-      "mstn": ""
+      "mstn": "CC"
     }
   ],
   [
@@ -6490,7 +6490,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000335975/",
-      "mstn": ""
+      "mstn": "CC"
     }
   ],
   [
@@ -6694,6 +6694,40 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000334079/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Mr. Prospector",
+      "year": 1970,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000335975/",
+      "mstn": "CC"
+    },
+    {
+      "name": "Raise a Native",
+      "year": 1961,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000334066/",
+      "mstn": ""
+    },
+    {
+      "name": "Gold Digger",
+      "year": 1961,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000389632/",
+      "mstn": ""
+    },
+    {
+      "name": "Nashua",
+      "year": 1952,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000334373/",
       "mstn": ""
     }
   ],
@@ -14234,7 +14268,7 @@
       "cnty": "USA",
       "sex": "F",
       "href": "https://www.jbis.or.jp/horse/0000879960/",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "Mr. Prospector",
@@ -14242,7 +14276,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000335975/",
-      "mstn": ""
+      "mstn": "CC"
     }
   ],
   [
@@ -15199,6 +15233,40 @@
   ],
   [
     {
+      "name": "Bless",
+      "year": 1999,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000879960/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Mr. Prospector",
+      "year": 1970,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000335975/",
+      "mstn": "CC"
+    },
+    {
+      "name": "Angel Fever",
+      "year": 1993,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000621732/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Danzig",
+      "year": 1977,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000336082/",
+      "mstn": "CC"
+    }
+  ],
+  [
+    {
       "name": "High Chaparral",
       "year": 1999,
       "cnty": "IRE",
@@ -15262,7 +15330,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000335975/",
-      "mstn": ""
+      "mstn": "CC"
     }
   ],
   [
@@ -15573,6 +15641,40 @@
   ],
   [
     {
+      "name": "Myhrr",
+      "year": 1997,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000790654/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Mr. Prospector",
+      "year": 1970,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000335975/",
+      "mstn": "CC"
+    },
+    {
+      "name": "Miesque",
+      "year": 1984,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000411358/",
+      "mstn": ""
+    },
+    {
+      "name": "Nureyev",
+      "year": 1977,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000336085/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "サイレンスビューティ",
       "year": 1997,
       "cnty": "JPN",
@@ -15772,7 +15874,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000335975/",
-      "mstn": ""
+      "mstn": "CC"
     }
   ],
   [
@@ -15811,6 +15913,40 @@
   ],
   [
     {
+      "name": "Angel Fever",
+      "year": 1993,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000621732/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Danzig",
+      "year": 1977,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000336082/",
+      "mstn": "CC"
+    },
+    {
+      "name": "Rowdy Angel",
+      "year": 1979,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000404769/",
+      "mstn": ""
+    },
+    {
+      "name": "Halo",
+      "year": 1969,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000335154/",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
       "name": "Flying Spur",
       "year": 1992,
       "cnty": "AUS",
@@ -15832,7 +15968,7 @@
       "cnty": "USA",
       "sex": "F",
       "href": "https://www.jbis.or.jp/horse/0000434439/",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "Mr. Prospector",
@@ -15840,7 +15976,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000335975/",
-      "mstn": ""
+      "mstn": "CC"
     }
   ],
   [
@@ -15874,6 +16010,40 @@
       "cnty": "FR",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000334064/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Garimpeiro",
+      "year": 1987,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000438926/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Mr. Prospector",
+      "year": 1970,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000335975/",
+      "mstn": "CC"
+    },
+    {
+      "name": "Far Flying",
+      "year": 1980,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000414960/",
+      "mstn": ""
+    },
+    {
+      "name": "Far North",
+      "year": 1973,
+      "cnty": "CAN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000336089/",
       "mstn": ""
     }
   ],
@@ -15976,7 +16146,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000335975/",
-      "mstn": ""
+      "mstn": "CC"
     }
   ],
   [
@@ -16010,6 +16180,40 @@
       "cnty": "FR",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000334355/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Rolls",
+      "year": 1984,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000434439/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Mr. Prospector",
+      "year": 1970,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000335975/",
+      "mstn": "CC"
+    },
+    {
+      "name": "Grand Luxe",
+      "year": 1974,
+      "cnty": "CAN",
+      "sex": "F",
+      "href": "",
+      "mstn": "https://www.jbis.or.jp/horse/0000393485/"
+    },
+    {
+      "name": "Sir Ivor",
+      "year": 1965,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000333957/",
       "mstn": ""
     }
   ],
@@ -18620,7 +18824,7 @@
       "cnty": "USA",
       "sex": "F",
       "href": "https://www.jbis.or.jp/horse/0000790654/",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "Mr. Prospector",
@@ -18628,7 +18832,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000335975/",
-      "mstn": ""
+      "mstn": "CC"
     }
   ],
   [
@@ -19062,7 +19266,7 @@
       "cnty": "USA",
       "sex": "F",
       "href": "https://www.jbis.or.jp/horse/0000438926/",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "Mr. Prospector",
@@ -19070,7 +19274,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000335975/",
-      "mstn": ""
+      "mstn": "CC"
     }
   ],
   [
