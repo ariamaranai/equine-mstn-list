@@ -4,6 +4,6 @@ addEventListener('wheel',Number.isInteger(devicePixelRatio) ?
 ondragstart =a=> !1,
 oninput =a=> {
   let r = $total, s = 0, e;
-  while ((e = document.body.children[r]).className = e.textContent.includes(a.target.value) ? (++s,'p') : 's', --r);  
-  p[0].textContent = s
+  while ((e = document.body.children[r]).className = e.textContent.includes(a.target.value) ? (++s,'p') : 's', --r);
+  document.getElementById("p").textContent = s
 }
