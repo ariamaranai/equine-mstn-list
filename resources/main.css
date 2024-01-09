@@ -1,11 +1,11 @@
 a {
   background-color: #222;
-  color: #999;
-  width: 999;
-  padding-top: .3em;
+  padding-top: .5ex;
   text-decoration: unset;
-  font-size: clamp(8px,2.2vw,12px);
+  overflow: clip;
+  color: #999;
   letter-spacing: -.2;
+  width: 999;
   line-height: 0
 }
 #p {
@@ -14,9 +14,10 @@ a {
 }
 #a {
   background-color: #333;
+  z-index: 3;
+  font-size: 12;
   text-align: initial;
-  height: 32;
-  z-index: 9;
+  height: 36;
   position: sticky;
   top: 0
 }
@@ -28,9 +29,11 @@ a {
 }
 p {
   display: flex;
+  padding-top: 1;
+  font-size: clamp(9px,2.2vw,12px);
+  height: 7ex;
   gap: 1px;
-  margin: 0 0 1 0;
-  height: 40
+  margin: 0
 }
 [e] {
   background-color: #145
@@ -41,7 +44,9 @@ input {
 }
 :first-line {
   color: #ccc;
-  font: clamp(10px,2.2vw,12px)/2 hiragino kaku gothic pro,meiryo,sans-serif;
+  font-family: hiragino kaku gothic pro,meiryo,sans-serif;
+  font-size: clamp(10px,2.2vw,12px);
+  line-height: 2;
   letter-spacing: 0
 }
 ::-webkit-scrollbar {
@@ -61,10 +66,12 @@ input {
 body {
   background-color: #000;
   color: #ccc;
-  font: 12px/32px menlo,consolas,monospace;
+  font-family: menlo,consolas,monospace;
+  line-height: 3;
+  font-size: 12;
+  text-align: center;
   white-space: pre;
   margin: 0 max(0px,calc(50% - 432px));
-  text-align: center;
   overflow: clip scroll;
   user-select: none
 }
