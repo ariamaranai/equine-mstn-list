@@ -1,9 +1,13 @@
-addEventListener('wheel',devicePixelRatio == 1 ?
-  a => a.preventDefault(document.body.scrollTop += (a.deltaY < 0 ? 0 : 41) - document.body.scrollTop % 41 || -41) :
-  a => a.preventDefault(document.body.scrollTop += a.deltaY < 0 ? -41 : 41), {passive: !1}),
-ondragstart =a=> !1,
-oninput =a=> {
-  let r = $total, s = 0, e;
-  while ((e = document.body.children[r]).className = e.textContent.includes(a.target.value) ? (++s,'p') : 's', --r);
-  document.getElementById("p").textContent = s
-}
+oninput =n=> {
+  let e = document.body.children, r = $total, t = 0;
+  while (e[r].className = e[r].textContent.includes(n.target.value) ? '' : (++t,'p'), --r);
+  p.textContent = t
+},
+onload =t=> {
+  Number.isInteger(t = a.nextSibling.getBoundingClientRect().height) && addEventListener('wheel', n => {
+    let e = document.body.scrollTop;
+    n.preventDefault(),
+    document.body.scrollTop -= n.deltaY < 0 ? e % t || t : e % t - t || -t
+  }, { passive: !1 })
+},
+ondragstart =n=> !1

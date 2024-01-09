@@ -1,10 +1,10 @@
 a {
   background-color: #222;
   padding-top: 1ex;
-  text-decoration: unset;
   overflow: clip;
   color: #999;
   letter-spacing: -.2;
+  text-decoration: unset;
   width: 999;
   line-height: 0
 }
@@ -42,19 +42,6 @@ input {
   all: unset;
   flex-grow: 1
 }
-:first-line {
-  color: #ccc;
-  font-family: hiragino kaku gothic pro,meiryo,sans-serif;
-  font-size: clamp(10px,2.2vw,12px);
-  line-height: 2;
-  letter-spacing: 0
-}
-::-webkit-scrollbar {
-  width: 20
-}
-::-webkit-scrollbar-thumb {
-  background-color: #666
-}
 ::placeholder {
   filter: contrast(.7)
 }
@@ -62,6 +49,13 @@ input {
   p:hover {
     filter: contrast(.7) brightness(1.1)
   }
+}
+:first-line {
+  color: #ccc;
+  font-family: hiragino kaku gothic pro,meiryo,sans-serif;
+  font-size: clamp(10px,2.2vw,12px);
+  line-height: 2;
+  letter-spacing: 0
 }
 body {
   background-color: #000;
@@ -75,9 +69,12 @@ body {
   overflow: clip scroll;
   user-select: none
 }
+::-webkit-scrollbar {
+  width: 20
+}
 .s {
   display: none
 }
-.p {
-  display: flex
+::-webkit-scrollbar-thumb {
+  background-color: #666
 }
