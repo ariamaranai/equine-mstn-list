@@ -116,7 +116,7 @@
       "cnty": "NZ",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0001192943/",
-      "mstn": "CT"
+      "mstn": ""
     },
     {
       "name": "Coralina",
@@ -13630,40 +13630,6 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000336395/",
-      "mstn": ""
-    }
-  ],
-  [
-    {
-      "name": "So You Think",
-      "year": 2006,
-      "cnty": "NZ",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0000719408/",
-      "mstn": "CT"
-    },
-    {
-      "name": "High Chaparral",
-      "year": 1999,
-      "cnty": "IRE",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0000719408/",
-      "mstn": "CT"
-    },
-    {
-      "name": "Triassic",
-      "year": 1990,
-      "cnty": "NZ",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0000437966/",
-      "mstn": ""
-    },
-    {
-      "name": "Tights",
-      "year": 1981,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0000337451/",
       "mstn": ""
     }
   ],
