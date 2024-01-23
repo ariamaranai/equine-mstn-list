@@ -7413,6 +7413,40 @@
   ],
   [
     {
+      "name": "アルゼンチンタンゴ",
+      "year": 2021,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001340105/",
+      "mstn": "CT"
+    },
+    {
+      "name": "キズナ",
+      "year": 2010,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001120570/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Mango Tango",
+      "year": 2013,
+      "cnty": "FR",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001249547/",
+      "mstn": ""
+    },
+    {
+      "name": "Siyouni",
+      "year": 2007,
+      "cnty": "FR",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001177659/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "アンモシエラ",
       "year": 2021,
       "cnty": "JPN",
