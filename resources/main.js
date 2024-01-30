@@ -6,6 +6,6 @@ onload =t=>
 ondragstart =n=> !1,
 oninput =n=> {
   let e = document.body.children, r = $total, t = 0;
-  while (e[r].className = e[r].textContent.includes(n.target.value) ? '' : (++t,'p'), --r);
+  while (e[r].className = e[r].textContent.includes(n.target.value) ? '' : (++t,'s'), --r);
   p.textContent = t
 }
