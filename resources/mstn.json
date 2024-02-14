@@ -16256,6 +16256,40 @@
       "name": "-",
       "year": 2022,
       "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001361037/",
+      "mstn": "TT"
+    },
+    {
+      "name": "Majestic Warrior",
+      "year": 2005,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001083691/",
+      "mstn": "TT"
+    },
+    {
+      "name": "ミッキーパパイア",
+      "year": 2015,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "",
+      "mstn": "https://www.jbis.or.jp/horse/0001208602/"
+    },
+    {
+      "name": "ルーラーシップ",
+      "year": 2007,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001042049/",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2022,
+      "cnty": "JPN",
       "sex": "F",
       "href": "https://www.jbis.or.jp/horse/0001356905/",
       "mstn": "TT"
@@ -16316,6 +16350,40 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000372784/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2022,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001353921/",
+      "mstn": "TT"
+    },
+    {
+      "name": "ウインブライト",
+      "year": 2014,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001188466/",
+      "mstn": ""
+    },
+    {
+      "name": "ルージュマジック",
+      "year": 2008,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001092033/",
+      "mstn": ""
+    },
+    {
+      "name": "Afleet",
+      "year": 1984,
+      "cnty": "CAN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000337421/",
       "mstn": ""
     }
   ],
