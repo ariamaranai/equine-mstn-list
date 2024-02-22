@@ -1,25 +1,23 @@
 a {
   background-color: #222;
-  padding-top: 1ex;
-  overflow: clip;
   color: #999;
-  letter-spacing: -.2;
   text-decoration: unset;
   width: 999;
+  text-indent: -4px;
+  font-size: 9;
+  padding: 6 0 0 6;
+  overflow: clip;
   line-height: 0
+}
+#a {
+  background-color: #333;
+  z-index: 9;
+  position: sticky;
+  top: 0
 }
 #p {
   display: contents;
   color: #cb0
-}
-#a {
-  background-color: #333;
-  z-index: 3;
-  font-size: 12;
-  text-align: initial;
-  height: 36;
-  position: sticky;
-  top: 0
 }
 [a] {
   background-color: #340
@@ -27,54 +25,59 @@ a {
 [s] {
   background-color: #531
 }
-p {
-  display: flex;
-  padding-top: 1;
-  font-size: clamp(9px,2.2vw,12px);
-  height: 7ex;
-  gap: 1px;
-  margin: 0
+::-webkit-scrollbar {
+  width: 20
 }
 [e] {
   background-color: #145
+}
+p {
+  display: flex;
+  box-sizing: border-box;
+  height: 32;
+  text-align: initial;
+  gap: 1px;
+  margin: 0;
+  padding-top: 1
+}
+::-webkit-scrollbar-thumb {
+  background-color: #666
+}
+body {
+  background-color: #000;
+  color: #bbb;
+  font-family: tahoma,sans-serif;
+  font-size: 12;
+  text-align: center;
+  line-height: 32px;
+  margin: 0 max(0px,calc(50% - 432px));
+  white-space: pre;
+  overflow: clip scroll;
+  user-select: none
+}
+.a {
+  display: none
+}
+.p {
+  display: contents;
+  color: #bbb;
+  font-size: 12
+}
+:first-line {
+  line-height: 1.6;
+  color: #bbb;
+  font-family: hiragino kaku gothic pro,meiryo,sans-serif;
+  font-size: clamp(10px,2.2vw,12px)
 }
 input {
   all: unset;
   flex-grow: 1
 }
 ::placeholder {
-  filter: contrast(.7)
+  filter: contrast(.1)
 }
 @media(hover) {
   p:hover {
     filter: contrast(.7) brightness(1.1)
   }
-}
-:first-line {
-  color: #ccc;
-  font-family: hiragino kaku gothic pro,meiryo,sans-serif;
-  font-size: clamp(10px,2.2vw,12px);
-  line-height: 2;
-  letter-spacing: 0
-}
-body {
-  background-color: #000;
-  color: #ccc;
-  font-family: menlo,consolas,monospace;
-  line-height: 3;
-  font-size: 12;
-  text-align: center;
-  white-space: pre;
-  margin: 0 max(0px,calc(50% - 432px));
-  overflow: clip scroll;
-  user-select: none
-}
-::-webkit-scrollbar {
-  width: 20
-}
-.s {
-  display: none
-}
-::-webkit-scrollbar-thumb {
-  background-color: #666
 }

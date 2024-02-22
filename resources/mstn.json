@@ -242,6 +242,40 @@
       "name": "-",
       "year": 2022,
       "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001360601/",
+      "mstn": "CC"
+    },
+    {
+      "name": "Sinister Minister",
+      "year": 2003,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001025279/",
+      "mstn": "CT"
+    },
+    {
+      "name": "コーラルビュー",
+      "year": 2008,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001089034/",
+      "mstn": ""
+    },
+    {
+      "name": "キングヘイロー",
+      "year": 1995,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000294840/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2022,
+      "cnty": "JPN",
       "sex": "M",
       "href": "https://www.jbis.or.jp/horse/0001355121/",
       "mstn": "CC"
@@ -14451,6 +14485,40 @@
   ],
   [
     {
+      "name": "Sinister Minister",
+      "year": 2003,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001025279/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Old Trieste",
+      "year": 1995,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000369550/",
+      "mstn": ""
+    },
+    {
+      "name": "Sweet Minister",
+      "year": 1997,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000842401/",
+      "mstn": ""
+    },
+    {
+      "name": "The Prime Minister",
+      "year": 1987,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000340749/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Stormy River",
       "year": 2003,
       "cnty": "FR",
@@ -16538,7 +16606,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0001025279/",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "ビアンカリボン",

@@ -24,6 +24,6 @@ for (let horse of horses) {
   html += "</a>";
 }
 
-html += "</p>by <a href=//ariamaranai.github.io/ style=display:contents>@ariamaranai";
+html += "</p>by <a href=//ariamaranai.github.io/ class=p>@ariamaranai";
 Bun.write("../index.htm", html);
 console.log(`size: ${Bun.gzipSync(Buffer.from(html)).length}`);

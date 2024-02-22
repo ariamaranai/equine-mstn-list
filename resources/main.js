@@ -1,11 +1,10 @@
-onload =t=>
-  addEventListener('wheel', Number.isInteger(t = a.nextSibling.getBoundingClientRect().height) ? 
-      n => n.preventDefault(document.body.scrollTop += n.deltaY > 0 ? t - document.body.scrollTop % t || t : -document.body.scrollTop % t || -t) :
-      n => n.preventDefault(document.body.scrollTop += n.deltaY > 0 ? t : -t),
-  { passive: !1 }),
+addEventListener('wheel', Number.isInteger(devicePixelRatio) ? 
+  n => n.preventDefault(document.body.scrollTop += n.deltaY > 0 ? 32 - document.body.scrollTop % 32 || 32 : -document.body.scrollTop % 32 || -32) :
+  n => n.preventDefault(document.body.scrollTop += n.deltaY > 0 ? 32 : -32),
+{ passive: !1 }),
 ondragstart =n=> !1,
 oninput =n=> {
   let e = document.body.children, r = $total, t = 0;
-  while (e[r].className = e[r].textContent.includes(n.target.value) ? '' : (++t,'s'), --r);
+  while (e[r].className = e[r].textContent.includes(n.target.value) ? '' : (++t,'a'), --r);
   p.textContent = t
 }
