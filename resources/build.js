@@ -10,6 +10,7 @@ for (let horse of horses) {
   for (let i = 0; i < 4; ++i) {
     let h = horse[i];
     let href = h.href;
+    let mstn = h.mstn;
     if (href)
       if (href[12] == "j")
         href = " href=" + href.slice(-11);
@@ -17,13 +18,12 @@ for (let horse of horses) {
         href = " href=//www.pedigreequery.com/" + href.slice(30).split("+").map(v => v[0].toUpperCase() + v.slice(1)).join("+");
     else
       href = "";
-    let mstn = h.mstn;
     mstn = mstn ? mstn == "CC" ? " s" : mstn == "CT" ? " a" : " e" : "";
     html += `<a${href}${mstn}>${h.name}\u000a${h.year}-${h.cnty}${i ? "" : "-" + h.sex}`;
   }
   html += "</a>";
 }
 
-html += "</p>by <a href=//ariamaranai.github.io/ class=p>@ariamaranai";
+html += "</p>by <a href=//ariamaranai.github.io/ Class=p>@ariamaranai";
 Bun.write("../index.htm", html);
 console.log(`size: ${Bun.gzipSync(Buffer.from(html)).length}`);
