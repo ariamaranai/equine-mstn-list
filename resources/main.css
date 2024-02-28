@@ -59,6 +59,7 @@ input {
 :first-line {
   line-height: 1.75;
   color: #bbb;
+  font-family: sans-serif;
   font-size: clamp(10px,2.2vw,12px)
 }
 body {
