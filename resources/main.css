@@ -3,7 +3,7 @@ a {
   color: #999;
   text-decoration: unset;
   width: 999;
-  text-indent: -4;
+  text-indent: -2;
   font-family: tahoma,sans-serif;
   font-size: 9;
   padding: 8 0 0 6;
@@ -21,25 +21,25 @@ a {
   color: #cb0
 }
 [a] {
-  background-color: #340
+  background-color: #230
 }
 [s] {
-  background-color: #531
-}
-::-webkit-scrollbar {
-  width: 20
+  background-color: #430
 }
 [e] {
-  background-color: #145
+  background-color: #034
 }
 p {
   display: flex;
   box-sizing: border-box;
-  gap: 1px;
   text-align: initial;
-  margin: 0;
   height: 40;
-  padding-top: 1
+  padding-top: .5;
+  gap: .5px;
+  margin: 0
+}
+::-webkit-scrollbar {
+  width: 20
 }
 ::-webkit-scrollbar-thumb {
   background-color: #666
@@ -59,18 +59,19 @@ input {
 :first-line {
   line-height: 1.75;
   color: #bbb;
-  font-family: hiragino sans,meiryo,sans-serif;
-  font-size: clamp(10px,2.2vw,12px)
+  font-family: meiryo,hiragino sans,noto sans jp,sans-serif;
+  font-size: clamp(10px,2.2vw,12px);
+  font-feature-settings: "palt"
 }
 body {
   background-color: #000;
   color: #bbb;
-  font-family: hiragino sans,meiryo,sans-serif;
+  font-family: sans-serif;
   font-size: 12;
-  line-height: 40px;
-  text-align: center;
   overflow: clip scroll;
-  margin: 0 max(0px,calc(50% - 432px));
+  line-height: 40px;
+  margin: 0 max(0px,calc(50% - 432px)) 40;
+  text-align: center;
   white-space: pre;
   user-select: none
 }
