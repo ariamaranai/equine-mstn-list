@@ -29,6 +29,13 @@ a {
 [e] {
   background-color: #034
 }
+.a {
+  display: none
+}
+.p {
+  display: contents;
+  font-size: 12
+}
 p {
   display: flex;
   box-sizing: border-box;
@@ -44,24 +51,12 @@ p {
 ::-webkit-scrollbar-thumb {
   background-color: #666
 }
-input {
-  all: unset;
-  flex-grow: 1
-}
-::placeholder {
-  filter: contrast(.1)
-}
-@media(hover) {
-  p:hover {
-    filter: contrast(.7) brightness(1.1)
-  }
-}
 :first-line {
   line-height: 1.75;
   color: #bbb;
   font-family: meiryo,hiragino sans,noto sans jp,sans-serif;
   font-size: clamp(10px,2.2vw,12px);
-  font-feature-settings: "palt"
+  font-feature-settings: 'palt'
 }
 body {
   background-color: #000;
@@ -73,12 +68,17 @@ body {
   margin: 0 max(0px,calc(50% - 432px)) 40;
   text-align: center;
   white-space: pre;
-  user-select: none
+  font-weight: 300
 }
-.a {
-  display: none
+::placeholder {
+  filter: contrast(.1)
 }
-.p {
-  display: contents;
-  font-size: 12
+@media(hover) {
+  p:hover {
+    filter: contrast(.7) brightness(1.1)
+  }
+}
+input {
+  all: unset;
+  flex-grow: 1
 }
