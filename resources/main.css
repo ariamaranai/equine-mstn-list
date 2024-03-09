@@ -4,15 +4,15 @@ a {
   text-decoration: unset;
   width: 999;
   text-indent: -2;
+  overflow: clip;
   font-family: tahoma,sans-serif;
   font-size: 9;
   padding: 8 0 0 6;
-  overflow: clip;
   line-height: 0
 }
 #a {
   background-color: #333;
-  z-index: 9;
+  z-index: 1;
   position: sticky;
   top: 0
 }
@@ -24,25 +24,19 @@ a {
   background-color: #230
 }
 [s] {
-  background-color: #430
+  background-color: #420
 }
 [e] {
   background-color: #034
 }
-.a {
-  display: none
-}
-.p {
-  display: contents;
-  font-size: 12
-}
 p {
   display: flex;
   box-sizing: border-box;
-  text-align: initial;
   height: 40;
-  padding-top: .5;
-  gap: .5px;
+  text-align: initial;
+  padding-top: 1;
+  white-space: pre;
+  gap: 1px;
   margin: 0
 }
 ::-webkit-scrollbar {
@@ -51,23 +45,26 @@ p {
 ::-webkit-scrollbar-thumb {
   background-color: #666
 }
+input {
+  all: unset;
+  flex-grow: 1
+}
 :first-line {
-  line-height: 1.75;
+  line-height: 2;
   color: #bbb;
-  font-family: meiryo,hiragino sans,noto sans jp,sans-serif;
-  font-size: clamp(10px,2.2vw,12px);
-  font-feature-settings: 'palt'
+  font-family: arial,sans-serif;
+  font-size: clamp(10px,2.2vw,12px)
 }
 body {
   background-color: #000;
   color: #bbb;
-  font-family: sans-serif;
+  font-family: arial,sans-serif;
   font-size: 12;
   overflow: clip scroll;
   line-height: 40px;
   margin: 0 max(0px,calc(50% - 432px)) 40;
   text-align: center;
-  white-space: pre;
+  font-feature-settings: 'palt';
   font-weight: 300
 }
 ::placeholder {
@@ -78,7 +75,10 @@ body {
     filter: contrast(.7) brightness(1.1)
   }
 }
-input {
-  all: unset;
-  flex-grow: 1
+.a {
+  display: none
+}
+.p {
+  display: contents;
+  font-size: 12
 }
