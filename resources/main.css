@@ -1,19 +1,19 @@
 a {
   background-color: #222;
-  color: #999;
-  text-decoration: unset;
-  width: 999;
   text-indent: -2;
-  overflow: clip;
-  font-family: tahoma,sans-serif;
-  font-size: 9;
+  text-decoration: unset;
+  color: #999;
+  width: 999;
+  white-space: pre;
   padding: 8 0 0 6;
+  overflow: clip;
+  font-size: 9;
   line-height: 0
 }
 #a {
-  background-color: #333;
-  z-index: 1;
+  background-color: #333; 
   position: sticky;
+  z-index: 1;
   top: 0
 }
 #p {
@@ -35,45 +35,8 @@ p {
   height: 40;
   text-align: initial;
   padding-top: 1;
-  white-space: pre;
   gap: 1px;
   margin: 0
-}
-::-webkit-scrollbar {
-  width: 20
-}
-::-webkit-scrollbar-thumb {
-  background-color: #666
-}
-input {
-  all: unset;
-  flex-grow: 1
-}
-:first-line {
-  line-height: 2;
-  color: #bbb;
-  font-family: arial,sans-serif;
-  font-size: clamp(10px,2.2vw,12px)
-}
-body {
-  background-color: #000;
-  color: #bbb;
-  font-family: arial,sans-serif;
-  font-size: 12;
-  overflow: clip scroll;
-  line-height: 40px;
-  margin: 0 max(0px,calc(50% - 432px)) 40;
-  text-align: center;
-  font-feature-settings: 'palt';
-  font-weight: 300
-}
-::placeholder {
-  filter: contrast(.1)
-}
-@media(hover) {
-  p:hover {
-    filter: contrast(.7) brightness(1.1)
-  }
 }
 .a {
   display: none
@@ -81,4 +44,38 @@ body {
 .p {
   display: contents;
   font-size: 12
+}
+::-webkit-scrollbar {
+  width: 20
+}
+::-webkit-scrollbar-thumb {
+  background-color: #666
+}
+body {
+  background-color: #000;
+  color: #bbb;
+  line-height: 40px;
+  margin: 0 max(0px,calc(50% - 432px)) 40;
+  text-align: center;
+  overflow: clip scroll;
+  font-feature-settings: 'palt';
+  font-family: tahoma,sans-serif;
+  font-size: 12
+}
+::Placeholder {
+  filter: contrast(.1)
+}
+@media(hover) {
+  p:hover {
+    filter: contrast(.7) brightness(1.1)
+  }
+}
+:first-line {
+  color: #bbb;
+  line-height: 2;
+  font-size: clamp(10px,2.2vw,12px)
+}
+input {
+  all: unset;
+  flex-grow: 1
 }

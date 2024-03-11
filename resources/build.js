@@ -24,6 +24,6 @@ for (let i = 0; i < total; ++i) {
   html += "</a>"
 }
 
-html += "</p>by<a href=//ariamaranai.github.io/ Class=p>@ariamaranai";
+html += "</p>by <a href=//ariamaranai.github.io/ Class=p>@ariamaranai";
 Bun.write("../index.htm", html);
 console.log(`size: ${Bun.gzipSync(Buffer.from(html)).length}`);
