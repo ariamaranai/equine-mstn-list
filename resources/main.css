@@ -55,7 +55,7 @@ body {
   background-color: #000;
   color: #bbb;
   line-height: 40px;
-  margin: 0 max(0px,calc(50% - 432px)) 40;
+  margin: 0 max(0px,calc(50% - 412px)) 40;
   text-align: center;
   overflow: clip scroll;
   font-feature-settings: 'palt';
