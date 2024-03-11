@@ -4,7 +4,6 @@ a {
   text-decoration: unset;
   color: #999;
   width: 999;
-  white-space: pre;
   padding: 8 0 0 6;
   overflow: clip;
   font-size: 9;
@@ -32,6 +31,7 @@ a {
 p {
   display: flex;
   box-sizing: border-box;
+  white-space: pre;
   height: 40;
   text-align: initial;
   padding-top: 1;
