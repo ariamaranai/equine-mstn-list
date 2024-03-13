@@ -1293,6 +1293,40 @@
   ],
   [
     {
+      "name": "Loving And Giving",
+      "year": 2019,
+      "cnty": "IRE",
+      "sex": "M",
+      "href": "https://www.pedigreequery.com/loving+and+giving4",
+      "mstn": "CC"
+    },
+    {
+      "name": "Fastnet Rock",
+      "year": 2001,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001019761/",
+      "mstn": "CC"
+    },
+    {
+      "name": "Fallen In Love",
+      "year": 2006,
+      "cnty": "GB",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001274006/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Galileo",
+      "year": 1998,
+      "cnty": "IRE",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000714343/",
+      "mstn": "TT"
+    }
+  ],
+  [
+    {
       "name": "Riii Grand Duke",
       "year": 2019,
       "cnty": "USA",
@@ -10609,6 +10643,40 @@
   ],
   [
     {
+      "name": "Tolemac",
+      "year": 2015,
+      "cnty": "AUS",
+      "sex": "M",
+      "href": "https://www.pedigreequery.com/tolemac",
+      "mstn": "CT"
+    },
+    {
+      "name": "Camelot",
+      "year": 2009,
+      "cnty": "GB",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001228789/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Zermatt",
+      "year": 2009,
+      "cnty": "AUS",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/zermatt15",
+      "mstn": ""
+    },
+    {
+      "name": "Shaft",
+      "year": 2004,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001078404/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "インディチャンプ",
       "year": 2015,
       "cnty": "JPN",
@@ -11786,7 +11854,7 @@
       "cnty": "GB",
       "sex": "F",
       "href": "https://www.jbis.or.jp/horse/0000743929/",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "Danehill",
@@ -14383,6 +14451,40 @@
   ],
   [
     {
+      "name": "Fallen In Love",
+      "year": 2006,
+      "cnty": "GB",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001274006/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Galileo",
+      "year": 1998,
+      "cnty": "IRE",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000714343/",
+      "mstn": "TT"
+    },
+    {
+      "name": "Fallen Star",
+      "year": 1998,
+      "cnty": "GB",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000745238/",
+      "mstn": ""
+    },
+    {
+      "name": "Brief Truce",
+      "year": 1989,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000339559/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Love Conquers All",
       "year": 2006,
       "cnty": "AUS",
@@ -15874,6 +15976,40 @@
       "cnty": "IRE",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000336543/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Dolores",
+      "year": 1999,
+      "cnty": "GB",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000743929/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Danehill",
+      "year": 1986,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000337424/",
+      "mstn": "CC"
+    },
+    {
+      "name": "Agnus",
+      "year": 1992,
+      "cnty": "IRE",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000743930/",
+      "mstn": ""
+    },
+    {
+      "name": "In The Wings",
+      "year": 1986,
+      "cnty": "GB",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000341850/",
       "mstn": ""
     }
   ],
