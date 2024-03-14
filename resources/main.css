@@ -4,13 +4,13 @@ a {
   text-decoration: unset;
   color: #999;
   width: 999;
-  padding: 8 0 0 6;
   overflow: clip;
+  padding: 8 0 0 6;
   font-size: 9;
   line-height: 0
 }
 #a {
-  background-color: #333; 
+  background-color: #222; 
   position: sticky;
   z-index: 1;
   top: 0
