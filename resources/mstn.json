@@ -104,6 +104,40 @@
   [
     {
       "name": "-",
+      "year": 2023,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001368235/",
+      "mstn": "CC"
+    },
+    {
+      "name": "ロードカナロア",
+      "year": 2008,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001089850/",
+      "mstn": "CC"
+    },
+    {
+      "name": "マストバイアイテム",
+      "year": 2010,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001048946/",
+      "mstn": ""
+    },
+    {
+      "name": "Afleet",
+      "year": 1984,
+      "cnty": "CAN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000337421/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "-",
       "year": 2022,
       "cnty": "AUS",
       "sex": "M",
@@ -7341,6 +7375,40 @@
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0001083691/",
       "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2023,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001369741/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Four Wheel Drive",
+      "year": 2017,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001341999/",
+      "mstn": ""
+    },
+    {
+      "name": "ブレイヴフィート",
+      "year": 2010,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001125767/",
+      "mstn": ""
+    },
+    {
+      "name": "キングカメハメハ",
+      "year": 2001,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000729458/",
+      "mstn": "CT"
     }
   ],
   [
