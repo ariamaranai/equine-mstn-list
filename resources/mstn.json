@@ -17681,6 +17681,40 @@
   ],
   [
     {
+      "name": "Flexible",
+      "year": 1996,
+      "cnty": "IRE",
+      "sex": "S",
+      "href": "",
+      "mstn": "CT"
+    },
+    {
+      "name": "Cruising",
+      "year": 1985,
+      "cnty": "IRE",
+      "sex": "S",
+      "href": "",
+      "mstn": ""
+    },
+    {
+      "name": "Flex",
+      "year": 1982,
+      "cnty": "IRE",
+      "sex": "F",
+      "href": "",
+      "mstn": ""
+    },
+    {
+      "name": "Safari",
+      "year": 1970,
+      "cnty": "IRE",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000360166/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Silvano",
       "year": 1996,
       "cnty": "GER",
