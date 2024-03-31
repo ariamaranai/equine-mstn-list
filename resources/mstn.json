@@ -7120,7 +7120,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000337432/",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "Silken Cat",
@@ -9380,7 +9380,7 @@
       "cnty": "IRE",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000363470/",
-      "mstn": ""
+      "mstn": "CT"
     }
   ],
   [
@@ -10944,7 +10944,7 @@
       "cnty": "IRE",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000363470/",
-      "mstn": ""
+      "mstn": "CT"
     }
   ],
   [
@@ -12492,7 +12492,7 @@
       "cnty": "IRE",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000363470/",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "Melikah",
@@ -12798,7 +12798,7 @@
       "cnty": "IRE",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0001211269/",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "Fleche d'Or",
@@ -15824,7 +15824,7 @@
       "cnty": "IRE",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000363470/",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "Urban Sea",
@@ -17851,6 +17851,40 @@
   ],
   [
     {
+      "name": "Cape Cross",
+      "year": 1994,
+      "cnty": "IRE",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000363470/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Green Desert",
+      "year": 1983,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000336430/",
+      "mstn": "CC"
+    },
+    {
+      "name": "Park Appeal",
+      "year": 1982,
+      "cnty": "IRE",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000416199/",
+      "mstn": ""
+    },
+    {
+      "name": "Ahonoora",
+      "year": 1975,
+      "cnty": "GB",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000336322/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Elida",
       "year": 1994,
       "cnty": "IRE",
@@ -18191,6 +18225,40 @@
   ],
   [
     {
+      "name": "Gone West",
+      "year": 1984,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000337432/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Mr. Prospector",
+      "year": 1970,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000335975/",
+      "mstn": ""
+    },
+    {
+      "name": "Secrettame",
+      "year": 1978,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000394672/",
+      "mstn": ""
+    },
+    {
+      "name": "Secretariat",
+      "year": 1970,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000333978/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Weekend Surprise",
       "year": 1980,
       "cnty": "USA",
@@ -18322,6 +18390,40 @@
       "cnty": "GB",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000338378/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Seabiscuit",
+      "year": 1933,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000335682/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Hard Tack",
+      "year": 1926,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000336207/",
+      "mstn": ""
+    },
+    {
+      "name": "Swing On",
+      "year": 1926,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000391185/",
+      "mstn": ""
+    },
+    {
+      "name": "Whisk Broom",
+      "year": 1907,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000339138/",
       "mstn": ""
     }
   ],
@@ -18476,7 +18578,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0001083691/",
-      "mstn": "TT"
+      "mstn": ""
     },
     {
       "name": "ミッキーパパイア",
