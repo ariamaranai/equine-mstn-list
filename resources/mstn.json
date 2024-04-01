@@ -7447,6 +7447,40 @@
   ],
   [
     {
+      "name": "Dash For Cash",
+      "year": 1973,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "Rocket Wrangler",
+      "year": 1968,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "",
+      "mstn": ""
+    },
+    {
+      "name": "Find A Buyer",
+      "year": 1966,
+      "cnty": "GB",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/find+a+buyer",
+      "mstn": ""
+    },
+    {
+      "name": "To Market",
+      "year": 1948,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000334544/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Nearctic",
       "year": 1954,
       "cnty": "CAN",
@@ -8529,7 +8563,7 @@
       "year": 1999,
       "cnty": "JPN",
       "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/",
+      "href": "https://www.jbis.or.jp/horse/0000619768/",
       "mstn": ""
     }
   ],
