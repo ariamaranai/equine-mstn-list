@@ -239,6 +239,40 @@
   ],
   [
     {
+      "name": "-",
+      "year": 2022,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001359688/",
+      "mstn": "CC"
+    },
+    {
+      "name": "ブルドッグボス",
+      "year": 2012,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001149689/",
+      "mstn": ""
+    },
+    {
+      "name": "ミコノキセキ",
+      "year": 2016,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001215911/",
+      "mstn": ""
+    },
+    {
+      "name": "キンシャサノキセキ",
+      "year": 2003,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000901749/",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
       "name": "Kw Melody Is Famous",
       "year": 2022,
       "cnty": "FR",
@@ -7749,6 +7783,40 @@
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000700008/",
       "mstn": "TT"
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2022,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001352995/",
+      "mstn": "CT"
+    },
+    {
+      "name": "リアルスティール",
+      "year": 2012,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001157711/",
+      "mstn": "CT"
+    },
+    {
+      "name": "リュシオル",
+      "year": 2006,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000993644/",
+      "mstn": ""
+    },
+    {
+      "name": "クロフネ",
+      "year": 1998,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000615577/",
+      "mstn": "CT"
     }
   ],
   [
