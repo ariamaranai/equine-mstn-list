@@ -7855,6 +7855,40 @@
   ],
   [
     {
+      "name": "アルマデオロ",
+      "year": 2022,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001352479/",
+      "mstn": "CT"
+    },
+    {
+      "name": "レイデオロ",
+      "year": 2014,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001189721/",
+      "mstn": "TT"
+    },
+    {
+      "name": "シュガーハート",
+      "year": 2005,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000882634/",
+      "mstn": ""
+    },
+    {
+      "name": "サクラバクシンオー",
+      "year": 1989,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000225628/",
+      "mstn": "CC"
+    }
+  ],
+  [
+    {
       "name": "エターナルシルバー",
       "year": 2022,
       "cnty": "JPN",
@@ -8174,7 +8208,7 @@
       "cnty": "JPN",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0001155349/",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "Well Away",
@@ -9874,7 +9908,7 @@
       "cnty": "JPN",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0001155349/",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "ショウナンカラット",
@@ -13227,6 +13261,40 @@
   ],
   [
     {
+      "name": "キタサンブラック",
+      "year": 2012,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001155349/",
+      "mstn": "CT"
+    },
+    {
+      "name": "ブラックタイド",
+      "year": 2001,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000722797/",
+      "mstn": "TT"
+    },
+    {
+      "name": "シュガーハート",
+      "year": 2005,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000882634/",
+      "mstn": ""
+    },
+    {
+      "name": "サクラバクシンオー",
+      "year": 1989,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000225628/",
+      "mstn": "CC"
+    }
+  ],
+  [
+    {
       "name": "グランデサムライ",
       "year": 2012,
       "cnty": "JPN",
@@ -13465,40 +13533,6 @@
   ],
   [
     {
-      "name": "ヒトミヲトジテ",
-      "year": 2012,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0001150084/",
-      "mstn": "CT"
-    },
-    {
-      "name": "Bago",
-      "year": 2001,
-      "cnty": "FR",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0000849057/",
-      "mstn": ""
-    },
-    {
-      "name": "セトアフロディーデ",
-      "year": 1998,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0000324992/",
-      "mstn": ""
-    },
-    {
-      "name": "Tony Bin",
-      "year": 1983,
-      "cnty": "IRE",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0000161740/",
-      "mstn": ""
-    }
-  ],
-  [
-    {
       "name": "ドゥラメンテ",
       "year": 2012,
       "cnty": "JPN",
@@ -13529,6 +13563,40 @@
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000333862/",
       "mstn": "TT"
+    }
+  ],
+  [
+    {
+      "name": "ヒトミヲトジテ",
+      "year": 2012,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001150084/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Bago",
+      "year": 2001,
+      "cnty": "FR",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000849057/",
+      "mstn": ""
+    },
+    {
+      "name": "セトアフロディーデ",
+      "year": 1998,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000324992/",
+      "mstn": ""
+    },
+    {
+      "name": "Tony Bin",
+      "year": 1983,
+      "cnty": "IRE",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000161740/",
+      "mstn": ""
     }
   ],
   [
@@ -16453,40 +16521,6 @@
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000336572/",
       "mstn": "TT"
-    }
-  ],
-  [
-    {
-      "name": "シュガーハート",
-      "year": 2005,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0000882634/",
-      "mstn": "CT"
-    },
-    {
-      "name": "サクラバクシンオー",
-      "year": 1989,
-      "cnty": "JPN",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0000225628/",
-      "mstn": "CC"
-    },
-    {
-      "name": "オトメゴコロ",
-      "year": 1990,
-      "cnty": "JPN",
-      "sex": "F",
-      "href": "https://www.jbis.or.jp/horse/0000233095/",
-      "mstn": ""
-    },
-    {
-      "name": "Judge Angelucci",
-      "year": 1983,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0000333822/",
-      "mstn": ""
     }
   ],
   [
