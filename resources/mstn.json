@@ -11697,40 +11697,6 @@
   ],
   [
     {
-      "name": "Mr Brightside",
-      "year": 2017,
-      "cnty": "NZ",
-      "sex": "M",
-      "href": "https://www.pedigreequery.com/mr+brightside4",
-      "mstn": "CT"
-    },
-    {
-      "name": "Bullbars",
-      "year": 2007,
-      "cnty": "AUS",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0001129316/",
-      "mstn": ""
-    },
-    {
-      "name": "Lilahjay",
-      "year": 2012,
-      "cnty": "NZ",
-      "sex": "F",
-      "href": "https://www.pedigreequery.com/lilahjay",
-      "mstn": ""
-    },
-    {
-      "name": "Tavistock",
-      "year": 2005,
-      "cnty": "NZ",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0001099798/",
-      "mstn": ""
-    }
-  ],
-  [
-    {
       "name": "Portland Sky",
       "year": 2017,
       "cnty": "AUS",
@@ -15228,6 +15194,40 @@
       "cnty": "GB",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000361623/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Keep De Rose",
+      "year": 2009,
+      "cnty": "NZ",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/keep+de+rose",
+      "mstn": "CT"
+    },
+    {
+      "name": "Keeper",
+      "year": 1997,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000843265/",
+      "mstn": ""
+    },
+    {
+      "name": "Grove Nymph",
+      "year": 1997,
+      "cnty": "NZ",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/grove+nymph2",
+      "mstn": ""
+    },
+    {
+      "name": "Grosvenor",
+      "year": 1979,
+      "cnty": "NZ",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/grove+nymph2",
       "mstn": ""
     }
   ],
@@ -21620,6 +21620,40 @@
       "cnty": "NZ",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000342033/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Mr Brightside",
+      "year": 2017,
+      "cnty": "NZ",
+      "sex": "M",
+      "href": "https://www.pedigreequery.com/mr+brightside4",
+      "mstn": "TT"
+    },
+    {
+      "name": "Bullbars",
+      "year": 2007,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001129316/",
+      "mstn": ""
+    },
+    {
+      "name": "Lilahjay",
+      "year": 2012,
+      "cnty": "NZ",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/lilahjay",
+      "mstn": ""
+    },
+    {
+      "name": "Tavistock",
+      "year": 2005,
+      "cnty": "NZ",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001099798/",
       "mstn": ""
     }
   ],
