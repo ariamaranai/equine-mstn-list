@@ -8739,6 +8739,40 @@
   ],
   [
     {
+      "name": "ヴァンディヴェール",
+      "year": 2022,
+      "cnty": "JPN",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001356118/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Thunder Snow",
+      "year": 2014,
+      "cnty": "IRE",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001226963/",
+      "mstn": "CT"
+    },
+    {
+      "name": "シュシュブリーズ",
+      "year": 2011,
+      "cnty": "JPN",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001141447/",
+      "mstn": "CT"
+    },
+    {
+      "name": "フジキセキ",
+      "year": 1992,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000262443/",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
       "name": "-",
       "year": 2021,
       "cnty": "AUS",
