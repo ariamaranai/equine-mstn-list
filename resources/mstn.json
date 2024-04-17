@@ -3945,6 +3945,40 @@
   ],
   [
     {
+      "name": "Pack Of Dreams",
+      "year": 2014,
+      "cnty": "IRE",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/pack+of+dreams",
+      "mstn": "CC"
+    },
+    {
+      "name": "Paco Boy",
+      "year": 2005,
+      "cnty": "IRE",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001193305/",
+      "mstn": ""
+    },
+    {
+      "name": "Electric Dream",
+      "year": 2005,
+      "cnty": "GB",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001226082/",
+      "mstn": ""
+    },
+    {
+      "name": "Royal Applause",
+      "year": 1993,
+      "cnty": "GB",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000362661/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Plata O Plomo",
       "year": 2014,
       "cnty": "GB",
@@ -4926,6 +4960,40 @@
       "cnty": "GB",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000339566/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Sound Advice",
+      "year": 2011,
+      "cnty": "AUS",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/sound+advice7",
+      "mstn": "CC"
+    },
+    {
+      "name": "Fastnet Rock",
+      "year": 2001,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001019761/",
+      "mstn": ""
+    },
+    {
+      "name": "Sarah Vee",
+      "year": 2000,
+      "cnty": "AUS",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/sarah+vee2",
+      "mstn": ""
+    },
+    {
+      "name": "End Sweep",
+      "year": 1991,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000361855/",
       "mstn": ""
     }
   ],
@@ -20261,6 +20329,40 @@
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000372680/",
       "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "Roaring Engine",
+      "year": 2019,
+      "cnty": "AUS",
+      "sex": "M",
+      "href": "https://www.pedigreequery.com/roaring+engine",
+      "mstn": "TT"
+    },
+    {
+      "name": "Reliable Man",
+      "year": 2008,
+      "cnty": "GB",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001143913/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Arapaho Miss",
+      "year": 2004,
+      "cnty": "AUS",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001079613/",
+      "mstn": ""
+    },
+    {
+      "name": "Danehill Dancer",
+      "year": 1993,
+      "cnty": "IRE",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000362560/",
+      "mstn": ""
     }
   ],
   [
