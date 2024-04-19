@@ -1374,7 +1374,7 @@
       "cnty": "JPN",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0001142673/",
-      "mstn": ""
+      "mstn": "CC"
     },
     {
       "name": "ナオミノユメ",
@@ -5169,6 +5169,40 @@
   ],
   [
     {
+      "name": "ビッグアーサー",
+      "year": 2011,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001142673/",
+      "mstn": "CC"
+    },
+    {
+      "name": "サクラバクシンオー",
+      "year": 1989,
+      "cnty": "JPN",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000225628/",
+      "mstn": "CC"
+    },
+    {
+      "name": "Siyabona",
+      "year": 2005,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001082306/",
+      "mstn": ""
+    },
+    {
+      "name": "Kingmambo",
+      "year": 1990,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000347989/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "ワンハート",
       "year": 2011,
       "cnty": "JPN",
@@ -8412,7 +8446,7 @@
       "cnty": "JPN",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0001142673/",
-      "mstn": ""
+      "mstn": "CC"
     },
     {
       "name": "チェストケハーツ",
