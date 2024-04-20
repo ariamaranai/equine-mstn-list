@@ -3197,6 +3197,40 @@
   ],
   [
     {
+      "name": "Leaveyoubreathless",
+      "year": 2017,
+      "cnty": "CAN",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/leaveyoubreathless",
+      "mstn": "CC"
+    },
+    {
+      "name": "Frac Daddy",
+      "year": 2010,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001247942/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Takeyourbreathaway",
+      "year": 2010,
+      "cnty": "IRE",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/step+sequence",
+      "mstn": ""
+    },
+    {
+      "name": "Tiznow",
+      "year": 1997,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000621100/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "McGrath",
       "year": 2017,
       "cnty": "AUS",
@@ -10201,6 +10235,40 @@
   ],
   [
     {
+      "name": "Lady's Frac Laddy",
+      "year": 2019,
+      "cnty": "CAN",
+      "sex": "M",
+      "href": "",
+      "mstn": "CT"
+    },
+    {
+      "name": "Frac Daddy",
+      "year": 2010,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001247942/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Lady Sarah",
+      "year": 2005,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/lady+sarah13",
+      "mstn": ""
+    },
+    {
+      "name": "Whywhywhy",
+      "year": 2000,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000744070/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Mountain Guest",
       "year": 2019,
       "cnty": "AUS",
@@ -10860,7 +10928,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0001247942/",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "Lady Sarah",
@@ -11726,6 +11794,40 @@
       "cnty": "AUS",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000626815/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Daddy Loved a Lady",
+      "year": 2017,
+      "cnty": "CAN",
+      "sex": "M",
+      "href": "",
+      "mstn": "TT"
+    },
+    {
+      "name": "Frac Daddy",
+      "year": 2010,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001247942/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Lady Sarah",
+      "year": 2005,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/lady+sarah13",
+      "mstn": ""
+    },
+    {
+      "name": "Whywhywhy",
+      "year": 2000,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000744070/",
       "mstn": ""
     }
   ],
@@ -14956,6 +15058,40 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000744357/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Frac Daddy",
+      "year": 2010,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001247942/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Scat Daddy",
+      "year": 2004,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001003260/",
+      "mstn": ""
+    },
+    {
+      "name": "Skipper's Mate",
+      "year": 2000,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001066105/",
+      "mstn": ""
+    },
+    {
+      "name": "Skip Away",
+      "year": 1993,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000362939/",
       "mstn": ""
     }
   ],
@@ -23567,7 +23703,7 @@
       "year": 2004,
       "cnty": "USA",
       "sex": "F",
-      "href": "",
+      "href": "https://www.pedigreequery.com/triple+shot+city",
       "mstn": "TT"
     },
     {
