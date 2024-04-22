@@ -73,7 +73,8 @@ body {
 :first-line {
   color: #bbb;
   line-height: 2;
-  font-size: clamp(10px,2.2vw,12px)
+  font-family: arial,sans-serif;
+  font-size: clamp(10px,2.2vw,12px);
 }
 input {
   all: unset;
