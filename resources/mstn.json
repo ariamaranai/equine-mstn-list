@@ -11799,40 +11799,6 @@
   ],
   [
     {
-      "name": "Daddy Loved a Lady",
-      "year": 2017,
-      "cnty": "CAN",
-      "sex": "M",
-      "href": "",
-      "mstn": "TT"
-    },
-    {
-      "name": "Frac Daddy",
-      "year": 2010,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0001247942/",
-      "mstn": "CT"
-    },
-    {
-      "name": "Lady Sarah",
-      "year": 2005,
-      "cnty": "USA",
-      "sex": "F",
-      "href": "https://www.pedigreequery.com/lady+sarah13",
-      "mstn": ""
-    },
-    {
-      "name": "Whywhywhy",
-      "year": 2000,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0000744070/",
-      "mstn": ""
-    }
-  ],
-  [
-    {
       "name": "Dubai Centre",
       "year": 2017,
       "cnty": "AUS",
@@ -21926,6 +21892,40 @@
       "cnty": "CAN",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000369047/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Daddy Loved a Lady",
+      "year": 2017,
+      "cnty": "CAN",
+      "sex": "M",
+      "href": "",
+      "mstn": "TT"
+    },
+    {
+      "name": "Frac Daddy",
+      "year": 2010,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001247942/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Lady Sarah",
+      "year": 2005,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/lady+sarah13",
+      "mstn": ""
+    },
+    {
+      "name": "Whywhywhy",
+      "year": 2000,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000744070/",
       "mstn": ""
     }
   ],

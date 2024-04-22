@@ -34,49 +34,45 @@ p {
   white-space: pre;
   height: 40;
   text-align: initial;
-  padding-top: 1;
   gap: 1px;
-  margin: 0
+  margin: 0;
+  padding-top: 1
 }
 .a {
   display: none
+}
+input {
+  all: unset;
+  flex-grow: 1
 }
 .p {
   display: contents;
   font-size: 12
 }
-::-webkit-scrollbar {
-  width: 20
-}
-::-webkit-scrollbar-thumb {
-  background-color: #666
-}
-body {
-  background-color: #000;
-  color: #bbb;
-  line-height: 40px;
-  margin: 0 max(0px,calc(50% - 412px)) 40;
-  text-align: center;
-  overflow: clip scroll;
+:root {
+  color-scheme: Dark;
   font-feature-settings: 'palt';
   font-family: tahoma,sans-serif;
   font-size: 12
-}
-::Placeholder {
-  filter: contrast(.1)
-}
-@media(hover) {
-  p:hover {
-    filter: contrast(.7) brightness(1.1)
-  }
 }
 :first-line {
   color: #bbb;
   line-height: 2;
   font-family: arial,sans-serif;
-  font-size: clamp(10px,2.2vw,12px);
+  font-size: clamp(10px,2.2vw,12px)
 }
-input {
-  all: unset;
-  flex-grow: 1
+::Placeholder {
+  filter: contrast(.1)
+}
+body {
+  color: #bbb;
+  line-height: 40px;
+  margin: 0 max(0px,calc(50% - 412px)) 40;
+  text-align: center;
+  overflow: clip scroll
+}
+@media(hover) {
+  p:hover {
+    filter: contrast(.7) brightness(1.1)
+  }
 }
