@@ -3503,6 +3503,40 @@
   ],
   [
     {
+      "name": "Pennyloupe",
+      "year": 2016,
+      "cnty": "AUS",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/pennyloupe",
+      "mstn": "CC"
+    },
+    {
+      "name": "Written Tycoon",
+      "year": 2002,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/00001157888/",
+      "mstn": "CC"
+    },
+    {
+      "name": "Ithacan Queen",
+      "year": 2008,
+      "cnty": "NZ",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001386190/",
+      "mstn": ""
+    },
+    {
+      "name": "Savabeel",
+      "year": 2001,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001111479/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Rossa Charlie",
       "year": 2016,
       "cnty": "USA",
