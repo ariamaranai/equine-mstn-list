@@ -1968,7 +1968,7 @@
       "cnty": "AUS",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000368799/",
-      "mstn": ""
+      "mstn": "CT"
     }
   ],
   [
@@ -4910,7 +4910,7 @@
       "cnty": "AUS",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000368799/",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "Passageway",
@@ -6746,7 +6746,7 @@
       "cnty": "AUS",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000368799/",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "Explosive",
@@ -10366,7 +10366,7 @@
       "cnty": "AUS",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000368799/",
-      "mstn": ""
+      "mstn": "CT"
     }
   ],
   [
@@ -11896,7 +11896,7 @@
       "cnty": "AUS",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000368799/",
-      "mstn": ""
+      "mstn": "CT"
     }
   ],
   [
@@ -11964,7 +11964,7 @@
       "cnty": "AUS",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000368799/",
-      "mstn": ""
+      "mstn": "CT"
     }
   ],
   [
@@ -16266,7 +16266,7 @@
       "cnty": "AUS",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000368799/",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "River Song",
@@ -23252,6 +23252,40 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000361396/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "De Little Engine",
+      "year": 2010,
+      "cnty": "AUS",
+      "sex": "M",
+      "href": "https://www.jbis.or.jp/horse/0001380482/",
+      "mstn": "TT"
+    },
+    {
+      "name": "Encosta De Lago",
+      "year": 1993,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000368799/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Arapaho Miss",
+      "year": 2004,
+      "cnty": "AUS",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0001079613/",
+      "mstn": ""
+    },
+    {
+      "name": "Danehill Dancer",
+      "year": 1993,
+      "cnty": "IRE",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000362560/",
       "mstn": ""
     }
   ],
