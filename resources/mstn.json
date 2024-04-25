@@ -19551,6 +19551,40 @@
   ],
   [
     {
+      "name": "Encosta De Lago",
+      "year": 1993,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000368799/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Fairy King",
+      "year": 1982,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000337427/",
+      "mstn": ""
+    },
+    {
+      "name": "Shoal Creek",
+      "year": 1988,
+      "cnty": "AUS",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000443492/",
+      "mstn": ""
+    },
+    {
+      "name": "Star Way",
+      "year": 1977,
+      "cnty": "GB",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000336531/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Flying Spur",
       "year": 1992,
       "cnty": "AUS",
