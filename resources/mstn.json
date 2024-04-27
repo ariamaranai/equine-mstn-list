@@ -8276,7 +8276,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0001083691/",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "ゴッドフロアー",
@@ -8360,7 +8360,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0001083691/",
-      "mstn": ""
+      "mstn": "CT"
     }
   ],
   [
@@ -9466,7 +9466,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0001083691/",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "フライトオブスワン",
@@ -9670,7 +9670,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0001083691/",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "エンパイアブルー",
@@ -9772,7 +9772,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0001083691/",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "エンパイアブルー",
@@ -9874,7 +9874,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0001083691/",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "ミンティエアー",
@@ -10860,7 +10860,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0001083691/",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "レフィナーダ",
@@ -17579,6 +17579,40 @@
   ],
   [
     {
+      "name": "Majestic Warrior",
+      "year": 2005,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0001083691/",
+      "mstn": "CT"
+    },
+    {
+      "name": "A.P. Indy",
+      "year": 1989,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000339653/",
+      "mstn": "TT"
+    },
+    {
+      "name": "Dream Supreme",
+      "year": 1997,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.jbis.or.jp/horse/0000621555/",
+      "mstn": ""
+    },
+    {
+      "name": "Seeking The Gold",
+      "year": 1985,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000337444/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Many Rivers",
       "year": 2005,
       "cnty": "USA",
@@ -20414,7 +20448,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0001083691/",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "ミッキーパパイア",
