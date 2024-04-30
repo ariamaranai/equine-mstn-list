@@ -15,10 +15,6 @@ a {
   z-index: 1;
   top: 0
 }
-#p {
-  display: contents;
-  color: #cb0
-}
 [a] {
   background-color: #230
 }
@@ -27,6 +23,9 @@ a {
 }
 [e] {
   background-color: #034
+}
+#p {
+  display: contents
 }
 p {
   display: flex;
