@@ -242,14 +242,14 @@
       "name": "Kw Melody Is Famous",
       "year": 2022,
       "cnty": "FR",
-      "sex": "F",
+      "sex": "F*",
       "href": "https://www.allbreedpedigree.com/kw+melody+is+famous",
       "mstn": "CC"
     },
     {
       "name": "Profitable Easy Cash",
       "year": 2013,
-      "cnty": "USA",
+      "cnty": "USA*",
       "sex": "S",
       "href": "https://www.allbreedpedigree.com/profitable+easy+cash",
       "mstn": "CC"
@@ -257,7 +257,7 @@
     {
       "name": "Tw Band Of Rays",
       "year": 2005,
-      "cnty": "USA",
+      "cnty": "USA*",
       "sex": "F",
       "href": "https://www.allbreedpedigree.com/tw+band+of+rays",
       "mstn": ""
@@ -265,7 +265,7 @@
     {
       "name": "Sunsets Last Sunrise",
       "year": 1994,
-      "cnty": "USA",
+      "cnty": "USA*",
       "sex": "S",
       "href": "https://www.allbreedpedigree.com/sunsets+last+sunrise",
       "mstn": ""
@@ -922,14 +922,14 @@
       "name": "-",
       "year": 2021,
       "cnty": "USA",
-      "sex": "F",
+      "sex": "F*",
       "href": "",
       "mstn": "CC"
     },
     {
       "name": "Howdoyalikemesofar",
       "year": 2008,
-      "cnty": "USA",
+      "cnty": "USA*",
       "sex": "S",
       "href": "https://www.allbreedpedigree.com/howdoyalikemesofar",
       "mstn": "CC"
@@ -1432,14 +1432,14 @@
       "name": "Rhondar R3",
       "year": 2020,
       "cnty": "USA",
-      "sex": "F",
+      "sex": "F*",
       "href": "",
       "mstn": "CC"
     },
     {
       "name": "Howdoyalikemesofar",
       "year": 2008,
-      "cnty": "USA",
+      "cnty": "USA*",
       "sex": "S",
       "href": "https://www.allbreedpedigree.com/howdoyalikemesofar",
       "mstn": "CC"
@@ -1806,14 +1806,14 @@
       "name": "Riii Grand Duke",
       "year": 2019,
       "cnty": "USA",
-      "sex": "M",
+      "sex": "M*",
       "href": "",
       "mstn": "CC"
     },
     {
       "name": "Howdoyalikemesofar",
       "year": 2008,
-      "cnty": "USA",
+      "cnty": "USA*",
       "sex": "S",
       "href": "https://www.allbreedpedigree.com/howdoyalikemesofar",
       "mstn": "CC"
@@ -2180,14 +2180,14 @@
       "name": "Hf The Gost",
       "year": 2018,
       "cnty": "USA",
-      "sex": "S",
+      "sex": "S*",
       "href": "https://www.allbreedpedigree.com/hf+the+ghost",
       "mstn": "CC"
     },
     {
       "name": "Hf Mobster",
       "year": 2008,
-      "cnty": "USA",
+      "cnty": "USA*",
       "sex": "S",
       "href": "https://www.allbreedpedigree.com/hf+mobster",
       "mstn": ""
@@ -2195,7 +2195,7 @@
     {
       "name": "Valentine Dreamin",
       "year": "",
-      "cnty": "USA",
+      "cnty": "USA*",
       "sex": "F",
       "href": "https://www.allbreedpedigree.com/valentine+dreamin",
       "mstn": ""
@@ -2203,7 +2203,7 @@
     {
       "name": "Magnum Chic Dream",
       "year": 1996,
-      "cnty": "USA",
+      "cnty": "USA*",
       "sex": "S",
       "href": "https://www.allbreedpedigree.com/magnum+chic+dream",
       "mstn": ""
@@ -2656,14 +2656,14 @@
       "name": "Riii Iceman",
       "year": 2018,
       "cnty": "USA",
-      "sex": "M",
+      "sex": "M*",
       "href": "https://www.allbreedpedigree.com/riii+iceman",
       "mstn": "CC"
     },
     {
       "name": "Howdoyalikemesofar",
       "year": 2008,
-      "cnty": "USA",
+      "cnty": "USA*",
       "sex": "S",
       "href": "https://www.allbreedpedigree.com/howdoyalikemesofar",
       "mstn": "CC"
@@ -3268,14 +3268,14 @@
       "name": "Cs Sliverado Smoke",
       "year": 2017,
       "cnty": "USA",
-      "sex": "S",
+      "sex": "S*",
       "href": "https://www.allbreedpedigree.com/cs+silverado+smoke",
       "mstn": "CC"
     },
     {
       "name": "Roan Silverado Storm",
       "year": 2011,
-      "cnty": "USA",
+      "cnty": "USA*",
       "sex": "S",
       "href": "https://www.allbreedpedigree.com/roan+silverado+storm",
       "mstn": ""
@@ -3283,7 +3283,7 @@
     {
       "name": "Djs Smokie Lady Jack",
       "year": 2004,
-      "cnty": "USA",
+      "cnty": "USA*",
       "sex": "F",
       "href": "https://www.allbreedpedigree.com/djs+smokie+lady+jack",
       "mstn": ""
@@ -3291,7 +3291,7 @@
     {
       "name": "Fiddlers Legend",
       "year": 1997,
-      "cnty": "USA",
+      "cnty": "USA*",
       "sex": "S",
       "href": "https://www.allbreedpedigree.com/fiddlers+legend",
       "mstn": ""
@@ -3673,6 +3673,40 @@
   ],
   [
     {
+      "name": "Cyphers Dun On Fire",
+      "year": 2016,
+      "cnty": "USA",
+      "sex": "S*",
+      "href": "https://www.allbreedpedigree.com/cyphers+dun+on+fire",
+      "mstn": "CC"
+    },
+    {
+      "name": "Firewater Finale",
+      "year": 2004,
+      "cnty": "USA*",
+      "sex": "S",
+      "href": "https://www.allbreedpedigree.com/firewater+finale",
+      "mstn": ""
+    },
+    {
+      "name": "Fr Firecracker Dunit",
+      "year": 2001,
+      "cnty": "USA*",
+      "sex": "F",
+      "href": "https://www.allbreedpedigree.com/fr+firecracker+dunit",
+      "mstn": ""
+    },
+    {
+      "name": "Definitly A Dunit",
+      "year": 1997,
+      "cnty": "USA*",
+      "sex": "S",
+      "href": "https://www.allbreedpedigree.com/definitly+a+dunit",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Groundswell",
       "year": 2016,
       "cnty": "AUS",
@@ -3702,40 +3736,6 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000621945/",
-      "mstn": ""
-    }
-  ],
-  [
-    {
-      "name": "One And Only Asset",
-      "year": 2016,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.allbreedpedigree.com/one+and+only+asset",
-      "mstn": "CC"
-    },
-    {
-      "name": "One Special Asset",
-      "year": 2011,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.allbreedpedigree.com/one+special+asset2",
-      "mstn": ""
-    },
-    {
-      "name": "One Hot Appointment",
-      "year": 2008,
-      "cnty": "USA",
-      "sex": "F",
-      "href": "https://www.allbreedpedigree.com/one+hot+appointment",
-      "mstn": ""
-    },
-    {
-      "name": "Savabeel",
-      "year": 2005,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.allbreedpedigree.com/by+appointment+only",
       "mstn": ""
     }
   ],
@@ -3778,14 +3778,14 @@
       "name": "Rossa Charlie",
       "year": 2016,
       "cnty": "USA",
-      "sex": "F",
+      "sex": "F*",
       "href": "https://www.allbreedpedigree.com/rossa+charlie",
       "mstn": "CC"
     },
     {
       "name": "Howdoyalikemesofar",
       "year": 2008,
-      "cnty": "USA",
+      "cnty": "USA*",
       "sex": "S",
       "href": "https://www.allbreedpedigree.com/howdoyalikemesofar",
       "mstn": "CC"
@@ -3982,14 +3982,14 @@
       "name": "Kg N Mc Just On Fire",
       "year": 2015,
       "cnty": "USA",
-      "sex": "S",
+      "sex": "S*",
       "href": "https://www.allbreedpedigree.com/kg+n+mc+just+on+fire",
       "mstn": "CC"
     },
     {
       "name": "Fire On Bug",
       "year": 2001,
-      "cnty": "USA",
+      "cnty": "USA*",
       "sex": "S",
       "href": "https://www.allbreedpedigree.com/fire+on+bug",
       "mstn": ""
@@ -3997,7 +3997,7 @@
     {
       "name": "Kg Justiceweexpected",
       "year": 2007,
-      "cnty": "USA",
+      "cnty": "USA*",
       "sex": "F",
       "href": "https://www.allbreedpedigree.com/kg+justiceweexpected",
       "mstn": ""
@@ -4005,7 +4005,7 @@
     {
       "name": "Judge Cash",
       "year": 1987,
-      "cnty": "USA",
+      "cnty": "USA*",
       "sex": "S",
       "href": "https://www.allbreedpedigree.com/judge+cash",
       "mstn": ""
@@ -4043,40 +4043,6 @@
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000337424/",
       "mstn": "CC"
-    }
-  ],
-  [
-    {
-      "name": "Tanks a Million",
-      "year": 2015,
-      "cnty": "USA",
-      "sex": "M",
-      "href": "",
-      "mstn": "CC"
-    },
-    {
-      "name": "Dual Smart Rey",
-      "year": 2002,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.allbreedpedigree.com/dual+smart+rey",
-      "mstn": ""
-    },
-    {
-      "name": "TM Quiver",
-      "year": 1999,
-      "cnty": "USA",
-      "sex": "F",
-      "href": "https://www.allbreedpedigree.com/tm+quiver",
-      "mstn": ""
-    },
-    {
-      "name": "Smart Lil Ricochet",
-      "year": 1994,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.allbreedpedigree.com/smart+lil+ricochet",
-      "mstn": ""
     }
   ],
   [
@@ -4349,6 +4315,40 @@
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000714343/",
       "mstn": "TT"
+    }
+  ],
+  [
+    {
+      "name": "Duramax Dually",
+      "year": 2014,
+      "cnty": "USA",
+      "sex": "M*",
+      "href": "https://www.allbreedpedigree.com/duramax+dually",
+      "mstn": "CC"
+    },
+    {
+      "name": "Dual Rey",
+      "year": 1994,
+      "cnty": "USA*",
+      "sex": "S",
+      "href": "https://www.allbreedpedigree.com/dual+rey",
+      "mstn": ""
+    },
+    {
+      "name": "That Catomine",
+      "year": 2005,
+      "cnty": "USA*",
+      "sex": "F",
+      "href": "https://www.allbreedpedigree.com/that+catomine",
+      "mstn": ""
+    },
+    {
+      "name": "High Brow Cat",
+      "year": 1988,
+      "cnty": "USA*",
+      "sex": "S",
+      "href": "https://www.allbreedpedigree.com/that+catomine",
+      "mstn": ""
     }
   ],
   [
@@ -4662,14 +4662,14 @@
       "name": "Profitable Easy Cash",
       "year": 2013,
       "cnty": "USA",
-      "sex": "S",
+      "sex": "S*",
       "href": "https://www.allbreedpedigree.com/profitable+easy+cash",
       "mstn": "CC"
     },
     {
       "name": "Brother Is",
       "year": 2006,
-      "cnty": "USA",
+      "cnty": "USA*",
       "sex": "S",
       "href": "https://www.allbreedpedigree.com/brother+is",
       "mstn": ""
@@ -4677,7 +4677,7 @@
     {
       "name": "Profitable Go",
       "year": 2003,
-      "cnty": "USA",
+      "cnty": "USA*",
       "sex": "S",
       "href": "https://www.allbreedpedigree.com/profitable+glo",
       "mstn": ""
@@ -4685,7 +4685,7 @@
     {
       "name": "Mr John Glo",
       "year": "1985",
-      "cnty": "USA",
+      "cnty": "USA*",
       "sex": "S",
       "href": "https://www.allbreedpedigree.com/mr+john+glo",
       "mstn": ""
@@ -5232,6 +5232,40 @@
       "cnty": "AUS",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000359636/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "The Wow Factor",
+      "year": 2012,
+      "cnty": "USA",
+      "sex": "S*",
+      "href": "https://www.allbreedpedigree.com/the+wow+factor",
+      "mstn": "CC"
+    },
+    {
+      "name": "All Time Fancy",
+      "year": 1998,
+      "cnty": "USA*",
+      "sex": "S",
+      "href": "https://www.allbreedpedigree.com/all+time+fancy",
+      "mstn": ""
+    },
+    {
+      "name": "Memoforemma",
+      "year": 2003,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/memoforemma",
+      "mstn": ""
+    },
+    {
+      "name": "Memo",
+      "year": 1987,
+      "cnty": "CHI",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000361276/",
       "mstn": ""
     }
   ],
@@ -6192,14 +6226,14 @@
       "name": "Howdoyalikemesofar",
       "year": 2008,
       "cnty": "USA",
-      "sex": "S",
+      "sex": "S*",
       "href": "https://www.allbreedpedigree.com/howdoyalikemesofar",
       "mstn": "CC"
     },
     {
       "name": "Oak Tree Special",
       "year": 2000,
-      "cnty": "USA",
+      "cnty": "USA*",
       "sex": "S",
       "href": "https://www.allbreedpedigree.com/oak+tree+special",
       "mstn": ""
@@ -6207,7 +6241,7 @@
     {
       "name": "Sheza Soverign Dash",
       "year": 1998,
-      "cnty": "USA",
+      "cnty": "USA*",
       "sex": "F",
       "href": "https://www.allbreedpedigree.com/sheza+soverign+dash",
       "mstn": ""
@@ -6215,7 +6249,7 @@
     {
       "name": "Royal Sovereign",
       "year": 1987,
-      "cnty": "USA",
+      "cnty": "USA*",
       "sex": "S",
       "href": "https://www.allbreedpedigree.com/royal+sovereign9",
       "mstn": ""
@@ -8195,6 +8229,40 @@
   ],
   [
     {
+      "name": "Joe Jack Red",
+      "year": 1996,
+      "cnty": "USA",
+      "sex": "S*",
+      "href": "https://www.allbreedpedigree.com/joe+jack+red",
+      "mstn": "CT"
+    },
+    {
+      "name": "Joe Jack Honey Bar",
+      "year": 1984,
+      "cnty": "USA*",
+      "sex": "S",
+      "href": "https://www.allbreedpedigree.com/joe+jack+honey+bar",
+      "mstn": ""
+    },
+    {
+      "name": "Miss Pearly Red",
+      "year": 1984,
+      "cnty": "USA*",
+      "sex": "F",
+      "href": "https://www.allbreedpedigree.com/miss+pearly+red",
+      "mstn": ""
+    },
+    {
+      "name": "Mr Baron Red",
+      "year": 1978,
+      "cnty": "USA*",
+      "sex": "S",
+      "href": "https://www.allbreedpedigree.com/mr+baron+red",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Tiger Ridge",
       "year": 1996,
       "cnty": "USA",
@@ -8224,7 +8292,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000333978/",
-      "mstn": ""
+      "mstn": "CT"
     }
   ],
   [
@@ -8428,6 +8496,40 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000333978/",
+      "mstn": "CT"
+    }
+  ],
+  [
+    {
+      "name": "Two Id Bartender",
+      "year": 1979,
+      "cnty": "USA",
+      "sex": "S*",
+      "href": "https://www.allbreedpedigree.com/two+id+bartender",
+      "mstn": "CC"
+    },
+    {
+      "name": "Two Eyed Jack",
+      "year": 1961,
+      "cnty": "USA*",
+      "sex": "S",
+      "href": "https://www.allbreedpedigree.com/two+eyed+jack",
+      "mstn": ""
+    },
+    {
+      "name": "Prissy Joann",
+      "year": 1964,
+      "cnty": "USA*",
+      "sex": "F",
+      "href": "https://www.allbreedpedigree.com/prissy+joann",
+      "mstn": ""
+    },
+    {
+      "name": "Roan Bar",
+      "year": 1955,
+      "cnty": "USA*",
+      "sex": "S",
+      "href": "https://www.allbreedpedigree.com/roan+bar",
       "mstn": ""
     }
   ],
@@ -8436,14 +8538,14 @@
       "name": "Dash For Cash",
       "year": 1973,
       "cnty": "USA",
-      "sex": "S",
+      "sex": "S*",
       "href": "https://www.allbreedpedigree.com/dash+for+cash",
       "mstn": "CC"
     },
     {
       "name": "Rocket Wrangler",
       "year": 1968,
-      "cnty": "USA",
+      "cnty": "USA*",
       "sex": "S",
       "href": "https://www.allbreedpedigree.com/rocket+wrangler",
       "mstn": ""
@@ -11935,6 +12037,40 @@
   ],
   [
     {
+      "name": "Tenpak",
+      "year": 2018,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/tenpak",
+      "mstn": "CT"
+    },
+    {
+      "name": "Chief White Fox",
+      "year": 2010,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/chief+white+fox",
+      "mstn": ""
+    },
+    {
+      "name": "Silverlite J C",
+      "year": 2002,
+      "cnty": "USA",
+      "sex": "F",
+      "href": "https://www.pedigreequery.com/silverlite+j+c",
+      "mstn": ""
+    },
+    {
+      "name": "Airdrie Apache",
+      "year": 1993,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/airdrie+apache",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "カーディフ",
       "year": 2018,
       "cnty": "JPN",
@@ -13563,40 +13699,6 @@
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000333862/",
       "mstn": "TT"
-    }
-  ],
-  [
-    {
-      "name": "Always A Shiney Chic",
-      "year": 2014,
-      "cnty": "USA",
-      "sex": "F",
-      "href": "https://www.allbreedpedigree.com/always+a+shiney+chic",
-      "mstn": "CT"
-    },
-    {
-      "name": "Shine Chic shine",
-      "year": 2007,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.allbreedpedigree.com/shine+chic+shine",
-      "mstn": ""
-    },
-    {
-      "name": "Always A dunit",
-      "year": 1996,
-      "cnty": "USA",
-      "sex": "F",
-      "href": "https://www.allbreedpedigree.com/always+a+dunit",
-      "mstn": ""
-    },
-    {
-      "name": "Hollywood Dun It",
-      "year": 1983,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.allbreedpedigree.com/hollywood+dun+it",
-      "mstn": ""
     }
   ],
   [
@@ -17341,6 +17443,40 @@
   ],
   [
     {
+      "name": "Spooks Gotta Whiz",
+      "year": 2007,
+      "cnty": "USA",
+      "sex": "S*",
+      "href": "https://www.allbreedpedigree.com/spooks+gotta+whiz",
+      "mstn": "CT"
+    },
+    {
+      "name": "Spooks Gotta Gun",
+      "year": 2002,
+      "cnty": "USA*",
+      "sex": "S",
+      "href": "https://www.allbreedpedigree.com/spooks+gotta+gun",
+      "mstn": ""
+    },
+    {
+      "name": "Prettywhizprettydoes",
+      "year": 2002,
+      "cnty": "USA*",
+      "sex": "F",
+      "href": "https://www.allbreedpedigree.com/prettywhizprettydoes",
+      "mstn": ""
+    },
+    {
+      "name": "Topsail Whiz",
+      "year": 1987,
+      "cnty": "USA*",
+      "sex": "S",
+      "href": "https://www.allbreedpedigree.com/topsail+whiz",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Toorak Toff",
       "year": 2007,
       "cnty": "AUS",
@@ -18837,6 +18973,40 @@
   ],
   [
     {
+      "name": "Bendigo",
+      "year": 2002,
+      "cnty": "AUS",
+      "sex": "S",
+      "href": "",
+      "mstn": "CT"
+    },
+    {
+      "name": "Refuse To Lose",
+      "year": 1982,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.pedigreequery.com/refuse+to+lose",
+      "mstn": ""
+    },
+    {
+      "name": "-",
+      "year": "",
+      "cnty": "",
+      "sex": "F",
+      "href": "",
+      "mstn": ""
+    },
+    {
+      "name": "-",
+      "year": "",
+      "cnty": "",
+      "sex": "S",
+      "href": "",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Dubawi",
       "year": 2002,
       "cnty": "IRE",
@@ -19826,14 +19996,14 @@
       "name": "Flexible",
       "year": 1996,
       "cnty": "IRE",
-      "sex": "S",
+      "sex": "S*",
       "href": "https://www.allbreedpedigree.com/flexible",
       "mstn": "CT"
     },
     {
       "name": "Cruising",
       "year": 1985,
-      "cnty": "IRE",
+      "cnty": "IRE*",
       "sex": "S",
       "href": "https://www.allbreedpedigree.com/cruising",
       "mstn": ""
@@ -19841,7 +20011,7 @@
     {
       "name": "Flex",
       "year": 1982,
-      "cnty": "IRE",
+      "cnty": "IRE*",
       "sex": "F",
       "href": "https://www.allbreedpedigree.com/flex5",
       "mstn": ""
@@ -20031,7 +20201,7 @@
       "year": 1994,
       "cnty": "JPN",
       "sex": "S",
-      "href": "https://www.jbis.or.jp/horse/0000287925/",
+      "href": "https://www.jbis.or.jp/horse/0000278245/",
       "mstn": "CT"
     },
     {
@@ -20328,7 +20498,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000333978/",
-      "mstn": ""
+      "mstn": "CT"
     }
   ],
   [
@@ -20346,7 +20516,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000333978/",
-      "mstn": ""
+      "mstn": "CT"
     },
     {
       "name": "Lassie Dear",
@@ -20362,6 +20532,40 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000334012/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Secretariat",
+      "year": 1970,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000333978/",
+      "mstn": "CT"
+    },
+    {
+      "name": "Bold Ruler",
+      "year": 1954,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000334140/",
+      "mstn": ""
+    },
+    {
+      "name": "Somethingroyal",
+      "year": 1952,
+      "cnty": "USA",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000388747/",
+      "mstn": ""
+    },
+    {
+      "name": "Princequillo",
+      "year": 1940,
+      "cnty": "IRE",
+      "sex": "S",
+      "href": "https://www.jbis.or.jp/horse/0000339120/",
       "mstn": ""
     }
   ],
@@ -24107,40 +24311,6 @@
   ],
   [
     {
-      "name": "Qredit",
-      "year": 2008,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.allbreedpedigree.com/qredit",
-      "mstn": "TT"
-    },
-    {
-      "name": "Quaterback",
-      "year": 2003,
-      "cnty": "GER",
-      "sex": "S",
-      "href": "https://www.allbreedpedigree.com/quaterback",
-      "mstn": ""
-    },
-    {
-      "name": "Dream Rubina",
-      "year": 2003,
-      "cnty": "USA",
-      "sex": "F",
-      "href": "https://www.allbreedpedigree.com/dream+rubina",
-      "mstn": ""
-    },
-    {
-      "name": "Dream of Glory",
-      "year": 1989,
-      "cnty": "USA",
-      "sex": "S",
-      "href": "https://www.allbreedpedigree.com/dream+of+glory2",
-      "mstn": ""
-    }
-  ],
-  [
-    {
       "name": "ステラリード",
       "year": 2007,
       "cnty": "JPN",
@@ -24952,7 +25122,7 @@
       "cnty": "USA",
       "sex": "S",
       "href": "https://www.jbis.or.jp/horse/0000333978/",
-      "mstn": ""
+      "mstn": "CT"
     }
   ],
   [
