@@ -8,9 +8,7 @@ let html = (await Bun.file("main.htm").text()).replaceAll(/\n/g, "").replaceAll(
 for (let i = 0; i < total; ++i) {
   html += "<p>";
   for (let j = 0; j < 4; ++j) {
-    let h = horses[i][j];
-    let href = h.href;
-    let mstn = h.mstn;
+    let { name, year, cnty, sex, tb, href, mstn } = horses[i][j];
     if (href) {
       let host = href.slice(8, href.indexOf("/", 10));
       if (host == "www.jbis.or.jp")
@@ -20,11 +18,12 @@ for (let i = 0; i < total; ++i) {
       else if (host == "www.allbreedpedigree.com")
         href = " href=//www.allbreedpedigree.com/" + href.slice(33).split("+").map(v => v[0].toUpperCase() + v.slice(1)).join("+");
       else
-        console.log(href = "href=" + href);
-    } else
+        href = "href=" + href.slice(6);
+    } else {
       href = "";
+    }
     mstn = mstn ? mstn == "CC" ? " s" : mstn == "CT" ? " a" : " e" : "";
-    html += `<a${href}${mstn}>${h.name}\u000a${h.year}-${h.cnty}${j ? "" : "-" + h.sex}`;
+    html += `<a${href}${mstn}>${name}\u000a${year ? year : "?"}-${cnty ? cnty : "?"}${j ? "" : "-" + sex}${tb ? "" : " *"}`;
   }
   html += "</a>"
 }
