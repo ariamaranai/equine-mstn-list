@@ -2680,7 +2680,7 @@
     },
     {
       "name": "Valentine Dreamin",
-      "year": null,
+      "year": 0,
       "cnty": "",
       "sex": "F",
       "tb": false,
@@ -5017,6 +5017,44 @@
   ],
   [
     {
+      "name": "Zannatrashya",
+      "year": 2015,
+      "cnty": "",
+      "sex": "M",
+      "tb": false,
+      "href": "https://www.allbreedpedigree.com/zannatrashya",
+      "mstn": "CC"
+    },
+    {
+      "name": "Gunnatrashya",
+      "year": 2006,
+      "cnty": "",
+      "sex": "S",
+      "tb": false,
+      "href": "https://www.allbreedpedigree.com/gunnatrashya",
+      "mstn": ""
+    },
+    {
+      "name": "Zans Little Step",
+      "year": 2010,
+      "cnty": "",
+      "sex": "F",
+      "tb": false,
+      "href": "https://www.allbreedpedigree.com/zans+little+step",
+      "mstn": ""
+    },
+    {
+      "name": "Shelbie Little Step",
+      "year": 2004,
+      "cnty": "",
+      "sex": "S",
+      "tb": false,
+      "href": "https://www.allbreedpedigree.com/shelbie+little+step",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Zousain",
       "year": 2015,
       "cnty": "AUS",
@@ -7064,6 +7102,44 @@
       "sex": "S",
       "tb": true,
       "href": "https://www.jbis.or.jp/horse/0000337848/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "BB Tang",
+      "year": 2010,
+      "cnty": "",
+      "sex": "F",
+      "tb": false,
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "Meradas Money Talks",
+      "year": 1993,
+      "cnty": "",
+      "sex": "S",
+      "tb": false,
+      "href": "https://www.allbreedpedigree.com/meradas+money+talks",
+      "mstn": ""
+    },
+    {
+      "name": "Two Eyed Jacks Wild",
+      "year": 0,
+      "cnty": "",
+      "sex": "F",
+      "tb": false,
+      "href": "",
+      "mstn": ""
+    },
+    {
+      "name": "-",
+      "year": 0,
+      "cnty": "",
+      "sex": "S",
+      "tb": false,
+      "href": "",
       "mstn": ""
     }
   ],
@@ -16114,7 +16190,7 @@
   ],
   [
     {
-      "name": "Alverio",
+      "name": "First Fleet",
       "year": 2016,
       "cnty": "AUS",
       "sex": "M",
@@ -16285,7 +16361,7 @@
     },
     {
       "name": "Rjj Miss Viagra Pep",
-      "year": null,
+      "year": 0,
       "cnty": "",
       "sex": "F",
       "tb": false,
@@ -18698,44 +18774,6 @@
   ],
   [
     {
-      "name": "グランデサムライ",
-      "year": 2012,
-      "cnty": "JPN",
-      "sex": "M",
-      "tb": true,
-      "href": "https://www.jbis.or.jp/horse/0001157625/",
-      "mstn": "CT"
-    },
-    {
-      "name": "サムライハート",
-      "year": 2002,
-      "cnty": "JPN",
-      "sex": "S",
-      "tb": true,
-      "href": "https://www.jbis.or.jp/horse/0000742996/",
-      "mstn": ""
-    },
-    {
-      "name": "パラダイスコースト",
-      "year": 2006,
-      "cnty": "USA",
-      "sex": "F",
-      "tb": true,
-      "href": "https://www.jbis.or.jp/horse/0001098777/",
-      "mstn": ""
-    },
-    {
-      "name": "Fusaichi Pegasus",
-      "year": 1997,
-      "cnty": "USA",
-      "sex": "S",
-      "tb": true,
-      "href": "https://www.jbis.or.jp/horse/0000621167/",
-      "mstn": ""
-    }
-  ],
-  [
-    {
       "name": "サウンドアラムシャ",
       "year": 2012,
       "cnty": "JPN",
@@ -20256,44 +20294,6 @@
   ],
   [
     {
-      "name": "Jolly Days",
-      "year": 2009,
-      "cnty": "USA",
-      "sex": "F",
-      "tb": true,
-      "href": "https://www.pedigreequery.com/jolly+days",
-      "mstn": "CT"
-    },
-    {
-      "name": "Street Cry",
-      "year": 1998,
-      "cnty": "IRE",
-      "sex": "S",
-      "tb": true,
-      "href": "https://www.jbis.or.jp/horse/0000621983/",
-      "mstn": ""
-    },
-    {
-      "name": "Hour of Justice",
-      "year": 2000,
-      "cnty": "USA",
-      "sex": "F",
-      "tb": true,
-      "href": "https://www.jbis.or.jp/horse/0000793890/",
-      "mstn": ""
-    },
-    {
-      "name": "Lit de Justice",
-      "year": 1990,
-      "cnty": "USA",
-      "sex": "S",
-      "tb": true,
-      "href": "https://www.jbis.or.jp/horse/0000355328/",
-      "mstn": ""
-    }
-  ],
-  [
-    {
       "name": "Graydar",
       "year": 2009,
       "cnty": "USA",
@@ -20365,6 +20365,44 @@
       "sex": "S",
       "tb": true,
       "href": "https://www.jbis.or.jp/horse/0000361623/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Jolly Days",
+      "year": 2009,
+      "cnty": "USA",
+      "sex": "F",
+      "tb": true,
+      "href": "https://www.pedigreequery.com/jolly+days",
+      "mstn": "CT"
+    },
+    {
+      "name": "Street Cry",
+      "year": 1998,
+      "cnty": "IRE",
+      "sex": "S",
+      "tb": true,
+      "href": "https://www.jbis.or.jp/horse/0000621983/",
+      "mstn": ""
+    },
+    {
+      "name": "Hour of Justice",
+      "year": 2000,
+      "cnty": "USA",
+      "sex": "F",
+      "tb": true,
+      "href": "https://www.jbis.or.jp/horse/0000793890/",
+      "mstn": ""
+    },
+    {
+      "name": "Lit de Justice",
+      "year": 1990,
+      "cnty": "USA",
+      "sex": "S",
+      "tb": true,
+      "href": "https://www.jbis.or.jp/horse/0000355328/",
       "mstn": ""
     }
   ],
@@ -23809,7 +23847,7 @@
     },
     {
       "name": "Sterling Serenade",
-      "year": null,
+      "year": 0,
       "cnty": "IRE",
       "sex": "F",
       "tb": false,
@@ -28920,6 +28958,44 @@
   ],
   [
     {
+      "name": "Escher Dfen",
+      "year": 2015,
+      "cnty": "",
+      "sex": "M",
+      "tb": false,
+      "href": "https://www.allbreedpedigree.com/escher+dfen",
+      "mstn": "TT"
+    },
+    {
+      "name": "Escudo II",
+      "year": 1992,
+      "cnty": "",
+      "sex": "S",
+      "tb": false,
+      "href": "https://www.allbreedpedigree.com/escudo+ii",
+      "mstn": ""
+    },
+    {
+      "name": "Apt To Please",
+      "year": 2000,
+      "cnty": "USA",
+      "sex": "F",
+      "tb": true,
+      "href": "https://www.jbis.or.jp/horse/0001018262/",
+      "mstn": ""
+    },
+    {
+      "name": "Pleasant Tap",
+      "year": 1987,
+      "cnty": "USA",
+      "sex": "S",
+      "tb": true,
+      "href": "https://www.jbis.or.jp/horse/0000339742/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Verry Elleegant",
       "year": 2015,
       "cnty": "AUS",
@@ -29148,6 +29224,44 @@
   ],
   [
     {
+      "name": "Barbarossa",
+      "year": 2014,
+      "cnty": "",
+      "sex": "M",
+      "tb": false,
+      "href": "https://www.allbreedpedigree.com/barbarossa19",
+      "mstn": "TT"
+    },
+    {
+      "name": "BuddenBrock",
+      "year": 1994,
+      "cnty": "",
+      "sex": "S",
+      "tb": false,
+      "href": "https://www.allbreedpedigree.com/buddenbrock",
+      "mstn": ""
+    },
+    {
+      "name": "Born In A Storm",
+      "year": 1994,
+      "cnty": "",
+      "sex": "F",
+      "tb": false,
+      "href": "https://www.allbreedpedigree.com/born+in+a+storm",
+      "mstn": ""
+    },
+    {
+      "name": "Beaute",
+      "year": 1965,
+      "cnty": "",
+      "sex": "S",
+      "tb": false,
+      "href": "https://www.allbreedpedigree.com/beaute3",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Bricks and Mortar",
       "year": 2014,
       "cnty": "USA",
@@ -29224,6 +29338,44 @@
   ],
   [
     {
+      "name": "Dominique",
+      "year": 2014,
+      "cnty": "",
+      "sex": "F",
+      "tb": false,
+      "href": "",
+      "mstn": "TT"
+    },
+    {
+      "name": "Don Hill",
+      "year": 1983,
+      "cnty": "",
+      "sex": "S",
+      "tb": false,
+      "href": "https://www.allbreedpedigree.com/don+hill",
+      "mstn": ""
+    },
+    {
+      "name": "Tasha",
+      "year": 2000,
+      "cnty": "",
+      "sex": "F",
+      "tb": false,
+      "href": "https://horsetelex.com/horses/pedigree/2147136/tasha",
+      "mstn": "TT"
+    },
+    {
+      "name": "Ferro",
+      "year": 1987,
+      "cnty": "",
+      "sex": "S",
+      "tb": false,
+      "href": "https://www.allbreedpedigree.com/ferro17",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Frost Queen",
       "year": 2014,
       "cnty": "USA",
@@ -29281,7 +29433,7 @@
     },
     {
       "name": "Spring Catch",
-      "year": 204,
+      "year": 2004,
       "cnty": "USA",
       "sex": "F",
       "tb": true,
@@ -29333,6 +29485,44 @@
       "sex": "S",
       "tb": true,
       "href": "https://www.jbis.or.jp/horse/0000365118/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "アグニシャイン",
+      "year": 2014,
+      "cnty": "JPN",
+      "sex": "S",
+      "tb": true,
+      "href": "https://www.jbis.or.jp/horse/0001191338/",
+      "mstn": "TT"
+    },
+    {
+      "name": "Harbinger",
+      "year": 2006,
+      "cnty": "GB",
+      "sex": "S",
+      "tb": true,
+      "href": "https://www.jbis.or.jp/horse/0001115148/",
+      "mstn": "TT"
+    },
+    {
+      "name": "ガールオンファイア",
+      "year": 2009,
+      "cnty": "JPN",
+      "sex": "F",
+      "tb": true,
+      "href": "https://www.jbis.or.jp/horse/0001106335/",
+      "mstn": ""
+    },
+    {
+      "name": "アグネスタキオン",
+      "year": 1998,
+      "cnty": "JPN",
+      "sex": "S",
+      "tb": true,
+      "href": "https://www.jbis.or.jp/horse/0000324933/",
       "mstn": ""
     }
   ],
@@ -29718,6 +29908,44 @@
   ],
   [
     {
+      "name": "スカーレットデビル",
+      "year": 2012,
+      "cnty": "JPN",
+      "sex": "S",
+      "tb": true,
+      "href": "https://www.jbis.or.jp/horse/0001153514/",
+      "mstn": "TT"
+    },
+    {
+      "name": "Harbinger",
+      "year": 2006,
+      "cnty": "GB",
+      "sex": "S",
+      "tb": true,
+      "href": "https://www.jbis.or.jp/horse/0001115148/",
+      "mstn": "TT"
+    },
+    {
+      "name": "スペシャルウィーク",
+      "year": 2003,
+      "cnty": "JPN",
+      "sex": "F",
+      "tb": true,
+      "href": "https://www.jbis.or.jp/horse/0000751639/",
+      "mstn": ""
+    },
+    {
+      "name": "スペシャルウィーク",
+      "year": 1995,
+      "cnty": "JPN",
+      "sex": "S",
+      "tb": true,
+      "href": "https://www.jbis.or.jp/horse/0000293624/",
+      "mstn": "TT"
+    }
+  ],
+  [
+    {
       "name": "ビヨンジオール",
       "year": 2012,
       "cnty": "JPN",
@@ -29994,7 +30222,7 @@
     },
     {
       "name": "Renkum Chapot",
-      "year": null,
+      "year": 0,
       "cnty": "",
       "sex": "S",
       "tb": false,
@@ -30056,6 +30284,44 @@
       "tb": true,
       "href": "https://www.jbis.or.jp/horse/0000293624/",
       "mstn": "TT"
+    }
+  ],
+  [
+    {
+      "name": "Argentum Bsh",
+      "year": 2009,
+      "cnty": "GER",
+      "sex": "S",
+      "tb": false,
+      "href": "https://sporthorse-data.com/pedigree/argentum-bsh-0",
+      "mstn": "TT"
+    },
+    {
+      "name": "Art Deco",
+      "year": 1983,
+      "cnty": "",
+      "sex": "S",
+      "tb": false,
+      "href": "https://www.allbreedpedigree.com/art+deco3",
+      "mstn": ""
+    },
+    {
+      "name": "Sasia",
+      "year": 2002,
+      "cnty": "USA",
+      "sex": "F",
+      "tb": true,
+      "href": "https://www.pedigreequery.com/sasia",
+      "mstn": ""
+    },
+    {
+      "name": "Slewvescent",
+      "year": 1988,
+      "cnty": "USA",
+      "sex": "S",
+      "tb": true,
+      "href": "https://www.jbis.or.jp/horse/0000352664/",
+      "mstn": ""
     }
   ],
   [
@@ -30364,6 +30630,44 @@
   ],
   [
     {
+      "name": "Tsetserleg Tsf",
+      "year": 2007,
+      "cnty": "",
+      "sex": "M",
+      "tb": false,
+      "href": "https://www.allbreedpedigree.com/tsetserleg+tsf",
+      "mstn": "TT"
+    },
+    {
+      "name": "Windfall",
+      "year": 1992,
+      "cnty": "",
+      "sex": "S",
+      "tb": false,
+      "href": "https://www.allbreedpedigree.com/windfall4",
+      "mstn": "TT"
+    },
+    {
+      "name": "Thabana",
+      "year": 2001,
+      "cnty": "",
+      "sex": "F",
+      "tb": false,
+      "href": "https://www.allbreedpedigree.com/thabana3",
+      "mstn": "TT"
+    },
+    {
+      "name": "BuddenBrock",
+      "year": 1994,
+      "cnty": "",
+      "sex": "S",
+      "tb": false,
+      "href": "https://www.allbreedpedigree.com/buddenbrock",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "ステラリード",
       "year": 2007,
       "cnty": "JPN",
@@ -30611,7 +30915,7 @@
     },
     {
       "name": "Bidorette",
-      "year": null,
+      "year": 0,
       "cnty": "",
       "sex": "F",
       "tb": false,
@@ -30701,6 +31005,44 @@
       "sex": "S",
       "tb": true,
       "href": "https://www.jbis.or.jp/horse/0000343242/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Don Marco",
+      "year": 2003,
+      "cnty": "",
+      "sex": "M",
+      "tb": false,
+      "href": "https://www.horsetelex.com/horses/pedigree/2125894/don-marco",
+      "mstn": "TT"
+    },
+    {
+      "name": "Domiro",
+      "year": 1995,
+      "cnty": "",
+      "sex": "S",
+      "tb": false,
+      "href": "https://www.allbreedpedigree.com/domiro",
+      "mstn": "TT"
+    },
+    {
+      "name": "Filoli",
+      "year": 0,
+      "cnty": "",
+      "sex": "F",
+      "tb": false,
+      "href": "https://www.horsetelex.com/horses/pedigree/2125896/filoli",
+      "mstn": ""
+    },
+    {
+      "name": "Fabriano",
+      "year": 1987,
+      "cnty": "",
+      "sex": "S",
+      "tb": false,
+      "href": "https://www.allbreedpedigree.com/fabriano3",
       "mstn": ""
     }
   ],
@@ -30860,8 +31202,8 @@
     {
       "name": "Bendigo",
       "year": 2002,
-      "cnty": "AUS",
-      "sex": "S",
+      "cnty": "USA",
+      "sex": "M",
       "tb": true,
       "href": "",
       "mstn": "TT"
@@ -30877,7 +31219,7 @@
     },
     {
       "name": "-",
-      "year": null,
+      "year": 0,
       "cnty": "",
       "sex": "F",
       "tb": true,
@@ -30886,7 +31228,7 @@
     },
     {
       "name": "-",
-      "year": null,
+      "year": 0,
       "cnty": "",
       "sex": "S",
       "tb": true,
@@ -30991,7 +31333,7 @@
     },
     {
       "name": "Mystica",
-      "year": null,
+      "year": 0,
       "cnty": "",
       "sex": "F",
       "tb": false,
@@ -31005,6 +31347,44 @@
       "sex": "S",
       "tb": false,
       "href": "https://www.allbreedpedigree.com/dream+of+glory2",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Thabana",
+      "year": 2001,
+      "cnty": "",
+      "sex": "F",
+      "tb": false,
+      "href": "https://www.allbreedpedigree.com/thabana3",
+      "mstn": "TT"
+    },
+    {
+      "name": "BuddenBrock",
+      "year": 1994,
+      "cnty": "",
+      "sex": "S",
+      "tb": false,
+      "href": "https://www.allbreedpedigree.com/buddenbrock",
+      "mstn": ""
+    },
+    {
+      "name": "Tramontana M",
+      "year": 1996,
+      "cnty": "",
+      "sex": "F",
+      "tb": false,
+      "href": "https://www.allbreedpedigree.com/tramontana+m",
+      "mstn": ""
+    },
+    {
+      "name": "Humanus",
+      "year": 1990,
+      "cnty": "",
+      "sex": "S",
+      "tb": false,
+      "href": "https://www.allbreedpedigree.com/humanus",
       "mstn": ""
     }
   ],
@@ -31043,6 +31423,44 @@
       "sex": "S",
       "tb": true,
       "href": "https://www.jbis.or.jp/horse/0000339659/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Tasha",
+      "year": 2000,
+      "cnty": "",
+      "sex": "F",
+      "tb": false,
+      "href": "https://horsetelex.com/horses/pedigree/2147136/tasha",
+      "mstn": "TT"
+    },
+    {
+      "name": "Ferro",
+      "year": 1987,
+      "cnty": "",
+      "sex": "S",
+      "tb": false,
+      "href": "https://www.allbreedpedigree.com/ferro17",
+      "mstn": ""
+    },
+    {
+      "name": "-",
+      "year": 0,
+      "cnty": "",
+      "sex": "F",
+      "tb": false,
+      "href": "",
+      "mstn": ""
+    },
+    {
+      "name": "-",
+      "year": 0,
+      "cnty": "",
+      "sex": "S",
+      "tb": false,
+      "href": "",
       "mstn": ""
     }
   ],
@@ -31234,6 +31652,44 @@
       "tb": true,
       "href": "https://www.jbis.or.jp/horse/0000336543/",
       "mstn": "TT"
+    }
+  ],
+  [
+    {
+      "name": "Domiro",
+      "year": 1995,
+      "cnty": "",
+      "sex": "S",
+      "tb": false,
+      "href": "https://www.allbreedpedigree.com/domiro",
+      "mstn": "TT"
+    },
+    {
+      "name": "Donnerhall",
+      "year": 1981,
+      "cnty": "",
+      "sex": "S",
+      "tb": false,
+      "href": "https://www.allbreedpedigree.com/donnerhall",
+      "mstn": ""
+    },
+    {
+      "name": "Pik Dame",
+      "year": 1990,
+      "cnty": "",
+      "sex": "F",
+      "tb": false,
+      "href": "https://www.allbreedpedigree.com/pik+dame59",
+      "mstn": ""
+    },
+    {
+      "name": "Pik Ramiro",
+      "year": 1981,
+      "cnty": "",
+      "sex": "S",
+      "tb": false,
+      "href": "https://allbreedpedigree.com/pik+ramiro",
+      "mstn": ""
     }
   ],
   [
