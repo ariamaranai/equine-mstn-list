@@ -7,12 +7,13 @@ let html = (await Bun.file("main.htm").text()).replaceAll(/\n/g, "").replaceAll(
 let mainNameForDebug = [];
 let hrefsForDebug = [];
 let namesForDebug = [];
+let duplName = ["-", "Eclipse"];
 
 for (let i = 0; i < total; ++i) {
   html += "<p>";
   // Debug
   let mainName = horses[i][0].name;
-  mainName != "-" && mainNameForDebug.includes(mainName) ? console.log(mainName) : mainNameForDebug.push(mainName);
+  !duplName.includes(mainName) && mainNameForDebug.includes(mainName) ? console.log(mainName) : mainNameForDebug.push(mainName);
 
   for (let j = 0; j < 4; ++j) {
     let { name, year, cnty, sex, tb, href, mstn } = horses[i][j];
@@ -42,8 +43,7 @@ for (let i = 0; i < total; ++i) {
         href = " href=" + href.slice(6);
     }
     mstn = mstn ? mstn == "CC" ? " s" : mstn == "CT" ? " a" : " e" : "";
-    html += `<a${href}${mstn}>${name}\u000a${year ? year : "?"}-${cnty ? cnty : "?"}${j ? "" : "-" + sex}${tb ? "" : " *"}`;
-
+    html += `<a${href}${mstn}>${name}\u000a${year ? year : ""}${cnty ? "-" + cnty : cnty}${j ? "" : "-" + sex}${tb ? "" : year || cnty ? " *" : "*"}`;
   }
   html += "</a>"
 }
