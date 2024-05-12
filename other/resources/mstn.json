@@ -82,7 +82,7 @@
       "mstn": ""
     },
     {
-      "name": "",
+      "name": "-",
       "year": 0,
       "type": "",
       "href": "",
@@ -220,7 +220,7 @@
     {
       "name": "Bet Yer Aces",
       "year": 2015,
-      "type": "APPENDIX",
+      "type": "QUARTER",
       "href": "https://www.allbreedpedigree.com/bet+yer+aces",
       "mstn": ""
     },
@@ -236,6 +236,36 @@
       "year": 1996,
       "type": "TB",
       "href": "https://www.allbreedpedigree.com/tribal+rule",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Zeus",
+      "year": 2023,
+      "type": "PAINT",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "Be Oh So Smooth",
+      "year": 2016,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/be+oh+so+smooth",
+      "mstn": ""
+    },
+    {
+      "name": "Fogg cat blue",
+      "year": 2003,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/fogg+cat+blue",
+      "mstn": ""
+    },
+    {
+      "name": "Call Me Mr Blue",
+      "year": 1992,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/call+me+mr+blue",
       "mstn": ""
     }
   ],
@@ -266,6 +296,96 @@
       "year": 0,
       "type": "PAINT",
       "href": "https://www.allbreedpedigree.com/strait+trophy",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Cph Victory Cool Moon",
+      "year": 2022,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/cph+victory+cool+moon",
+      "mstn": "CC"
+    },
+    {
+      "name": "Cph Neils Kanda Ice",
+      "year": 2014,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/cph+neils+kanda+ice",
+      "mstn": ""
+    },
+    {
+      "name": "Cph Moon Always Young",
+      "year": 2013,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/cph+moon+always+young",
+      "mstn": "CC"
+    },
+    {
+      "name": "Steady Young Gun",
+      "year": 2008,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/steady+young+gun",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Cph West Always Play",
+      "year": 2022,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/cph+west+always+play",
+      "mstn": "CC"
+    },
+    {
+      "name": "Giant Heart Rof",
+      "year": 2016,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/giant+heart+rof",
+      "mstn": "CC"
+    },
+    {
+      "name": "Always Fair",
+      "year": 2009,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/always+fair4",
+      "mstn": ""
+    },
+    {
+      "name": "Fair Bars Rocky",
+      "year": 1995,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/fair+bars+rocky",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Cph Willow Only Play",
+      "year": 2022,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/cph+willow+only+play",
+      "mstn": "CC"
+    },
+    {
+      "name": "Giant Heart Rof",
+      "year": 2016,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/giant+heart+rof",
+      "mstn": "CC"
+    },
+    {
+      "name": "Cph Only Crystal Valu",
+      "year": 2015,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/cph+only+crystal+valu",
+      "mstn": ""
+    },
+    {
+      "name": "Ice Crystal Dun It",
+      "year": 2012,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/ice+crystal+dun+it",
       "mstn": ""
     }
   ],
@@ -361,6 +481,36 @@
   ],
   [
     {
+      "name": "Fer Tastefull Impulse",
+      "year": 2022,
+      "type": "",
+      "href": "https://www.allbreedpedigree.com/fer+tastefull+impulse",
+      "mstn": "CC"
+    },
+    {
+      "name": "Tasteful",
+      "year": 2010,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/tasteful5",
+      "mstn": ""
+    },
+    {
+      "name": "The Party Impulse",
+      "year": 2015,
+      "type": "",
+      "href": "https://www.allbreedpedigree.com/the+party+impulse",
+      "mstn": ""
+    },
+    {
+      "name": "The New Talent",
+      "year": 2010,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/the+new+talent",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Fg Lavish Lola",
       "year": 2022,
       "type": "PAINT",
@@ -398,11 +548,11 @@
       "mstn": "CC"
     },
     {
-      "name": "Firearms N Flashin",
+      "name": "Firearms A Flashin",
       "year": 2013,
       "type": "PAINT",
       "href": "https://www.allbreedpedigree.com/firearms+a+flashin",
-      "mstn": ""
+      "mstn": "CC"
     },
     {
       "name": "Jj Saltys Blue Fury",
@@ -751,6 +901,36 @@
   ],
   [
     {
+      "name": "Well Iota",
+      "year": 2022,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/well+iota",
+      "mstn": "CC"
+    },
+    {
+      "name": "No Doubt Im Lazy",
+      "year": 2006,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/no+doubt+im+lazy",
+      "mstn": ""
+    },
+    {
+      "name": "Iota Be Deja Blue",
+      "year": 2018,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/iota+be+deja+blue",
+      "mstn": ""
+    },
+    {
+      "name": "Vs Code Blue",
+      "year": 2007,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/vs+code+blue",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Wicked Genius",
       "year": 2022,
       "type": "PAINT",
@@ -991,6 +1171,66 @@
   ],
   [
     {
+      "name": "Cph Umber Risky Cool",
+      "year": 2021,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/cph+umber+risky+cool",
+      "mstn": "CC"
+    },
+    {
+      "name": "Cph Neils Kanda Ice",
+      "year": 2014,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/cph+neils+kanda+ice",
+      "mstn": ""
+    },
+    {
+      "name": "Diaman H Lil Pep Risk",
+      "year": 2006,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/diaman+h+lil+pep+risk",
+      "mstn": ""
+    },
+    {
+      "name": "Ris Key Business",
+      "year": 1984,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/ris+key+business",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Cph Umpa Cool Choise",
+      "year": 2021,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/cph+umpa+cool+choice",
+      "mstn": "CC"
+    },
+    {
+      "name": "Cph Neils Kanda Ice",
+      "year": 2014,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/cph+neils+kanda+ice",
+      "mstn": ""
+    },
+    {
+      "name": "Vvr Dun It In Choice",
+      "year": 2009,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/vvr+dun+it+in+choice",
+      "mstn": ""
+    },
+    {
+      "name": "Hb Instant Choice",
+      "year": 1996,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/hb+instant+choice",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Dynamic Chrome",
       "year": 2021,
       "type": "PAINT",
@@ -1201,6 +1441,36 @@
   ],
   [
     {
+      "name": "No Doubt Im Ur Daddy",
+      "year": 2021,
+      "type": "PAINT",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "The Sugar Daddy",
+      "year": 2012,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/the+sugar+daddy",
+      "mstn": ""
+    },
+    {
+      "name": "Lazy Chocolate Loper",
+      "year": 2014,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/lazy+chocolate+loper",
+      "mstn": ""
+    },
+    {
+      "name": "No Doubt Im Lazy",
+      "year": 2006,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/no+doubt+im+lazy",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "One Foxy Ace",
       "year": 2021,
       "type": "PAINT",
@@ -1226,6 +1496,36 @@
       "year": 1997,
       "type": "PAINT",
       "href": "https://www.allbreedpedigree.com/imabadcutterdeeman",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Pretty Tricky",
+      "year": 2021,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/pretty+tricky5",
+      "mstn": "CC"
+    },
+    {
+      "name": "Tricked Out Spook",
+      "year": 2010,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/tricked+out+spook",
+      "mstn": ""
+    },
+    {
+      "name": "Ima Fine Ride",
+      "year": 2011,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/ima+fine+ride",
+      "mstn": ""
+    },
+    {
+      "name": "Playguns Ride",
+      "year": 2004,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/playguns+ride",
       "mstn": ""
     }
   ],
@@ -1345,7 +1645,7 @@
       "name": "Zippos Sensation",
       "year": 1993,
       "type": "PAINT",
-      "href": "https://infochevaux.ifce.fr/en/Zippos-Sensation-y9009h2gQlWfAGQKH8EW8w/infos-generales",
+      "href": "https://www.allbreedpedigree.com/zippos+sensation",
       "mstn": ""
     }
   ],
@@ -1381,6 +1681,36 @@
   ],
   [
     {
+      "name": "Whoa Chexy Girl",
+      "year": 2021,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/whoa+chexy+girl",
+      "mstn": "CC"
+    },
+    {
+      "name": "Fritzy King Chex",
+      "year": 2002,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/fritzy+king+chex",
+      "mstn": ""
+    },
+    {
+      "name": "Hey Nina O Lena",
+      "year": 2009,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/hey+nina+o+lena",
+      "mstn": ""
+    },
+    {
+      "name": "Hey Whoa O Lena",
+      "year": 2001,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/hey+whoa+o+lena",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Wild Time D Flots",
       "year": 2021,
       "type": "PAINT",
@@ -1411,6 +1741,36 @@
   ],
   [
     {
+      "name": "Chexs In My Khakis",
+      "year": 2020,
+      "type": "",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "Khaki Te",
+      "year": 2007,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/khaki+te",
+      "mstn": "CC"
+    },
+    {
+      "name": "Bueno Bess",
+      "year": 1999,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/bueno+bess",
+      "mstn": ""
+    },
+    {
+      "name": "Bueno Chex Jr",
+      "year": 1976,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/bueno+chex+jr",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Cisco",
       "year": 2020,
       "type": "PAINT",
@@ -1436,6 +1796,96 @@
       "year": 0,
       "type": "",
       "href": "",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Cph Taiga Kimi Play",
+      "year": 2020,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/cph+taiga+kimi+play",
+      "mstn": "CC"
+    },
+    {
+      "name": "Giant Heart Rof",
+      "year": 2016,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/giant+heart+rof",
+      "mstn": "CC"
+    },
+    {
+      "name": "Sibury Kimimila",
+      "year": 2010,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/silbury+kimimila",
+      "mstn": ""
+    },
+    {
+      "name": "Ac Spatdunit Revenge",
+      "year": 2007,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/ac+spatdunit+revenge",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Cph Time Always Play",
+      "year": 2020,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/cph+time+always+play",
+      "mstn": "CC"
+    },
+    {
+      "name": "Giant Heart Rof",
+      "year": 2016,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/giant+heart+rof",
+      "mstn": "CC"
+    },
+    {
+      "name": "Always Fair",
+      "year": 2009,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/always+fair4",
+      "mstn": ""
+    },
+    {
+      "name": "Fair Bars Rocky",
+      "year": 1995,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/fair+bars+rocky",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Endlessly Lopin Lazy",
+      "year": 2020,
+      "type": "PAINT",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "Endless Potential",
+      "year": 2015,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/endless+potential2",
+      "mstn": ""
+    },
+    {
+      "name": "Pretty Loping Lady",
+      "year": 2014,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/pretty+loping+lady",
+      "mstn": ""
+    },
+    {
+      "name": "Lazy Loper",
+      "year": 2001,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/lazy+loper",
       "mstn": ""
     }
   ],
@@ -1492,7 +1942,7 @@
       "mstn": ""
     },
     {
-      "name": "",
+      "name": "-",
       "year": 0,
       "type": "",
       "href": "",
@@ -1531,6 +1981,66 @@
   ],
   [
     {
+      "name": "Hot Sparks At Midnight",
+      "year": 2020,
+      "type": "",
+      "href": "",
+      "mstn": ""
+    },
+    {
+      "name": "Just A Shot Of Sparks",
+      "year": 2008,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/just+a+shot+of+sparks",
+      "mstn": ""
+    },
+    {
+      "name": "Sparks Fly At Midnight",
+      "year": 2007,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/sparks+fly+at+midnight",
+      "mstn": ""
+    },
+    {
+      "name": "Shots Flying Spark",
+      "year": 1988,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/shots+flying+spark",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Ima Spiffy Loper",
+      "year": 2020,
+      "type": "QUARTER",
+      "href": "",
+      "mstn": ""
+    },
+    {
+      "name": "Lazy Loper",
+      "year": 2001,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/lazy+loper",
+      "mstn": ""
+    },
+    {
+      "name": "Spiffylicious",
+      "year": 2013,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/spiffylicious",
+      "mstn": "CC"
+    },
+    {
+      "name": "Good N Sultry",
+      "year": 2003,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/good+n+sultry",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Keep On Dreaming",
       "year": 2020,
       "type": "",
@@ -1561,6 +2071,36 @@
   ],
   [
     {
+      "name": "Lil Lopin Machine",
+      "year": 2020,
+      "type": "QUARTER",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "The Lopin Machine",
+      "year": 2012,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/the+lopin+machine",
+      "mstn": ""
+    },
+    {
+      "name": "Skin Tight Jeans",
+      "year": 0,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/skin+tight+jeans",
+      "mstn": ""
+    },
+    {
+      "name": "Intimidating Te",
+      "year": 1997,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/intimidating+te",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Oh So Premo",
       "year": 2020,
       "type": "QUARTER",
@@ -1586,6 +2126,36 @@
       "year": 1999,
       "type": "QUARTER",
       "href": "https://www.allbreedpedigree.com/mr+touchdown+kid",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Pickles",
+      "year": 2020,
+      "type": "",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "Hes Stylin",
+      "year": 2006,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/hes+stylin",
+      "mstn": ""
+    },
+    {
+      "name": "Casula Dot Com",
+      "year": 0,
+      "type": "PAINT",
+      "href": "",
+      "mstn": ""
+    },
+    {
+      "name": "-",
+      "year": 0,
+      "type": "",
+      "href": "",
       "mstn": ""
     }
   ],
@@ -1771,31 +2341,31 @@
   ],
   [
     {
-      "name": "Ws Chili Dun Spicy",
+      "name": "-",
       "year": 2019,
-      "type": "QUARTER",
+      "type": "",
       "href": "",
       "mstn": "CC"
     },
     {
-      "name": "Dun It In Platinum",
-      "year": 2006,
-      "type": "QUARTER",
-      "href": "https://www.allbreedpedigree.com/dun+it+in+platinum",
+      "name": "Khaki Te",
+      "year": 2007,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/khaki+te",
+      "mstn": "CC"
+    },
+    {
+      "name": "Lil Bit Of Socket",
+      "year": 2009,
+      "type": "PAINT",
+      "href": "CC",
       "mstn": ""
     },
     {
-      "name": "SV Spice Girl",
-      "year": 2004,
-      "type": "QUARTER",
-      "href": "https://www.allbreedpedigree.com/sv+spice+girl",
-      "mstn": ""
-    },
-    {
-      "name": "Peppy San CoLonel",
-      "year": 2000,
-      "type": "QUARTER",
-      "href": "https://www.allbreedpedigree.com/peppy+san+colonel",
+      "name": "Extra Heir",
+      "year": 1995,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/extra+heir",
       "mstn": ""
     }
   ],
@@ -1826,6 +2396,126 @@
       "year": 2002,
       "type": "PAINT",
       "href": "https://www.allbreedpedigree.com/a+little+legacy",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Afb Perfect Shady Bar",
+      "year": 2019,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/afb+perfect+shady+bar",
+      "mstn": "CC"
+    },
+    {
+      "name": "Rollin Dd Shade",
+      "year": 2014,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/rollin+dd+shade",
+      "mstn": ""
+    },
+    {
+      "name": "For Top Seven Sockets",
+      "year": 2015,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/for+top+seven+sockets",
+      "mstn": ""
+    },
+    {
+      "name": "Kitts Perfect Motega",
+      "year": 2005,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/kitts+perfect+motega",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Gone Day Dreamin",
+      "year": 2019,
+      "type": "QUARTER",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "Gone Viral",
+      "year": 2014,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/gone+viral",
+      "mstn": ""
+    },
+    {
+      "name": "Skin Tight Jeans",
+      "year": 0,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/skin+tight+jeans",
+      "mstn": ""
+    },
+    {
+      "name": "Intimidating Te",
+      "year": 1997,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/intimidating+te",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Greatest Of All Time",
+      "year": 2019,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/greatest+of+all+time",
+      "mstn": "CC"
+    },
+    {
+      "name": "Almost Too Fancy",
+      "year": 2004,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/almost+too+fancy",
+      "mstn": ""
+    },
+    {
+      "name": "Dynamic Sensations",
+      "year": 2012,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/dynamic+sensations",
+      "mstn": "CC"
+    },
+    {
+      "name": "Zippos Sensation",
+      "year": 1993,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/zippos+sensation",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Greyt Blazin Wind",
+      "year": 2019,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/greyt+blazin+wind",
+      "mstn": "CC"
+    },
+    {
+      "name": "Greyt Whiz",
+      "year": 2002,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/greyt+whiz",
+      "mstn": ""
+    },
+    {
+      "name": "Bitzolena",
+      "year": 2006,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/bitzolena",
+      "mstn": ""
+    },
+    {
+      "name": "Lobo Lena Quixote",
+      "year": 1994,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/lobo+lena+quixote",
       "mstn": ""
     }
   ],
@@ -1877,7 +2567,7 @@
     {
       "name": "Very Vegas",
       "year": 0,
-      "type": "APPENDIX",
+      "type": "QUARTER",
       "href": "",
       "mstn": ""
     },
@@ -1981,6 +2671,36 @@
   ],
   [
     {
+      "name": "Qtsbluediamondsparkle",
+      "year": 2019,
+      "type": "PAINT",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "Terrific Blue Horizon",
+      "year": 2009,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/terrific+blue+horizon",
+      "mstn": ""
+    },
+    {
+      "name": "Kizzie Sugar",
+      "year": 2015,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/kizzie+sugar",
+      "mstn": ""
+    },
+    {
+      "name": "Cd Zan",
+      "year": 1999,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/cd+zan",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Riii Grand Duke",
       "year": 2019,
       "type": "QUARTER",
@@ -2041,6 +2761,66 @@
   ],
   [
     {
+      "name": "Wimpyneedsa Lil Star",
+      "year": 2019,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/wimpyneedsa+lil+star",
+      "mstn": "CC"
+    },
+    {
+      "name": "Wimpyneedsacocktail",
+      "year": 2007,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/wimpyneedsacocktail",
+      "mstn": "CC"
+    },
+    {
+      "name": "Lynxs Little Star",
+      "year": 2001,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/lynxs+little+star",
+      "mstn": "CC"
+    },
+    {
+      "name": "Smartest Little Lynx",
+      "year": 1998,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/smartest+little+lynx",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Ws Chili Dun Spicy",
+      "year": 2019,
+      "type": "QUARTER",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "Dun It In Platinum",
+      "year": 2006,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/dun+it+in+platinum",
+      "mstn": ""
+    },
+    {
+      "name": "SV Spice Girl",
+      "year": 2004,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/sv+spice+girl",
+      "mstn": ""
+    },
+    {
+      "name": "Peppy San CoLonel",
+      "year": 2000,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/peppy+san+colonel",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Ws Fritzs Tiny Lass",
       "year": 2019,
       "type": "QUARTER",
@@ -2066,6 +2846,36 @@
       "year": 1990,
       "type": "QUARTER",
       "href": "https://www.allbreedpedigree.com/bobs+bar+chex",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Baron",
+      "year": 2018,
+      "type": "",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "Jesters Coloredsummer",
+      "year": 2009,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/jesters+coloredsummer",
+      "mstn": ""
+    },
+    {
+      "name": "Strait Cooke County",
+      "year": 2001,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/strait+cooke+county",
+      "mstn": ""
+    },
+    {
+      "name": "Strait From Texas",
+      "year": 1992,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/strait+from+texas",
       "mstn": ""
     }
   ],
@@ -2281,6 +3091,96 @@
   ],
   [
     {
+      "name": "Arizona Cc Montega Rd",
+      "year": 2017,
+      "type": "",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "Black Boy Motega RD",
+      "year": 0,
+      "type": "",
+      "href": "",
+      "mstn": ""
+    },
+    {
+      "name": "Miss Spotlight B",
+      "year": 2000,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/miss+spotlight+b",
+      "mstn": ""
+    },
+    {
+      "name": "Mr Candy Bugs",
+      "year": 0,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/mr+candy+bugs",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Chopin Eye Tee",
+      "year": 2017,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/chopin+eye+tee",
+      "mstn": "CC"
+    },
+    {
+      "name": "Mr Black Eyed Te",
+      "year": 2010,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/mr+black+eyed+te",
+      "mstn": ""
+    },
+    {
+      "name": "Catalina Splash",
+      "year": 0,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/catalina+splash",
+      "mstn": ""
+    },
+    {
+      "name": "Barlnk Cadilac Kid",
+      "year": 1993,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/barlnk+cadilac+kid",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Corderos Skip Lady",
+      "year": 2017,
+      "type": "QUARTER",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "Surenuff Cordero",
+      "year": 2009,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/surenuff+cordero",
+      "mstn": ""
+    },
+    {
+      "name": "Lil Miss Auburn",
+      "year": 2007,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/lil+miss+auburn",
+      "mstn": ""
+    },
+    {
+      "name": "A Legend At Last",
+      "year": 1996,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/a+legend+at+last",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Cs Sliverado Smoke",
       "year": 2017,
       "type": "QUARTER",
@@ -2336,6 +3236,36 @@
       "year": 0,
       "type": "QUARTER",
       "href": "https://www.allbreedpedigree.com/hustlers+deck+of+stars",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Kissed The Printer",
+      "year": 2017,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/kissed+the+printer",
+      "mstn": "CC"
+    },
+    {
+      "name": "Its A Printer Thing",
+      "year": 2004,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/its+a+printer+thing",
+      "mstn": ""
+    },
+    {
+      "name": "Alainas Kisses",
+      "year": 2004,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/alainas+kisses",
+      "mstn": ""
+    },
+    {
+      "name": "Kiss The Girls",
+      "year": 1997,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/kiss+the+girls",
       "mstn": ""
     }
   ],
@@ -2401,6 +3331,36 @@
   ],
   [
     {
+      "name": "Sparkin Bitzolena",
+      "year": 2017,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/sparkin+bitzolena",
+      "mstn": "CC"
+    },
+    {
+      "name": "Sparkin Express",
+      "year": 1994,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/sparkin+express",
+      "mstn": ""
+    },
+    {
+      "name": "Bitzolena",
+      "year": 2006,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/bitzolena",
+      "mstn": ""
+    },
+    {
+      "name": "Lobo Lena Quixote",
+      "year": 1994,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/lobo+lena+quixote",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "UB A Stylin Mobster",
       "year": 2017,
       "type": "QUARTER",
@@ -2456,6 +3416,96 @@
       "year": 1997,
       "type": "QUARTER",
       "href": "https://www.allbreedpedigree.com/definitly+a+dunit",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Fl Spirit Ole Chic",
+      "year": 2016,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/fl+spirit+ole+chic",
+      "mstn": "CC"
+    },
+    {
+      "name": "Naps Ole Chic",
+      "year": 2001,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/naps+ole+chic",
+      "mstn": ""
+    },
+    {
+      "name": "Dl Gambles Bat Bonnie",
+      "year": 0,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/dl+gambles+bat+bonnie",
+      "mstn": ""
+    },
+    {
+      "name": "Gambles Black Bat",
+      "year": 2002,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/gambles+black+bat",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Giant Heart Rof",
+      "year": 2016,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/giant+heart+rof",
+      "mstn": "CC"
+    },
+    {
+      "name": "Mr Heart Attack",
+      "year": 2001,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/mr+heart+attack",
+      "mstn": ""
+    },
+    {
+      "name": "Coatinga Poco Smoke",
+      "year": 2012,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/coatinga+poco+smoke",
+      "mstn": ""
+    },
+    {
+      "name": "Persi Poco Smoke",
+      "year": 2003,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/persi+poco+smoke",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Midas B A Sensation",
+      "year": 2016,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/midas+b+a+sensation",
+      "mstn": "CC"
+    },
+    {
+      "name": "The Gift Of Midas",
+      "year": 2005,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/the+gift+of+midas",
+      "mstn": ""
+    },
+    {
+      "name": "Miss Millenium Zippo",
+      "year": 2000,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/miss+millenium+zippo",
+      "mstn": ""
+    },
+    {
+      "name": "Zippos Sensation",
+      "year": 1993,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/zippos+sensation",
       "mstn": ""
     }
   ],
@@ -2551,6 +3601,36 @@
   ],
   [
     {
+      "name": "Smart Shiner Jaynee",
+      "year": 2016,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/smart+shiner+jaynee",
+      "mstn": "CC"
+    },
+    {
+      "name": "Smart Shiner Nic",
+      "year": 2009,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/smart+shiner+nic",
+      "mstn": ""
+    },
+    {
+      "name": "Bitzolena",
+      "year": 2006,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/bitzolena",
+      "mstn": ""
+    },
+    {
+      "name": "Lobo Lena Quixote",
+      "year": 1994,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/lobo+lena+quixote",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Blondies Pink Girl",
       "year": 2015,
       "type": "QUARTER",
@@ -2606,6 +3686,36 @@
       "year": 2001,
       "type": "QUARTER",
       "href": "https://www.allbreedpedigree.com/dj+bright+deja+vu",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Haul Of Fame",
+      "year": 2015,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/haul+of+fame",
+      "mstn": "CC"
+    },
+    {
+      "name": "Eddie Stinson",
+      "year": 2003,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/eddie+stinson",
+      "mstn": ""
+    },
+    {
+      "name": "Take It To The House",
+      "year": 2002,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/take+it+to+the+house",
+      "mstn": ""
+    },
+    {
+      "name": "Invisible Injun",
+      "year": 1991,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/invisible+injun",
       "mstn": ""
     }
   ],
@@ -2692,7 +3802,7 @@
       "mstn": ""
     },
     {
-      "name": "",
+      "name": "-",
       "year": 0,
       "type": "",
       "href": "",
@@ -2851,6 +3961,36 @@
   ],
   [
     {
+      "name": "Bos Black Pearl",
+      "year": 2014,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/bos+black+pearl",
+      "mstn": "CC"
+    },
+    {
+      "name": "Bo Max",
+      "year": 1999,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/bo+max4",
+      "mstn": ""
+    },
+    {
+      "name": "Wispers Little Page",
+      "year": 0,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/wispers+little+page",
+      "mstn": ""
+    },
+    {
+      "name": "Justa Magic Page",
+      "year": 0,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/justa+magic+page",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Duramax Dually",
       "year": 2014,
       "type": "QUARTER",
@@ -2911,6 +4051,66 @@
   ],
   [
     {
+      "name": "Obviously A Lazy",
+      "year": 2014,
+      "type": "",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "Lazy Loper",
+      "year": 2001,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/lazy+loper",
+      "mstn": ""
+    },
+    {
+      "name": "Sheza Obvious Imprint",
+      "year": 0,
+      "type": "",
+      "href": "",
+      "mstn": ""
+    },
+    {
+      "name": "-",
+      "year": 0,
+      "type": "",
+      "href": "",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Cph Moon Always Young",
+      "year": 2013,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/cph+moon+always+young",
+      "mstn": "CC"
+    },
+    {
+      "name": "Steady Young Gun",
+      "year": 2008,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/steady+young+gun",
+      "mstn": ""
+    },
+    {
+      "name": "Always Fair",
+      "year": 2009,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/always+fair4",
+      "mstn": ""
+    },
+    {
+      "name": "Fair Bars Rocky",
+      "year": 1995,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/fair+bars+rocky",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Crossheart Pearl",
       "year": 2013,
       "type": "QUARTER",
@@ -2936,6 +4136,36 @@
       "year": 2004,
       "type": "QUARTER",
       "href": "https://www.allbreedpedigree.com/rowdy+blue+goose",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Firearms A Flashin",
+      "year": 2013,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/firearms+a+flashin",
+      "mstn": "CC"
+    },
+    {
+      "name": "Arm Yourself",
+      "year": 2010,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/arm+yourself",
+      "mstn": ""
+    },
+    {
+      "name": "Driftin Penny",
+      "year": 1994,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/driftin+penny",
+      "mstn": ""
+    },
+    {
+      "name": "Encore",
+      "year": 1982,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/encore10",
       "mstn": ""
     }
   ],
@@ -2967,6 +4197,66 @@
       "type": "QUARTER",
       "href": "https://www.allbreedpedigree.com/mr+john+glo",
       "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Spiffylicious",
+      "year": 2013,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/spiffylicious",
+      "mstn": "CC"
+    },
+    {
+      "name": "Good N Sultry",
+      "year": 2003,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/good+n+sultry",
+      "mstn": ""
+    },
+    {
+      "name": "Whata Fine Pine",
+      "year": 2000,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/whata+fine+pine",
+      "mstn": ""
+    },
+    {
+      "name": "Vested Pine",
+      "year": 1991,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/vested+pine",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Dynamic Sensations",
+      "year": 2012,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/dynamic+sensations",
+      "mstn": "CC"
+    },
+    {
+      "name": "Zippos Sensation",
+      "year": 1993,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/zippos+sensation",
+      "mstn": ""
+    },
+    {
+      "name": "Dynamic Mac",
+      "year": 1993,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/dynamic+mac",
+      "mstn": "CC"
+    },
+    {
+      "name": "Mr Mac Reynolds",
+      "year": 1976,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/mr+mac+reynolds",
+      "mstn": "CC"
     }
   ],
   [
@@ -3031,6 +4321,36 @@
   ],
   [
     {
+      "name": "Doublecash",
+      "year": 2011,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/doublecash",
+      "mstn": "CC"
+    },
+    {
+      "name": "Raren To Dash",
+      "year": 1997,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/raren+to+dash",
+      "mstn": ""
+    },
+    {
+      "name": "Paid To Turn N Burn",
+      "year": 1998,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/paid+to+turn+n+barn",
+      "mstn": ""
+    },
+    {
+      "name": "Preferred Pay",
+      "year": 1979,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/preferred+pay",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Great Fairybell Bar",
       "year": 2011,
       "type": "PAINT",
@@ -3056,6 +4376,36 @@
       "year": 1992,
       "type": "PAINT",
       "href": "https://www.allbreedpedigree.com/mr+jb+honey+bars",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Johnnys Laughing Boy",
+      "year": 2011,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/johnnys+laughing+boy",
+      "mstn": "CC"
+    },
+    {
+      "name": "Jk Copper Bruce",
+      "year": 1990,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/jk+copper+bruce",
+      "mstn": ""
+    },
+    {
+      "name": "Jk Ima Jewel",
+      "year": 2001,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/jk+ima+jewel",
+      "mstn": ""
+    },
+    {
+      "name": "Docs Laughing Boy",
+      "year": 1995,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/docs+laughing+boy",
       "mstn": ""
     }
   ],
@@ -3151,6 +4501,36 @@
   ],
   [
     {
+      "name": "B Downtown Ina Minute",
+      "year": 2009,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/b+downtown+ina+minute",
+      "mstn": "CC"
+    },
+    {
+      "name": "Extra Heir",
+      "year": 1995,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/extra+heir",
+      "mstn": ""
+    },
+    {
+      "name": "New York Minute",
+      "year": 0,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/new+york+minute2",
+      "mstn": ""
+    },
+    {
+      "name": "Mr Be Downtown",
+      "year": 1997,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/mr+be+downtown",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Highbrows Foxy Doc",
       "year": 2009,
       "type": "QUARTER",
@@ -3236,6 +4616,36 @@
       "year": 1989,
       "type": "QUARTER",
       "href": "https://www.allbreedpedigree.com/good+asset",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Lil Bit Of Socket",
+      "year": 2009,
+      "type": "PAINT",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "Extra Heir",
+      "year": 1995,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/extra+heir",
+      "mstn": ""
+    },
+    {
+      "name": "Tkjs Late My Date",
+      "year": 2001,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/tkjs+late+for+my+date",
+      "mstn": ""
+    },
+    {
+      "name": "Socketts Concluson",
+      "year": 1996,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/socketts+concluson",
       "mstn": ""
     }
   ],
@@ -3421,6 +4831,66 @@
   ],
   [
     {
+      "name": "Penne Pasta",
+      "year": 2008,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/penne+pasta",
+      "mstn": "CC"
+    },
+    {
+      "name": "Reys Dual Badger",
+      "year": 2000,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/reys+dual+badger",
+      "mstn": ""
+    },
+    {
+      "name": "Cappuccino And Pasta",
+      "year": 1996,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/cappuccino+and+pasta",
+      "mstn": ""
+    },
+    {
+      "name": "Cd Olena",
+      "year": 1991,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/cd+olena",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Sensational Hippy",
+      "year": 2008,
+      "type": "",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "Zippos Sensation",
+      "year": 1993,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/zippos+sensation",
+      "mstn": ""
+    },
+    {
+      "name": "A Certain Melody",
+      "year": 2001,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/a+certain+melody",
+      "mstn": ""
+    },
+    {
+      "name": "Certain Potential",
+      "year": 1996,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/certain+potential",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Sweetheart Sensation",
       "year": 2008,
       "type": "PAINT",
@@ -3431,7 +4901,7 @@
       "name": "Zippos Sensation",
       "year": 1993,
       "type": "PAINT",
-      "href": "https://infochevaux.ifce.fr/en/Zippos-Sensation-y9009h2gQlWfAGQKH8EW8w/infos-generales",
+      "href": "https://www.allbreedpedigree.com/zippos+sensation",
       "mstn": ""
     },
     {
@@ -3511,6 +4981,66 @@
   ],
   [
     {
+      "name": "Khaki Te",
+      "year": 2007,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/khaki+te",
+      "mstn": "CC"
+    },
+    {
+      "name": "Teerramus",
+      "year": 2001,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/teerramus",
+      "mstn": ""
+    },
+    {
+      "name": "Machos Ladys Lass",
+      "year": 19991,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/machos+ladys+lass",
+      "mstn": ""
+    },
+    {
+      "name": "Barlink Macho Man",
+      "year": 1982,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/barlink+macho+man",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Rock N Dudleyrific",
+      "year": 2007,
+      "type": "",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "Rocks Opinion",
+      "year": 0,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/rocks+opinion",
+      "mstn": ""
+    },
+    {
+      "name": "Miss Rebarific",
+      "year": 1992,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/miss+rebarific",
+      "mstn": ""
+    },
+    {
+      "name": "Starrific",
+      "year": 1980,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/starrific",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Like A Rolex",
       "year": 2006,
       "type": "PAINT",
@@ -3566,6 +5096,36 @@
       "year": 1977,
       "type": "QUARTER",
       "href": "https://www.allbreedpedigree.com/exotic+man",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Seco Tom Magic Jetty",
+      "year": 2006,
+      "type": "",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "Lazy Loper",
+      "year": 1992,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/seco+tom",
+      "mstn": ""
+    },
+    {
+      "name": "Sheza Obvious Imprint",
+      "year": 0,
+      "type": "",
+      "href": "",
+      "mstn": ""
+    },
+    {
+      "name": "-",
+      "year": 0,
+      "type": "",
+      "href": "",
       "mstn": ""
     }
   ],
@@ -3686,6 +5246,36 @@
       "year": 1955,
       "type": "QUARTER",
       "href": "https://www.allbreedpedigree.com/jimeny+jumpup",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Mbr Simplee Sassy",
+      "year": 2004,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/mbr+simplee+sassy",
+      "mstn": "CC"
+    },
+    {
+      "name": "Peppy O Delta",
+      "year": 1996,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/peppy+o+delta",
+      "mstn": ""
+    },
+    {
+      "name": "Simplee Sizzlyn",
+      "year": 1989,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/simplee+sizzlyn",
+      "mstn": ""
+    },
+    {
+      "name": "Sizzlin Twist",
+      "year": 1980,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/sizzlin+twist",
       "mstn": ""
     }
   ],
@@ -3841,6 +5431,66 @@
   ],
   [
     {
+      "name": "Lynxs Little Star",
+      "year": 2001,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/lynxs+little+star",
+      "mstn": "CC"
+    },
+    {
+      "name": "Smartest Little Lynx",
+      "year": 1998,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/smartest+little+lynx",
+      "mstn": ""
+    },
+    {
+      "name": "Lifes Royal Star",
+      "year": 1997,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/lifes+royal+star",
+      "mstn": ""
+    },
+    {
+      "name": "Sonnys High Life",
+      "year": 1981,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/sonnys+high+life",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Caught Lopin",
+      "year": 2000,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/caught+lopin",
+      "mstn": "CC"
+    },
+    {
+      "name": "Will Spot Ya",
+      "year": 1995,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/will+spot+ya",
+      "mstn": ""
+    },
+    {
+      "name": "Loping Lucy",
+      "year": 1989,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/loping+lucy",
+      "mstn": ""
+    },
+    {
+      "name": "Imperial Victor",
+      "year": 1984,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/imperial+victor",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Ice N Scotch",
       "year": 2000,
       "type": "APPALOOSA",
@@ -3866,6 +5516,36 @@
       "year": 1970,
       "type": "APPALOOSA",
       "href": "https://www.allbreedpedigree.com/albar+jr",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Ima Pretty Cool Jule",
+      "year": 2000,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/ima+pretty+cool+jule",
+      "mstn": "CC"
+    },
+    {
+      "name": "Decks Willie Black",
+      "year": 1996,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/decks+willie+black",
+      "mstn": ""
+    },
+    {
+      "name": "Mistic Leo Bar",
+      "year": 0,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/mistic+leo+bar",
+      "mstn": ""
+    },
+    {
+      "name": "Pmp Mystic Warrior",
+      "year": 1989,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/pmp+mystic+warrior",
       "mstn": ""
     }
   ],
@@ -4021,6 +5701,36 @@
   ],
   [
     {
+      "name": "Cash Bar Bill",
+      "year": 1993,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/cash+bar+bill",
+      "mstn": "CC"
+    },
+    {
+      "name": "Cash N Balance",
+      "year": 1981,
+      "type": "QUARTER",
+      "href": "",
+      "mstn": ""
+    },
+    {
+      "name": "Pacs Bar Maid",
+      "year": 1970,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/pacs+bar+maid",
+      "mstn": ""
+    },
+    {
+      "name": "Pacific Bailey",
+      "year": 1963,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/pacific+bailey",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Theodore Cleaver",
       "year": 1990,
       "type": "QUARTER",
@@ -4162,7 +5872,7 @@
       "mstn": ""
     },
     {
-      "name": "",
+      "name": "-",
       "year": 0,
       "type": "",
       "href": "",
@@ -4383,7 +6093,7 @@
     {
       "name": "Indystar",
       "year": 2022,
-      "type": "APPENDIX",
+      "type": "QUARTER",
       "href": "",
       "mstn": "CT"
     },
@@ -4711,6 +6421,96 @@
   ],
   [
     {
+      "name": "Rabbit",
+      "year": 2021,
+      "type": "RACKING",
+      "href": "",
+      "mstn": "CT"
+    },
+    {
+      "name": "Capt Sunshine",
+      "year": 0,
+      "type": "SADDLEBRED",
+      "href": "",
+      "mstn": "TT"
+    },
+    {
+      "name": "Honey",
+      "year": 0,
+      "type": "",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "",
+      "year": 0,
+      "type": "",
+      "href": "",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Smokem White Boy",
+      "year": 2021,
+      "type": "PAINT",
+      "href": "",
+      "mstn": "CT"
+    },
+    {
+      "name": "Ima Dirty White Boy",
+      "year": 2004,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/ima+dirty+white+boy",
+      "mstn": ""
+    },
+    {
+      "name": "Smokem Peppy",
+      "year": 1997,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/smokem+peppy",
+      "mstn": ""
+    },
+    {
+      "name": "Smoke An Fire",
+      "year": 1980,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/smoke+an+fire",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Born To Lectrify",
+      "year": 2020,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/born+to+lectrify",
+      "mstn": "CT"
+    },
+    {
+      "name": "Lectromotion",
+      "year": 2001,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/lectromotion",
+      "mstn": ""
+    },
+    {
+      "name": "Born To Boom",
+      "year": 1997,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/born+to+boom",
+      "mstn": ""
+    },
+    {
+      "name": "Boomernic",
+      "year": 1989,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/boomernic",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Gunna Wanna",
       "year": 2020,
       "type": "QUARTER",
@@ -4921,36 +6721,6 @@
   ],
   [
     {
-      "name": "Born To Lectrify",
-      "year": 2020,
-      "type": "QUARTER",
-      "href": "https://www.allbreedpedigree.com/born+to+lectrify",
-      "mstn": "CT"
-    },
-    {
-      "name": "Lectromotion",
-      "year": 2001,
-      "type": "QUARTER",
-      "href": "https://www.allbreedpedigree.com/lectromotion",
-      "mstn": ""
-    },
-    {
-      "name": "Born To Boom",
-      "year": 1997,
-      "type": "QUARTER",
-      "href": "https://www.allbreedpedigree.com/born+to+boom",
-      "mstn": ""
-    },
-    {
-      "name": "Boomernic",
-      "year": 1989,
-      "type": "QUARTER",
-      "href": "https://www.allbreedpedigree.com/boomernic",
-      "mstn": ""
-    }
-  ],
-  [
-    {
       "name": "Fvf Black Satin",
       "year": 2019,
       "type": "APPALOOSA",
@@ -5012,7 +6782,7 @@
   [
     {
       "name": "Shining C Twist",
-      "year": 2001,
+      "year": 2019,
       "type": "PAINT",
       "href": "https://www.allbreedpedigree.com/shining+c+twist",
       "mstn": "CT"
@@ -5036,6 +6806,36 @@
       "year": 2001,
       "type": "QUARTER",
       "href": "https://www.allbreedpedigree.com/lp+sinfully+zipped",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Blazin Bity Boon",
+      "year": 2018,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/blazin+bitzy+boon",
+      "mstn": "CT"
+    },
+    {
+      "name": "Judge Boon",
+      "year": 2006,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/judge+boon",
+      "mstn": ""
+    },
+    {
+      "name": "Bitzolena",
+      "year": 2006,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/bitzolena",
+      "mstn": ""
+    },
+    {
+      "name": "Lobo Lena Quixote",
+      "year": 1994,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/lobo+lena+quixote",
       "mstn": ""
     }
   ],
@@ -5161,11 +6961,41 @@
   ],
   [
     {
+      "name": "Selene Sonnys Ap",
+      "year": 2017,
+      "type": "PAINT",
+      "href": "",
+      "mstn": "CT"
+    },
+    {
+      "name": "Dl Sonnys Golden Glo",
+      "year": 2009,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/dl+sonnys+golden+glo",
+      "mstn": ""
+    },
+    {
+      "name": "Queency Sheika King",
+      "year": 0,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/queency+sheika+king",
+      "mstn": ""
+    },
+    {
+      "name": "-",
+      "year": 0,
+      "type": "",
+      "href": "",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Dragtimes High Flyer",
       "year": 2016,
       "type": "PAINT",
       "href": "https://www.allbreedpedigree.com/dragtimes+high+flyer",
-      "mstn": "CC"
+      "mstn": "CT"
     },
     {
       "name": "Dragtime",
@@ -5523,7 +7353,7 @@
     {
       "name": "Omaya Kaboom",
       "year": 2011,
-      "type": "APPENDIX",
+      "type": "QUARTER",
       "href": "https://www.allbreedpedigree.com/omaya+kaboom",
       "mstn": "CT"
     },
@@ -5761,6 +7591,36 @@
   ],
   [
     {
+      "name": "Cash's Magical Lady",
+      "year": 2001,
+      "type": "WALKER",
+      "href": "",
+      "mstn": "CT"
+    },
+    {
+      "name": "Cash To Burn",
+      "year": 0,
+      "type": "",
+      "href": "",
+      "mstn": ""
+    },
+    {
+      "name": "Dixie's Magic Lady",
+      "year": 0,
+      "type": "",
+      "href": "",
+      "mstn": ""
+    },
+    {
+      "name": "",
+      "year": 0,
+      "type": "",
+      "href": "",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Flexible",
       "year": 1996,
       "type": "SPORT",
@@ -5787,6 +7647,36 @@
       "type": "TB",
       "href": "https://www.allbreedpedigree.com/safari3",
       "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Bippity Boppity Boo",
+      "year": 2022,
+      "type": "SADDLEBRED",
+      "href": "",
+      "mstn": "TT"
+    },
+    {
+      "name": "Captain Sunshine",
+      "year": 0,
+      "type": "",
+      "href": "",
+      "mstn": ""
+    },
+    {
+      "name": "Izzy",
+      "year": 2017,
+      "type": "SADDLEBRED",
+      "href": "",
+      "mstn": "TT"
+    },
+    {
+      "name": "Capt Sunshine",
+      "year": 0,
+      "type": "SADDLEBRED",
+      "href": "",
+      "mstn": "TT"
     }
   ],
   [
@@ -6102,7 +7992,37 @@
       "year": 0,
       "type": "SADDLEBRED",
       "href": "",
+      "mstn": "TT"
+    },
+    {
+      "name": "Anacachos Gold Princess",
+      "year": 2001,
+      "type": "SADDLEBRED",
+      "href": "https://www.allbreedpedigree.com/anacachos+gold+princess",
+      "mstn": "TT"
+    },
+    {
+      "name": "Deserts Gold Dust",
+      "year": 1992,
+      "type": "SADDLEBRED",
+      "href": "https://www.allbreedpedigree.com/deserts+gold+dust",
       "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2017,
+      "type": "SADDLEBRED",
+      "href": "",
+      "mstn": "TT"
+    },
+    {
+      "name": "Capt Sunshine",
+      "year": 0,
+      "type": "SADDLEBRED",
+      "href": "",
+      "mstn": "TT"
     },
     {
       "name": "Anacachos Gold Princess",
