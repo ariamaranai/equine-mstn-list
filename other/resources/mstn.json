@@ -61,6 +61,66 @@
   ],
   [
     {
+      "name": "Only The Fabulous",
+      "year": 0,
+      "type": "PAINT",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "Ultimately Fabulous",
+      "year": 2009,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/ultimately+fabulous",
+      "mstn": ""
+    },
+    {
+      "name": "Only The Details",
+      "year": 2007,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/only+the+details",
+      "mstn": ""
+    },
+    {
+      "name": "Last Detail",
+      "year": 1991,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/last+detail3",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Betty",
+      "year": 2023,
+      "type": "PAINT",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "Lazy Loper",
+      "year": 2001,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/lazy+loper",
+      "mstn": ""
+    },
+    {
+      "name": "Shes Got The Swanger",
+      "year": 2009,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/shes+got+the+swager",
+      "mstn": "CC"
+    },
+    {
+      "name": "All Time Fancy",
+      "year": 1998,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/all+time+fancy",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Ehe Code Lazy",
       "year": 2023,
       "type": "QUARTER",
@@ -121,6 +181,66 @@
   ],
   [
     {
+      "name": "Maple",
+      "year": 2023,
+      "type": "PAINT",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "The Sugar Daddy",
+      "year": 2012,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/the+sugar+daddy",
+      "mstn": ""
+    },
+    {
+      "name": "Lazy Chocolate Loper",
+      "year": 2014,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/lazy+chocolate+loper",
+      "mstn": "CC"
+    },
+    {
+      "name": "No Doubt Im Lazy",
+      "year": 2006,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/no+doubt+im+lazy",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Mary Jane",
+      "year": 2023,
+      "type": "PAINT",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "Certainly A Vision",
+      "year": 2010,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/certainly+a+vision",
+      "mstn": "CC"
+    },
+    {
+      "name": "Kiss My Krymsun",
+      "year": 2014,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/kiss+my+krymsun2",
+      "mstn": "CC"
+    },
+    {
+      "name": "One Hot Krymsun",
+      "year": 1999,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/one+hot+krymsun",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Maverick N Motion",
       "year": 2023,
       "type": "PAINT",
@@ -176,6 +296,36 @@
       "year": 2011,
       "type": "QUARTER",
       "href": "https://www.allbreedpedigree.com/secret+gunfighter",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Soxsy",
+      "year": 2023,
+      "type": "PAINT",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "I Am The Party",
+      "year": 2014,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/i+am+the+party",
+      "mstn": ""
+    },
+    {
+      "name": "Dangerously Lazy",
+      "year": 2017,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/dangerously+lazy",
+      "mstn": "CC"
+    },
+    {
+      "name": "Lopin Lazy",
+      "year": 2010,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/lopin+lazy",
       "mstn": ""
     }
   ],
@@ -451,6 +601,36 @@
   ],
   [
     {
+      "name": "Dangerously Southern",
+      "year": 2022,
+      "type": "PAINT",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "Its A Southern Thing",
+      "year": 2010,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/its+a+southern+thing",
+      "mstn": ""
+    },
+    {
+      "name": "Dangerously Lazy",
+      "year": 2017,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/dangerously+lazy",
+      "mstn": "CC"
+    },
+    {
+      "name": "Lopin Lazy",
+      "year": 2010,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/lopin+lazy",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Dressed For Revenge",
       "year": 2022,
       "type": "QUARTER",
@@ -716,6 +896,36 @@
       "year": 0,
       "type": "",
       "href": "",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Moves Like Swagger",
+      "year": 2022,
+      "type": "PAINT",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "Lopin Lazy",
+      "year": 2010,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/lopin+lazy",
+      "mstn": ""
+    },
+    {
+      "name": "Shes Got The Swanger",
+      "year": 2009,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/shes+got+the+swager",
+      "mstn": "CC"
+    },
+    {
+      "name": "All Time Fancy",
+      "year": 1998,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/all+time+fancy",
       "mstn": ""
     }
   ],
@@ -1291,6 +1501,66 @@
   ],
   [
     {
+      "name": "Flashyoumyskyblueyes",
+      "year": 2021,
+      "type": "PAINT",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "Thunder Tuff Tonto",
+      "year": 2000,
+      "type": "PAINT",
+      "href": "hhttps://www.allbreedpedigree.com/thunder+tuff+tonto",
+      "mstn": ""
+    },
+    {
+      "name": "Star Haven",
+      "year": 2004,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/star+haven2",
+      "mstn": ""
+    },
+    {
+      "name": "Poor Hollow Blu Ghost",
+      "year": 1999,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/poor+hollow+blu+ghost",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Heavenly Sweet Mirage",
+      "year": 2021,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/heavenly+sweet+mirage",
+      "mstn": "CC"
+    },
+    {
+      "name": "Marked for The Billing",
+      "year": 0,
+      "type": "QUARTER",
+      "href": "",
+      "mstn": ""
+    },
+    {
+      "name": "Sweet Mirage",
+      "year": 0,
+      "type": "",
+      "href": "",
+      "mstn": ""
+    },
+    {
+      "name": "-",
+      "year": 0,
+      "type": "",
+      "href": "",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Intent To Streak",
       "year": 2021,
       "type": "QUARTER",
@@ -1459,7 +1729,7 @@
       "year": 2014,
       "type": "PAINT",
       "href": "https://www.allbreedpedigree.com/lazy+chocolate+loper",
-      "mstn": ""
+      "mstn": "CC"
     },
     {
       "name": "No Doubt Im Lazy",
@@ -1501,6 +1771,36 @@
   ],
   [
     {
+      "name": "Peace Love And Lazy",
+      "year": 2021,
+      "type": "QUARTER",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "Peace Out Man",
+      "year": 2009,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/peace+out+man",
+      "mstn": ""
+    },
+    {
+      "name": "Pretty Loping Lady",
+      "year": 2014,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/pretty+loping+lady",
+      "mstn": "CC"
+    },
+    {
+      "name": "Lazy Loper",
+      "year": 2001,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/lazy+loper",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Pretty Tricky",
       "year": 2021,
       "type": "QUARTER",
@@ -1526,6 +1826,36 @@
       "year": 2004,
       "type": "QUARTER",
       "href": "https://www.allbreedpedigree.com/playguns+ride",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Rockin My Famousjeans",
+      "year": 2021,
+      "type": "",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "Its All in my Jeans",
+      "year": 2009,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/its+all+in+my+jeans",
+      "mstn": ""
+    },
+    {
+      "name": "Famous Impulse",
+      "year": 2002,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/famous+impulse",
+      "mstn": ""
+    },
+    {
+      "name": "Fame And Honor",
+      "year": 1992,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/fame+and+honor2",
       "mstn": ""
     }
   ],
@@ -1591,7 +1921,37 @@
   ],
   [
     {
-      "name": "SplashBomb Undercover",
+      "name": "Slowdancesnchampagne",
+      "year": 2021,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/slowdancesnchampagne",
+      "mstn": "CC"
+    },
+    {
+      "name": "Ultimate Slow Dance",
+      "year": 0,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/ultimate+slow+dance",
+      "mstn": ""
+    },
+    {
+      "name": "Hustlin Chic Bar",
+      "year": 2018,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/hustlin+chic+bar",
+      "mstn": "CC"
+    },
+    {
+      "name": "Totally Hustled",
+      "year": 1996,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/totally+hustled2",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Splashbomb Undercover",
       "year": 2021,
       "type": "QUARTER",
       "href": "https://www.allbreedpedigree.com/splashbomb+undercover",
@@ -1616,6 +1976,36 @@
       "year": 2005,
       "type": "QUARTER",
       "href": "https://www.allbreedpedigree.com/ce+poco+ledoux",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Splashofpink",
+      "year": 2021,
+      "type": "",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "Ultimate Slow Dance",
+      "year": 0,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/ultimate+slow+dance",
+      "mstn": ""
+    },
+    {
+      "name": "Alc Hope Always Wins",
+      "year": 2010,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/alc+hope+always+wins",
+      "mstn": "CC"
+    },
+    {
+      "name": "Intensely Handsome",
+      "year": 2006,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/intensely+handsome",
       "mstn": ""
     }
   ],
@@ -1736,6 +2126,36 @@
       "year": 1996,
       "type": "PAINT",
       "href": "https://www.allbreedpedigree.com/hot+roddin+zip",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Willy Has Swagger",
+      "year": 2021,
+      "type": "PAINT",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "Willy Be Invited",
+      "year": 1998,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/willy+be+invited",
+      "mstn": ""
+    },
+    {
+      "name": "Shes Got The Swanger",
+      "year": 2009,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/shes+got+the+swager",
+      "mstn": "CC"
+    },
+    {
+      "name": "All Time Fancy",
+      "year": 1998,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/all+time+fancy",
       "mstn": ""
     }
   ],
@@ -1879,7 +2299,7 @@
       "year": 2014,
       "type": "QUARTER",
       "href": "https://www.allbreedpedigree.com/pretty+loping+lady",
-      "mstn": ""
+      "mstn": "CC"
     },
     {
       "name": "Lazy Loper",
@@ -1981,11 +2401,41 @@
   ],
   [
     {
+      "name": "Hoos My Sugar Daddy",
+      "year": 2020,
+      "type": "PAINT",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "The Sugar Daddy",
+      "year": 2012,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/the+sugar+daddy",
+      "mstn": ""
+    },
+    {
+      "name": "Lazy Chocolate Loper",
+      "year": 2014,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/lazy+chocolate+loper",
+      "mstn": "CC"
+    },
+    {
+      "name": "No Doubt Im Lazy",
+      "year": 2006,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/no+doubt+im+lazy",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Hot Sparks At Midnight",
       "year": 2020,
       "type": "",
       "href": "",
-      "mstn": ""
+      "mstn": "CC"
     },
     {
       "name": "Just A Shot Of Sparks",
@@ -2011,11 +2461,41 @@
   ],
   [
     {
+      "name": "Ima Catfivehurricane",
+      "year": 2020,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/ima+catfivehurricane",
+      "mstn": "CC"
+    },
+    {
+      "name": "Sir Spark Quincy",
+      "year": 2006,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/sir+spark+quincy",
+      "mstn": ""
+    },
+    {
+      "name": "Olenas Dun Network",
+      "year": 2007,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/olenas+dun+network",
+      "mstn": ""
+    },
+    {
+      "name": "Doc's Network",
+      "year": 1991,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/docs+network",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Ima Spiffy Loper",
       "year": 2020,
       "type": "QUARTER",
       "href": "",
-      "mstn": ""
+      "mstn": "CC"
     },
     {
       "name": "Lazy Loper",
@@ -2311,6 +2791,36 @@
   ],
   [
     {
+      "name": "Simon Sez Ib Trouble",
+      "year": 2020,
+      "type": "PAINT",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "John Simon",
+      "year": 2006,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/john+simon",
+      "mstn": ""
+    },
+    {
+      "name": "TTC Miss Bullion",
+      "year": 2003,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/ttc+miss+bullion",
+      "mstn": ""
+    },
+    {
+      "name": "Tags Triple Chick",
+      "year": 1996,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/tags+triple+chick",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Telecool",
       "year": 2020,
       "type": "PAINT",
@@ -2336,6 +2846,36 @@
       "year": 2009,
       "type": "QUARTER",
       "href": "https://www.allbreedpedigree.com/telasecret2",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Tinspeed Invited Me",
+      "year": 2020,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/tinspeed+invited+me",
+      "mstn": "CC"
+    },
+    {
+      "name": "Tinspeed",
+      "year": 1999,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/tinspeed",
+      "mstn": ""
+    },
+    {
+      "name": "Only Kisses Will Do",
+      "year": 0,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/only+kisses+will+do",
+      "mstn": ""
+    },
+    {
+      "name": "By Appointment Only",
+      "year": 2005,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/by+appointment+only",
       "mstn": ""
     }
   ],
@@ -2426,6 +2966,36 @@
       "year": 2005,
       "type": "PAINT",
       "href": "https://www.allbreedpedigree.com/kitts+perfect+motega",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Elsa",
+      "year": 2019,
+      "type": "PAINT",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "David Frost",
+      "year": 1998,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/david+frost",
+      "mstn": ""
+    },
+    {
+      "name": "Sheza Barbie Doll",
+      "year": 2006,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/sheza+barbie+doll4",
+      "mstn": ""
+    },
+    {
+      "name": "An Awesome Reward",
+      "year": 1996,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/an+awesome+reward",
       "mstn": ""
     }
   ],
@@ -2641,6 +3211,36 @@
   ],
   [
     {
+      "name": "Painted Cotton Wish",
+      "year": 2019,
+      "type": "PAINT",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "Cotton Dixon",
+      "year": 2005,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/cotton+dixon",
+      "mstn": ""
+    },
+    {
+      "name": "Sadies Lighting Bug",
+      "year": 1999,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/sadies+lighting+bug",
+      "mstn": ""
+    },
+    {
+      "name": "Lightning Leoapach",
+      "year": 0,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/lightning+leoapach",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Poker Face Dunnit",
       "year": 2019,
       "type": "PAINT",
@@ -2701,6 +3301,36 @@
   ],
   [
     {
+      "name": "Ratchetts Maxi Black",
+      "year": 2019,
+      "type": "PAINT",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "MP Blue Viper",
+      "year": 2010,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/mp+blue+viper",
+      "mstn": ""
+    },
+    {
+      "name": "TJ Black Ratchet",
+      "year": 0,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/tj+black+ratchet",
+      "mstn": ""
+    },
+    {
+      "name": "Tj Blacktothemax",
+      "year": 1997,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/tj+blacktothemax",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Riii Grand Duke",
       "year": 2019,
       "type": "QUARTER",
@@ -2726,6 +3356,36 @@
       "year": 2000,
       "type": "TB",
       "href": "https://www.allbreedpedigree.com/parkers+storm+cat",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Shinin Solo",
+      "year": 2019,
+      "type": "QUARTER",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "Shine On Line",
+      "year": 2006,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/shine+on+line",
+      "mstn": ""
+    },
+    {
+      "name": "Nu Chex Solano",
+      "year": 2008,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/nu+chex+solano",
+      "mstn": ""
+    },
+    {
+      "name": "Nu Chex To Cash",
+      "year": 1990,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/nu+chex+to+cash",
       "mstn": ""
     }
   ],
@@ -2941,6 +3601,36 @@
   ],
   [
     {
+      "name": "Hustlin Chic Bar",
+      "year": 2018,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/hustlin+chic+bar",
+      "mstn": "CC"
+    },
+    {
+      "name": "Totally Hustled",
+      "year": 1996,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/totally+hustled2",
+      "mstn": ""
+    },
+    {
+      "name": "Jacks Chic Bar Lena",
+      "year": 2005,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/jacks+chic+bar+lena",
+      "mstn": ""
+    },
+    {
+      "name": "Raider Joe Jack",
+      "year": 1981,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/raider+joe+jack",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "King Of Frost",
       "year": 2018,
       "type": "QUARTER",
@@ -2966,6 +3656,66 @@
       "year": 1989,
       "type": "QUARTER",
       "href": "https://www.allbreedpedigree.com/pat+cowan",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Lr Red Dee",
+      "year": 2018,
+      "type": "PAINT",
+      "href": "",
+      "mstn": ""
+    },
+    {
+      "name": "Lucky Ratchet",
+      "year": 2012,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/lucky+ratchet",
+      "mstn": "CC"
+    },
+    {
+      "name": "Mp Red Dee",
+      "year": 2015,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/mp+red+dee",
+      "mstn": ""
+    },
+    {
+      "name": "Pr Sonny Dee Bar",
+      "year": 1993,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/pr+sonny+dee+bar",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Nsp Bday Chardonnay",
+      "year": 2018,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/nsp+bday+chardonnay",
+      "mstn": "CC"
+    },
+    {
+      "name": "Awesomes Legacy",
+      "year": 2014,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/awesomes+legacy",
+      "mstn": ""
+    },
+    {
+      "name": "Nsp Rich Brown Sugar",
+      "year": 2010,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/nsp+rich+brown+sugar",
+      "mstn": ""
+    },
+    {
+      "name": "Richly Imprinted",
+      "year": 2003,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/richly+imprinted",
       "mstn": ""
     }
   ],
@@ -3056,6 +3806,36 @@
       "year": 1998,
       "type": "PAINT",
       "href": "https://www.allbreedpedigree.com/youdontknowjackzip",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "White Button Link",
+      "year": 2018,
+      "type": "PAINT",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "Whites Of 4",
+      "year": 2008,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/whites+of+4",
+      "mstn": ""
+    },
+    {
+      "name": "Barlink To The Core",
+      "year": 2001,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/barlink+to+the+core",
+      "mstn": ""
+    },
+    {
+      "name": "Te Encore",
+      "year": 1992,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/te+encore3",
       "mstn": ""
     }
   ],
@@ -3206,6 +3986,36 @@
       "year": 1997,
       "type": "QUARTER",
       "href": "https://www.allbreedpedigree.com/fiddlers+legend",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Dangerously Lazy",
+      "year": 2017,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/dangerously+lazy",
+      "mstn": "CC"
+    },
+    {
+      "name": "Lopin Lazy",
+      "year": 2010,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/lopin+lazy",
+      "mstn": ""
+    },
+    {
+      "name": "Dangerously Famous",
+      "year": 2009,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/dangerously+famous",
+      "mstn": ""
+    },
+    {
+      "name": "Hes Suddenly Famous",
+      "year": 1998,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/hes+suddenly+famous",
       "mstn": ""
     }
   ],
@@ -3386,6 +4196,66 @@
       "year": 1990,
       "type": "QUARTER",
       "href": "https://www.allbreedpedigree.com/lean+with+me",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "White Irish Cream",
+      "year": 2017,
+      "type": "PAINT",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "Whites Of 4",
+      "year": 2008,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/whites+of+4",
+      "mstn": ""
+    },
+    {
+      "name": "Dee Robin Sassy",
+      "year": 1997,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/dee+robin+sassy",
+      "mstn": ""
+    },
+    {
+      "name": "Dee Robin Reed",
+      "year": 1992,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/dee+robin+reed",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Cottons Magic Trick",
+      "year": 2016,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/cottons+magic+trick",
+      "mstn": "CC"
+    },
+    {
+      "name": "Cotton Dixon",
+      "year": 2005,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/cotton+dixon",
+      "mstn": ""
+    },
+    {
+      "name": "Av Husler Black Magic",
+      "year": 2001,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/av+husler+black+magic",
+      "mstn": ""
+    },
+    {
+      "name": "Mark Of A Husler",
+      "year": 0,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/mark+of+a+husler",
       "mstn": ""
     }
   ],
@@ -3631,6 +4501,36 @@
   ],
   [
     {
+      "name": "A Good Reason",
+      "year": 2015,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/a+good+reason4",
+      "mstn": ""
+    },
+    {
+      "name": "Lazy Loper",
+      "year": 2001,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/lazy+loper",
+      "mstn": ""
+    },
+    {
+      "name": "Zipped In Time",
+      "year": 1995,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/zipped+in+time2",
+      "mstn": ""
+    },
+    {
+      "name": "Zippos Mr Good Bar",
+      "year": 1984,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/zippos+mr+good+bar",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Blondies Pink Girl",
       "year": 2015,
       "type": "QUARTER",
@@ -3656,6 +4556,36 @@
       "year": 1998,
       "type": "QUARTER",
       "href": "https://www.allbreedpedigree.com/jessa+smoke+bomb",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Glamourized",
+      "year": 2015,
+      "type": "PAINT",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "Radicalized",
+      "year": 2004,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/radicalized",
+      "mstn": ""
+    },
+    {
+      "name": "Miss Dee Dexible",
+      "year": 2003,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/miss+dee+dexible",
+      "mstn": ""
+    },
+    {
+      "name": "Mr I B Trouble",
+      "year": 1995,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/mr+i+b+trouble",
       "mstn": ""
     }
   ],
@@ -3991,6 +4921,36 @@
   ],
   [
     {
+      "name": "Chromed Out Cowgirl",
+      "year": 2014,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/chromed+out+cowgirl",
+      "mstn": "CC"
+    },
+    {
+      "name": "Original Cowboy",
+      "year": 2010,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/original+cowboy",
+      "mstn": ""
+    },
+    {
+      "name": "Hp Centerfold",
+      "year": 2006,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/hp+centerfold",
+      "mstn": ""
+    },
+    {
+      "name": "Vested Pine",
+      "year": 1991,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/vested+pine",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Duramax Dually",
       "year": 2014,
       "type": "QUARTER",
@@ -4016,6 +4976,66 @@
       "year": 1988,
       "type": "QUARTER",
       "href": "https://www.allbreedpedigree.com/high+brow+cat",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Kiss My Krymsun",
+      "year": 2014,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/kiss+my+krymsun2",
+      "mstn": "CC"
+    },
+    {
+      "name": "One Hot Krymsun",
+      "year": 1999,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/one+hot+krymsun",
+      "mstn": ""
+    },
+    {
+      "name": "R Fancy This",
+      "year": 1999,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/r+fancy+this",
+      "mstn": ""
+    },
+    {
+      "name": "R Big Time Fancy",
+      "year": 1992,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/r+big+time+fancy",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Lazy Chocolate Loper",
+      "year": 2014,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/lazy+chocolate+loper",
+      "mstn": "CC"
+    },
+    {
+      "name": "No Doubt Im Lazy",
+      "year": 2006,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/no+doubt+im+lazy",
+      "mstn": ""
+    },
+    {
+      "name": "Zippin Dot Com",
+      "year": 0,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/zippin+dot+com",
+      "mstn": ""
+    },
+    {
+      "name": "Zippin",
+      "year": 1991,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/zippin",
       "mstn": ""
     }
   ],
@@ -4076,6 +5096,36 @@
       "year": 0,
       "type": "",
       "href": "",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Pretty Loping Lady",
+      "year": 2014,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/pretty+loping+lady",
+      "mstn": "CC"
+    },
+    {
+      "name": "Lazy Loper",
+      "year": 2001,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/lazy+loper",
+      "mstn": ""
+    },
+    {
+      "name": "That Ladys Pretty",
+      "year": 2007,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/that+ladys+pretty",
+      "mstn": ""
+    },
+    {
+      "name": "Reinvest In Gold",
+      "year": 1995,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/reinvest+in+gold",
       "mstn": ""
     }
   ],
@@ -4231,6 +5281,36 @@
   ],
   [
     {
+      "name": "Cloes Suger Cotton",
+      "year": 2012,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/cloes+sugar+cotton",
+      "mstn": "CC"
+    },
+    {
+      "name": "Cotton Dixon",
+      "year": 2005,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/cotton+dixon",
+      "mstn": ""
+    },
+    {
+      "name": "Dee Robin Sassy",
+      "year": 1997,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/dee+robin+sassy",
+      "mstn": ""
+    },
+    {
+      "name": "Dee Robin Reed",
+      "year": 1992,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/dee+robin+reed",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Dynamic Sensations",
       "year": 2012,
       "type": "PAINT",
@@ -4257,6 +5337,36 @@
       "type": "QUARTER",
       "href": "https://www.allbreedpedigree.com/mr+mac+reynolds",
       "mstn": "CC"
+    }
+  ],
+  [
+    {
+      "name": "Lucky Ratchet",
+      "year": 2012,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/lucky+ratchet",
+      "mstn": "CC"
+    },
+    {
+      "name": "Tj Blacktothemax",
+      "year": 1997,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/tj+blacktothemax",
+      "mstn": ""
+    },
+    {
+      "name": "Little Red Ratchet",
+      "year": 1997,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/little+red+ratchet",
+      "mstn": ""
+    },
+    {
+      "name": "Ratchett",
+      "year": 1975,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/ratchett",
+      "mstn": ""
     }
   ],
   [
@@ -4407,6 +5517,36 @@
       "type": "QUARTER",
       "href": "https://www.allbreedpedigree.com/docs+laughing+boy",
       "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Alc Hope Always Wins",
+      "year": 2010,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/alc+hope+always+wins",
+      "mstn": "CC"
+    },
+    {
+      "name": "Intensely Handsome",
+      "year": 2006,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/intensely+handsome",
+      "mstn": ""
+    },
+    {
+      "name": "Sonnys Lucky Image",
+      "year": 1995,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/sonnys+lucky+image",
+      "mstn": ""  
+    },
+    {
+      "name": "Ss Skip A Grand",
+      "year": 1992,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/ss+skip+a+grand",
+      "mstn": ""  
     }
   ],
   [
@@ -4681,6 +5821,36 @@
   ],
   [
     {
+      "name": "Shes Got The Swanger",
+      "year": 2009,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/shes+got+the+swager",
+      "mstn": "CC"
+    },
+    {
+      "name": "All Time Fancy",
+      "year": 1998,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/all+time+fancy",
+      "mstn": ""
+    },
+    {
+      "name": "Sock Brokers Phantom",
+      "year": 1997,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/sock+brokers+phantom",
+      "mstn": ""
+    },
+    {
+      "name": "Sock Broker",
+      "year": 1991,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/sock+broker",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Aaac Boonalil Gato",
       "year": 2008,
       "type": "QUARTER",
@@ -4796,6 +5966,66 @@
       "year": 1985,
       "type": "PAINT",
       "href": "https://www.allbreedpedigree.com/mr+yellow+pine",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Bestisgood",
+      "year": 2008,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/bestisgood",
+      "mstn": "CC"
+    },
+    {
+      "name": "Rl Best Of Sudden",
+      "year": 2002,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/rl+best+of+sudden",
+      "mstn": ""
+    },
+    {
+      "name": "Divines Miss Goodbar",
+      "year": 2000,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/divines+miss+goodbar",
+      "mstn": ""
+    },
+    {
+      "name": "Zippos Mr Good Bar",
+      "year": 1984,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/zippos+mr+good+bar",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Fancy Eyed Dixondebar",
+      "year": 2008,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/fancy+eyed+dixondebar",
+      "mstn": "CC"
+    },
+    {
+      "name": "Merles Tycoon",
+      "year": 0,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/merles+tycoon",
+      "mstn": ""
+    },
+    {
+      "name": "Jeta Nugget Tylor",
+      "year": 0,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/jeta+nugget+taylor",
+      "mstn": ""
+    },
+    {
+      "name": "The One Two Beat",
+      "year": 1991,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/the+one+two+beat",
       "mstn": ""
     }
   ],
@@ -5336,6 +6566,36 @@
       "year": 0,
       "type": "PAINT",
       "href": "https://www.allbreedpedigree.com/duke+of+hearts",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Dc Sassy",
+      "year": 2003,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/dc+sassy",
+      "mstn": "CC"
+    },
+    {
+      "name": "Exclusively Spuds",
+      "year": 1987,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/exclusively+spuds",
+      "mstn": ""
+    },
+    {
+      "name": "Stolen Lady Mccue",
+      "year": 1997,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/stolen+lady+mccue",
+      "mstn": ""
+    },
+    {
+      "name": "Sir Mickey Mccue",
+      "year": 1983,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/sir+mickey+mccue",
       "mstn": ""
     }
   ],
@@ -6442,7 +7702,37 @@
       "mstn": "CC"
     },
     {
-      "name": "",
+      "name": "-",
+      "year": 0,
+      "type": "",
+      "href": "",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Sinfully Sensational",
+      "year": 2021,
+      "type": "PAINT",
+      "href": "",
+      "mstn": "CT"
+    },
+    {
+      "name": "Lopin Lazy",
+      "year": 2010,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/lopin+lazy",
+      "mstn": ""
+    },
+    {
+      "name": "Big Solid Sensation",
+      "year": 0,
+      "type": "PAINT",
+      "href": "",
+      "mstn": ""
+    },
+    {
+      "name": "-",
       "year": 0,
       "type": "",
       "href": "",
@@ -7612,7 +8902,7 @@
       "mstn": ""
     },
     {
-      "name": "",
+      "name": "-",
       "year": 0,
       "type": "",
       "href": "",
