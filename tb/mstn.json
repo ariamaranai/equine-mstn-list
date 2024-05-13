@@ -23485,6 +23485,44 @@
   ],
   [
     {
+      "name": "Captain Kirk",
+      "year": 1998,
+      "cnty": "",
+      "sex": "M",
+      "tb": true,
+      "href": "",
+      "mstn": "CT"
+    },
+    {
+      "name": "Turkonoir",
+      "year": 1993,
+      "cnty": "USA",
+      "sex": "S",
+      "tb": true,
+      "href": "https://www.pedigreequery.com/turkonoir",
+      "mstn": ""
+    },
+    {
+      "name": "Miss Unknown",
+      "year": 1991,
+      "cnty": "USA",
+      "sex": "F",
+      "tb": true,
+      "href": "https://www.pedigreequery.com/miss+unknown",
+      "mstn": ""
+    },
+    {
+      "name": "For the Moment",
+      "year": 1974,
+      "cnty": "USA",
+      "sex": "S",
+      "tb": true,
+      "href": "https://www.jbis.or.jp/horse/0000339620/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Count Dubois",
       "year": 1998,
       "cnty": "GB",
@@ -23523,39 +23561,31 @@
   ],
   [
     {
-      "name": "Captain Kirk",
+      "name": "Float Trip",
       "year": 1998,
-      "cnty": "",
-      "sex": "M",
-      "tb": true,
-      "href": "",
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/float+trip",
       "mstn": "CT"
     },
     {
-      "name": "Turkonoir",
-      "year": 1993,
-      "cnty": "USA",
-      "sex": "S",
-      "tb": true,
-      "href": "https://www.pedigreequery.com/turkonoir",
+      "name": "Partial Settlement",
+      "year": 1979,
+      "type": "TB",
+      "href": "https://www.jbis.or.jp/horse/0000820658/",
       "mstn": ""
     },
     {
-      "name": "Miss Unknown",
-      "year": 1991,
-      "cnty": "USA",
-      "sex": "F",
-      "tb": true,
-      "href": "https://www.pedigreequery.com/miss+unknown",
+      "name": "Lahula Dancer",
+      "year": 0,
+      "type": "PAINT",
+      "href": "",
       "mstn": ""
     },
     {
-      "name": "For the Moment",
-      "year": 1974,
-      "cnty": "USA",
-      "sex": "S",
-      "tb": true,
-      "href": "https://www.jbis.or.jp/horse/0000339620/",
+      "name": "Sols Sundance Kid",
+      "year": 1981,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/sols+sundance+kid",
       "mstn": ""
     }
   ],
@@ -28306,6 +28336,36 @@
       "sex": "S",
       "tb": true,
       "href": "https://www.jbis.or.jp/horse/0000365118/",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Paige Six",
+      "year": 2014,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/paige+six",
+      "mstn": "TT"
+    },
+    {
+      "name": "Galloway Paige",
+      "year": 2008,
+      "type": "TB",
+      "href": "https://www.allbreedpedigree.com/galloway+paige",
+      "mstn": ""
+    },
+    {
+      "name": "Chicks An Asset",
+      "year": 2004,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/chicks+an+asset",
+      "mstn": ""
+    },
+    {
+      "name": "Good Asset",
+      "year": 1989,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/good+asset",
       "mstn": ""
     }
   ],
