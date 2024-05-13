@@ -3665,7 +3665,7 @@
       "year": 2018,
       "type": "PAINT",
       "href": "",
-      "mstn": ""
+      "mstn": "CC"
     },
     {
       "name": "Lucky Ratchet",
@@ -4231,6 +4231,66 @@
   ],
   [
     {
+      "name": "-",
+      "year": 2016,
+      "type": "PAINT",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "Paintd By Gunsmoke",
+      "year": 1995,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/paintd+by+gunsmoke",
+      "mstn": ""
+    },
+    {
+      "name": "Dandy Rendition",
+      "year": 2010,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/dandy+rendition",
+      "mstn": ""
+    },
+    {
+      "name": "Dandy Prints",
+      "year": 1997,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/dandy+prints",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "-",
+      "year": 2016,
+      "type": "PAINT",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "-",
+      "year": 0,
+      "type": "",
+      "href": "",
+      "mstn": ""
+    },
+    {
+      "name": "Reba Mac Ray Rhett",
+      "year": 1994,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/reba+mac+ray+rhett",
+      "mstn": ""
+    },
+    {
+      "name": "Stinger Ray Mount",
+      "year": 1986,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/stinger+ray+mount",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Cottons Magic Trick",
       "year": 2016,
       "type": "PAINT",
@@ -4505,7 +4565,7 @@
       "year": 2015,
       "type": "PAINT",
       "href": "https://www.allbreedpedigree.com/a+good+reason4",
-      "mstn": ""
+      "mstn": "CC"
     },
     {
       "name": "Lazy Loper",
@@ -5071,6 +5131,36 @@
   ],
   [
     {
+      "name": "Mr Diesel N Dunit",
+      "year": 2014,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/mr+diesel+n+dunit",
+      "mstn": "CC"
+    },
+    {
+      "name": "Fs White King",
+      "year": 2003,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/fs+white+king",
+      "mstn": ""
+    },
+    {
+      "name": "Turbosusys Time",
+      "year": 2002,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/turbosusys+time",
+      "mstn": ""
+    },
+    {
+      "name": "Mr Turbodiesel",
+      "year": 1994,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/mr+turbodiesel",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Obviously A Lazy",
       "year": 2014,
       "type": "",
@@ -5126,6 +5216,36 @@
       "year": 1995,
       "type": "QUARTER",
       "href": "https://www.allbreedpedigree.com/reinvest+in+gold",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "TroublesRoyalMystiq",
+      "year": 2014,
+      "type": "QUARTER",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "Smooth Gamblin Trouble",
+      "year": 2002,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/smooth+gamblin+trouble",
+      "mstn": "CC"
+    },
+    {
+      "name": "Bad Peppy Mystique",
+      "year": 2008,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/bad+peppy+mystique",
+      "mstn": ""
+    },
+    {
+      "name": "Bad Peppy Poco Punk",
+      "year": 2000,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/bad+peppy+poco+punk",
       "mstn": ""
     }
   ],
@@ -5246,6 +5366,36 @@
       "year": 1985,
       "type": "QUARTER",
       "href": "https://www.allbreedpedigree.com/mr+john+glo",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Snahzie Twist N Tyme",
+      "year": 2013,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/snahzie+twist+n+tyme",
+      "mstn": "CC"
+    },
+    {
+      "name": "Snahzie Triple Twist",
+      "year": 2005,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/snahzie+triple+twist",
+      "mstn": ""
+    },
+    {
+      "name": "Lady Leos Rebel",
+      "year": 2001,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/lady+leos+rebel",
+      "mstn": ""
+    },
+    {
+      "name": "Dandee Skipper Leo",
+      "year": 1996,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/dandee+skipper+leo",
       "mstn": ""
     }
   ],
@@ -5791,6 +5941,36 @@
   ],
   [
     {
+      "name": "Miss Poco 331",
+      "year": 2009,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/miss+poco+331",
+      "mstn": "CC"
+    },
+    {
+      "name": "Poco Bueno 092",
+      "year": 1992,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/poco+bueno+092",
+      "mstn": ""
+    },
+    {
+      "name": "Miss Poco 089",
+      "year": 1994,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/miss+poco+089",
+      "mstn": ""
+    },
+    {
+      "name": "Sparta Tiveo",
+      "year": 1977,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/sparta+tiveo",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Poco Lena Cp",
       "year": 2009,
       "type": "QUARTER",
@@ -5941,6 +6121,36 @@
   ],
   [
     {
+      "name": "Bestisgood",
+      "year": 2008,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/bestisgood",
+      "mstn": "CC"
+    },
+    {
+      "name": "Rl Best Of Sudden",
+      "year": 2002,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/rl+best+of+sudden",
+      "mstn": ""
+    },
+    {
+      "name": "Divines Miss Goodbar",
+      "year": 2000,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/divines+miss+goodbar",
+      "mstn": ""
+    },
+    {
+      "name": "Zippos Mr Good Bar",
+      "year": 1984,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/zippos+mr+good+bar",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Bid On Joker",
       "year": 2008,
       "type": "PAINT",
@@ -5971,31 +6181,31 @@
   ],
   [
     {
-      "name": "Bestisgood",
+      "name": "Chippewa Yella Star",
       "year": 2008,
-      "type": "QUARTER",
-      "href": "https://www.allbreedpedigree.com/bestisgood",
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/chippewa+yella+star",
       "mstn": "CC"
     },
     {
-      "name": "Rl Best Of Sudden",
-      "year": 2002,
-      "type": "QUARTER",
-      "href": "https://www.allbreedpedigree.com/rl+best+of+sudden",
+      "name": "Frenchyella Fella",
+      "year": 0,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/frenchyella+fella",
       "mstn": ""
     },
     {
-      "name": "Divines Miss Goodbar",
-      "year": 2000,
-      "type": "QUARTER",
-      "href": "https://www.allbreedpedigree.com/divines+miss+goodbar",
+      "name": "Vanilla Sky Royally",
+      "year": 0,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/vanilla+sky+royally",
       "mstn": ""
     },
     {
-      "name": "Zippos Mr Good Bar",
-      "year": 1984,
-      "type": "QUARTER",
-      "href": "https://www.allbreedpedigree.com/zippos+mr+good+bar",
+      "name": "Kf Royally Impressed",
+      "year": 2003,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/kf+royally+impressed",
       "mstn": ""
     }
   ],
@@ -6236,6 +6446,36 @@
       "year": 1982,
       "type": "PAINT",
       "href": "https://www.allbreedpedigree.com/barlink+macho+man",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Miss Poco 297",
+      "year": 2007,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/miss+poco+297",
+      "mstn": "CC"
+    },
+    {
+      "name": "Poco Bueno 093",
+      "year": 1993,
+      "type": "QUARTER",
+      "href": "https://allbreedpedigree.com/poco+bueno+093",
+      "mstn": ""
+    },
+    {
+      "name": "Miss Poco 088",
+      "year": 0,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/miss+poco+088",
+      "mstn": ""
+    },
+    {
+      "name": "Sparta Tiveo",
+      "year": 1977,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/sparta+tiveo",
       "mstn": ""
     }
   ],
@@ -6661,6 +6901,96 @@
   ],
   [
     {
+      "name": "Ive a Classy Chassis",
+      "year": 2002,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/ive+a+classy+chassis",
+      "mstn": "CC"
+    },
+    {
+      "name": "Dg Corporate Broker",
+      "year": 1996,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/dg+corporate+broker",
+      "mstn": ""
+    },
+    {
+      "name": "Coasters Parka",
+      "year": 1991,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/coasters+parka",
+      "mstn": ""
+    },
+    {
+      "name": "Smooth Coaster",
+      "year": 1976,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/smooth+coaster",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Smooth Gamblin Trouble",
+      "year": 2002,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/smooth+gamblin+trouble",
+      "mstn": "CC"
+    },
+    {
+      "name": "Royal Smoothinformer",
+      "year": 0,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/royal+smoothinformer",
+      "mstn": ""
+    },
+    {
+      "name": "Startin Sm Trouble",
+      "year": 1993,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/startn+sm+trouble",
+      "mstn": ""
+    },
+    {
+      "name": "Ima Snuffy Gambler",
+      "year": 1983,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/ima+snuffy+gambler",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Z Blanco",
+      "year": 2002,
+      "type": "FRIESIAN CROSS",
+      "href": "",
+      "mstn": "CC"
+    },
+    {
+      "name": "Zero Gravity",
+      "year": 1997,
+      "type": "FRIESIAN",
+      "href": "https://www.allbreedpedigree.com/zero+gravity",
+      "mstn": ""
+    },
+    {
+      "name": "-",
+      "year": 0,
+      "type": "",
+      "href": "",
+      "mstn": ""
+    },
+    {
+      "name": "-",
+      "year": 0,
+      "type": "",
+      "href": "",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Cvf Skips Fancy Barb",
       "year": 2001,
       "type": "PAINT",
@@ -6836,6 +7166,36 @@
       "year": 1998,
       "type": "QUARTER",
       "href": "https://www.allbreedpedigree.com/winning+colors2",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Bugs Pretty Bar Fly",
+      "year": 1997,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/bugs+pretty+bar+fly",
+      "mstn": "CC"
+    },
+    {
+      "name": "Hylitas Rebel Bug",
+      "year": 1987,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/hylitas+rebel+bug",
+      "mstn": ""
+    },
+    {
+      "name": "Pretty Last Chance",
+      "year": 1988,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/pretty+last+chance",
+      "mstn": ""
+    },
+    {
+      "name": "King Ouatro Bar",
+      "year": 1975,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/king+ouatro+bar",
       "mstn": ""
     }
   ],
@@ -8461,6 +8821,36 @@
   ],
   [
     {
+      "name": "KA Champagne Affair",
+      "year": 2015,
+      "type": "PINTO",
+      "href": "https://www.allbreedpedigree.com/ka+champagne+affair",
+      "mstn": "CT"
+    },
+    {
+      "name": "Quattro Tresoro",
+      "year": 2008,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/quattro+tresoro",
+      "mstn": ""
+    },
+    {
+      "name": "KA Shakirah",
+      "year": 2003,
+      "type": "ARABIAN",
+      "href": "https://www.allbreedpedigree.com/ka+shakirah",
+      "mstn": ""
+    },
+    {
+      "name": "Avantti",
+      "year": 1992,
+      "type": "ARABIAN",
+      "href": "https://www.allbreedpedigree.com/avantti",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Pale Proof",
       "year": 2015,
       "type": "QUARTER",
@@ -8906,6 +9296,36 @@
       "year": 0,
       "type": "",
       "href": "",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Float Trip",
+      "year": 1998,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/float+trip",
+      "mstn": "CT"
+    },
+    {
+      "name": "Partial Settlement",
+      "year": 1979,
+      "type": "TB",
+      "href": "https://www.allbreedpedigree.com/partial+settlement",
+      "mstn": ""
+    },
+    {
+      "name": "Lahula Dancer",
+      "year": 1986,
+      "type": "PAINT",
+      "href": "",
+      "mstn": ""
+    },
+    {
+      "name": "Sols Sundance Kid",
+      "year": 1981,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/sols+sundance+kid",
       "mstn": ""
     }
   ],
@@ -9361,6 +9781,36 @@
   ],
   [
     {
+      "name": "Silver Sparkle",
+      "year": 2017,
+      "type": "GYPSY",
+      "href": "https://www.allbreedpedigree.com/silver+sparkle",
+      "mstn": "TT"
+    },
+    {
+      "name": "FCF Solstice",
+      "year": 2009,
+      "type": "GYPSY",
+      "href": "https://www.allbreedpedigree.com/fcf+solstice",
+      "mstn": ""
+    },
+    {
+      "name": "Arctic Spring",
+      "year": 2006,
+      "type": "GYPSY",
+      "href": "https://www.allbreedpedigree.com/arctic+spring",
+      "mstn": ""
+    },
+    {
+      "name": "Son Of Lenny Horse",
+      "year": 0,
+      "type": "GYPSY",
+      "href": "https://www.allbreedpedigree.com/son+of+lenny+horse",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Ameer El Koloob",
       "year": 2016,
       "type": "ARABIAN",
@@ -9386,6 +9836,126 @@
       "year": 1990,
       "type": "ARABIAN",
       "href": "https://www.allbreedpedigree.com/lohim",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Galactic Pearl GMM",
+      "year": 2016,
+      "type": "MINIATURE",
+      "href": "https://www.allbreedpedigree.com/galactic+pearl+gmm",
+      "mstn": "TT"
+    },
+    {
+      "name": "CS Royal Stands Thunder Prince",
+      "year": 2011,
+      "type": "MINIATURE",
+      "href": "https://www.allbreedpedigree.com/cs+royal+stands+thunder+prince",
+      "mstn": ""
+    },
+    {
+      "name": "Lil Miracles Bonnie Blue Eyes",
+      "year": 2002,
+      "type": "MINIATURE",
+      "href": "https://www.allbreedpedigree.com/lil+miracles+bonnie+blue+eyes",
+      "mstn": ""
+    },
+    {
+      "name": "La Rays Lil Wayne",
+      "year": 1991,
+      "type": "MINIATURE",
+      "href": "https://www.allbreedpedigree.com/la+rays+lil+wayne",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Haap Ibn Paladdinn",
+      "year": 2016,
+      "type": "HALF ARABIAN",
+      "href": "https://www.allbreedpedigree.com/haap+ibn+paladdinn",
+      "mstn": "TT"
+    },
+    {
+      "name": "Haap Paladdinn",
+      "year": 2008,
+      "type": "HALF ARABIAN",
+      "href": "https://www.allbreedpedigree.com/haap+paladdinn",
+      "mstn": ""
+    },
+    {
+      "name": "Haap Miranda",
+      "year": 2008,
+      "type": "ARABIAN",
+      "href": "https://www.allbreedpedigree.com/haap+miranda",
+      "mstn": ""
+    },
+    {
+      "name": "Sh-Desert Victory",
+      "year": 1991,
+      "type": "ARABIAN",
+      "href": "https://www.allbreedpedigree.com/sh-desert+victory",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Mac",
+      "year": 2016,
+      "type": "PAINT",
+      "href": "",
+      "mstn": "TT"
+    },
+    {
+      "name": "Retribution",
+      "year": 2009,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/retribution5",
+      "mstn": ""
+    },
+    {
+      "name": "Barlinks Foxy Lady",
+      "year": 2010,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/barlinks+foxy+lady",
+      "mstn": ""
+    },
+    {
+      "name": "Barlinks Foxy Lady",
+      "year": 2010,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/barlinks+foxy+lady",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Ima Smokin Mechanic",
+      "year": 2016,
+      "type": "",
+      "href": "https://www.allbreedpedigree.com/ima+smokin+mechanic",
+      "mstn": "TT"
+    },
+    {
+      "name": "Mechanic",
+      "year": 2010,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/mechanic",
+      "mstn": ""
+    },
+    {
+      "name": "Southern Mistic",
+      "year": 0,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/southern+mistic",
+      "mstn": ""
+    },
+    {
+      "name": "Smokin Jose Cuervo",
+      "year": 1992,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/smokin+jose+cuervo",
       "mstn": ""
     }
   ],
@@ -9446,6 +10016,36 @@
       "year": 1987,
       "type": "TB",
       "href": "https://www.allbreedpedigree.com/pleasant+tap",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "He's Zipped Fancy",
+      "year": 2015,
+      "type": "PAINT",
+      "href": "",
+      "mstn": "TT"
+    },
+    {
+      "name": "Mr. Zip O Rock",
+      "year": 2003,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/mr+zip+o+rock",
+      "mstn": ""
+    },
+    {
+      "name": "Sun Dee Zippin",
+      "year": 0,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/sun+dee+zippin",
+      "mstn": ""
+    },
+    {
+      "name": "Zippin Rok",
+      "year": 1995,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/zippin+rock",
       "mstn": ""
     }
   ],
@@ -9571,6 +10171,36 @@
   ],
   [
     {
+      "name": "Paige Six",
+      "year": 2014,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/paige+six",
+      "mstn": "TT"
+    },
+    {
+      "name": "Galloway Paige",
+      "year": 2008,
+      "type": "TB",
+      "href": "https://www.allbreedpedigree.com/galloway+paige",
+      "mstn": ""
+    },
+    {
+      "name": "Chicks An Asset",
+      "year": 2004,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/chicks+an+asset",
+      "mstn": ""
+    },
+    {
+      "name": "Good Asset",
+      "year": 1989,
+      "type": "QUARTER",
+      "href": "https://www.allbreedpedigree.com/good+asset",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Manhattan Irish Lady",
       "year": 2013,
       "type": "SADDLEBRED",
@@ -9626,6 +10256,36 @@
       "year": 1992,
       "type": "ARABIAN",
       "href": "https://www.allbreedpedigree.com/kais",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Wildly Tempting",
+      "year": 2012,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/wildly+tempting",
+      "mstn": "TT"
+    },
+    {
+      "name": "Wild Temptation",
+      "year": 2003,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/wild+temptation",
+      "mstn": ""
+    },
+    {
+      "name": "Zips Spanish Angel",
+      "year": 2001,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/zips+spanish+angel",
+      "mstn": ""
+    },
+    {
+      "name": "Hez Zippin Free",
+      "year": 1998,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/hez+zippin+free",
       "mstn": ""
     }
   ],
@@ -9781,6 +10441,36 @@
   ],
   [
     {
+      "name": "Playboys Hustler",
+      "year": 2008,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/playboys+hustler",
+      "mstn": "TT"
+    },
+    {
+      "name": "Playboys Danger Zone",
+      "year": 1998,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/playboys+danger+zone",
+      "mstn": ""
+    },
+    {
+      "name": "Ladys Royal Colors",
+      "year": 0,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/ladys+royal+colors",
+      "mstn": ""
+    },
+    {
+      "name": "Much A Ladys Man",
+      "year": 1990,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/much+a+ladys+man2",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Qredit",
       "year": 2008,
       "type": "OLDENBURG",
@@ -9871,6 +10561,36 @@
   ],
   [
     {
+      "name": "Dem Cremebrule",
+      "year": 2006,
+      "type": "LUSITANO",
+      "href": "https://www.allbreedpedigree.com/dem+cremebrule",
+      "mstn": "TT"
+    },
+    {
+      "name": "Modico",
+      "year": 0,
+      "type": "LUSITANO",
+      "href": "https://www.allbreedpedigree.com/modico",
+      "mstn": ""
+    },
+    {
+      "name": "Naja Hi",
+      "year": 1993,
+      "type": "LUSITANO",
+      "href": "https://www.allbreedpedigree.com/naja+hi",
+      "mstn": ""
+    },
+    {
+      "name": "Xique-Xique",
+      "year": 1980,
+      "type": "LUSITANO",
+      "href": "https://www.allbreedpedigree.com/xique-xique",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Don Amor",
       "year": 2006,
       "type": "HANOVERIAN",
@@ -9931,6 +10651,36 @@
   ],
   [
     {
+      "name": "Cherokee Dancehall Girl",
+      "year": 2005,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/cherokee+dancehall+girl",
+      "mstn": "TT"
+    },
+    {
+      "name": "Cherokee  Treasured",
+      "year": 1994,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/cherokee+treasured",
+      "mstn": ""
+    },
+    {
+      "name": "Flaming Rackett",
+      "year": 1995,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/flamin+rackett",
+      "mstn": ""
+    },
+    {
+      "name": "Flaming Rackett",
+      "year": 1995,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/flamin+rackett",
+      "mstn": ""
+    }
+  ],
+  [
+    {
       "name": "Eclipse",
       "year": 2005,
       "type": "WARMBLOOD",
@@ -9986,6 +10736,36 @@
       "year": 1990,
       "type": "ARABIAN",
       "href": "https://www.allbreedpedigree.com/tc+moniets+legacy",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Little Man Campbell",
+      "year": 2004,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/little+man+campbell",
+      "mstn": "TT"
+    },
+    {
+      "name": "Socials Impact",
+      "year": 0,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/socials+impact",
+      "mstn": ""
+    },
+    {
+      "name": "Chicos Fancy Jill",
+      "year": 0,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/chicos+fancy+jill",
+      "mstn": ""
+    },
+    {
+      "name": "Chico Charcoal Bar",
+      "year": 1977,
+      "type": "PAINT",
+      "href": "https://www.allbreedpedigree.com/chico+charcoal+bar",
       "mstn": ""
     }
   ],
@@ -10076,6 +10856,36 @@
       "year": 1987,
       "type": "HANOVERIAN",
       "href": "https://www.allbreedpedigree.com/fabriano3",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Xemino",
+      "year": 2003,
+      "type": "LUSITANO",
+      "href": "https://www.allbreedpedigree.com/xemino",
+      "mstn": "TT"
+    },
+    {
+      "name": "Eminente",
+      "year": 1986,
+      "type": "EMINENTE",
+      "href": "https://www.allbreedpedigree.com/eminente",
+      "mstn": ""
+    },
+    {
+      "name": "Orquestra Do Retiro",
+      "year": 1995,
+      "type": "LUSITANO",
+      "href": "https://www.allbreedpedigree.com/orquestra+do+retiro",
+      "mstn": ""
+    },
+    {
+      "name": "Dardo II",
+      "year": 1985,
+      "type": "LUSITANO",
+      "href": "https://www.allbreedpedigree.com/dardo+ii",
       "mstn": ""
     }
   ],
@@ -10316,6 +11126,36 @@
       "year": 1977,
       "type": "ARABIAN",
       "href": "https://www.allbreedpedigree.com/mon+chat2",
+      "mstn": ""
+    }
+  ],
+  [
+    {
+      "name": "Recusa Interagro",
+      "year": 1997,
+      "type": "LUSITANO",
+      "href": "https://www.allbreedpedigree.com/recusa+interagro",
+      "mstn": "TT"
+    },
+    {
+      "name": "Farao",
+      "year": 1987,
+      "type": "LUSITANO",
+      "href": "https://www.allbreedpedigree.com/farao4",
+      "mstn": ""
+    },
+    {
+      "name": "Lagrima Do Mirante",
+      "year": 1989,
+      "type": "LUSITANO",
+      "href": "https://www.allbreedpedigree.com/lagrima+do+mirante",
+      "mstn": ""
+    },
+    {
+      "name": "Xique-Xique",
+      "year": 1980,
+      "type": "LUSITANO",
+      "href": "https://www.allbreedpedigree.com/xique-xique",
       "mstn": ""
     }
   ],
