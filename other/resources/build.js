@@ -12,8 +12,8 @@ for (let i = 0; i < total; ++i) {
   html += "<p>";
   // Debug
   let mainName = horses[i][0].name;
-  mainName != "-" && mainNameForDebug.includes(mainName) ? console.log(mainName) : mainNameForDebug.push(mainName);
-
+  mainName != "-" &&
+  mainNameForDebug.includes(mainName) ? console.log(mainName) : mainNameForDebug.push(mainName);
   for (let j = 0; j < 4; ++j) {
     let { name, year, type, href, mstn } = horses[i][j];
     if (href) {
@@ -25,6 +25,9 @@ for (let i = 0; i < total; ++i) {
       } else if (namesForDebug[hrefsIdx] != name) {
         console.log(horses[i]);
       }
+
+      if (type === undefined)
+        console.log(horses[i])
 
       let host = href.slice(8, href.indexOf("/", 10));
       if (host == "www.allbreedpedigree.com")
