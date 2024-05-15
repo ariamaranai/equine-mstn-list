@@ -13,10 +13,12 @@ for (let i = 0; i < total; ++i) {
   html += "<p>";
   // Debug
   let mainName = horses[i][0].name;
-  !duplName.includes(mainName) && mainNameForDebug.includes(mainName) ? console.log(mainName) : mainNameForDebug.push(mainName);
+  mainName != "-" &&
+  mainName != "Eclipse" &&
+  mainNameForDebug.includes(mainName) ? console.log(mainName) : mainNameForDebug.push(mainName);
 
   for (let j = 0; j < 4; ++j) {
-    let { name, year, cnty, sex, tb, href, mstn } = horses[i][j];
+    let { name, year, cnty, sex, type, href, mstn } = horses[i][j];
     if (href) {
       // Debug
       let hrefsIdx = hrefsForDebug.indexOf(href);
@@ -38,7 +40,7 @@ for (let i = 0; i < total; ++i) {
         href = " href=" + href.slice(6);
     }
     mstn = mstn ? mstn == "CC" ? " s" : mstn == "CT" ? " a" : " e" : "";
-    html += `<a${href}${mstn}>${name}\u000a${year ? year : ""}${cnty ? "-" + cnty : cnty}${j ? "" : year || cnty ? "-" + sex : sex} ${tb === true ? "" : year || cnty ? " *" : "*"}`;
+    html += `<a${href}${mstn}>${name}\u000a${year ? year : ""}${cnty ? "-" + cnty : cnty}${j ? "" : year || cnty ? "-" + sex : sex}${type == "TB" || !type ? "" : year || cnty ? " " + type : type}`;
   }
   html += "</a>"
 }
