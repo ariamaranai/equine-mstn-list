@@ -40,7 +40,7 @@ for (let i = 0; i < total; ++i) {
         href = " href=" + href.slice(6);
     }
     mstn = mstn ? mstn == "CC" ? " s" : mstn == "CT" ? " a" : " e" : "";
-    html += `<a${href}${mstn}>${name}\u000a${year ? year : ""}${cnty ? "-" + cnty : cnty}${j ? "" : year || cnty ? "-" + sex : sex}${type == "TB" || !type ? "" : year || cnty ? " " + type : type}`;
+    html += `<a${href}${mstn}>${name}\u000a${year ? year : ""}${cnty ? "-" + cnty : cnty}${j ? "" : year || cnty ? "-" + sex : sex}${type == "TB" || !type ? "" : year || cnty || sex ? " " + type + "*" : type + "*"}`;
   }
   html += "</a>"
 }
