@@ -2,7 +2,7 @@ ondragstart =e=> !1;
 {
   oninput =e=> {
     if (a ??= [...t.children], r = $total, l = (e = e.target).selectedIndex) {
-      if (--l < 4)
+      if (--l < 3)
         while (t.appendChild(a[$orders[l][r]]), --r);
       else
         (location.href = "//ariamaranai.github.io")
