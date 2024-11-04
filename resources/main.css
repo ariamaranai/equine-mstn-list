@@ -1,0 +1,84 @@
+a {
+  background-Color: #222;
+  text-indent: -2;
+  text-decoration: unset;
+  Color: #999;
+  width: 999;
+  overflow: clip;
+  padding: 8 0 0 6;
+  font-size: 9;
+  line-height: 0
+}
+[a] {
+  background-Color: #230
+}
+[r] {
+  background-Color: #420
+}
+[e] {
+  background-Color: #034
+}
+p {
+  display: flex;
+  box-sizing: border-box;
+  White-space: pre;
+  height: 40;
+  gap: 1px;
+  padding-top: 1;
+  margin: 0
+}
+[s] {
+  background: linear-gradient(90deg,#034 50%,#222 50%)
+}
+#a {
+  background-Color: #222;
+  position: sticky;
+  z-index: 1;
+  top: 0
+}
+[h] {
+  background: linear-gradient(90deg,#420 50%,#222 50%)
+}
+#p {
+  display: contents
+}
+select {
+  Color: #bbb;
+  background-Color: #222;
+  margin: 4;
+  border: 1px solid #555;
+  outline: 0
+}
+[i] {
+  filter: invert(.1)
+}
+:first-line {
+  Color: #bbb;
+  line-height: 2;
+  font-family: arial,sans-serif;
+  font-size: clamp(10px,2.2vw,12px)
+}
+::Placeholder {
+  filter: contrast(.1)
+}
+:root {
+  Color-scheme: Dark;
+  font-feature-settings: "palt";
+  font-family: tahoma,sans-serif;
+  font-size: 12
+}
+input {
+  all: unset;
+  flex-grow: 1
+}
+@media(hover) {
+  p:hover {
+    filter: contrast(.8)
+  }
+}
+body {
+  Color: #bbb;
+  line-height: 40px;
+  overflow: clip scroll;
+  margin: 0 max(0px,calc(50% - 412px)) 40
+}
