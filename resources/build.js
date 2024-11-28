@@ -30,6 +30,6 @@ for (let i = 0; i < total; ++i) {
 }
 
 Bun.write("../s.js", js);
-Bun.write("../index.htm", html);
+Bun.write("../index.htm", html = html.slice(0, -4));
 console.log(`html size: ${Bun.gzipSync(Buffer.from(html)).length}`);
 console.log(`js size: ${Bun.gzipSync(Buffer.from(js)).length}`);
