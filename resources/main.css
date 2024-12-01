@@ -47,6 +47,7 @@ select {
   background-Color: #222;
   margin: 4;
   border: 1px solid #555;
+  font-size: 12;
   outline: 0
 }
 [i] {
@@ -63,9 +64,10 @@ select {
 }
 :root {
   Color-scheme: Dark;
-  font-feature-settings: "palt";
+  font-size: 12;
   font-family: tahoma,sans-serif;
-  font-size: 12
+  font-feature-settings: "palt"
+
 }
 input {
   all: unset;
