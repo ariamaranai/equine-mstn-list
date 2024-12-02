@@ -7,7 +7,7 @@ let orderDam = sort(horses.map((v, i) => [v[2].name, i]));
 let orderDamSire = sort(horses.map((v, i) => [v[3].name, i]));
 let orders = `[[0,${orderSire}],[0,${orderDam}],[0,${orderDamSire}]]`;
 let css = (await Bun.file("main.css").text()).replaceAll(/\n| {2}|\s(?={)|(?<=\:)\s/g, "");
-let js = (await Bun.file("main.js").text()).replaceAll(/\s/g, "").replaceAll("let", "let ").replaceAll("elseif", "else if").replaceAll("$total", total).replace("$orders", orders);
+let js = (await Bun.file("main.js").text()).replaceAll(/\s/g, "").replaceAll("let", "let ").replaceAll("elseif", "else if").replaceAll("$total", total).replace("$orders", orders).replace("(^|)", "(^| )");
 let html = (await Bun.file("main.htm").text()).replaceAll(/\n/g, "").replaceAll("$total", total).replace("/*css*/", css);
 
 for (let i = 0; i < total; ++i) {
