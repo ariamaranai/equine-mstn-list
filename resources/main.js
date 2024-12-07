@@ -3,7 +3,7 @@ ondragstart =e=> !1;
   oninput =e=> {
     if (a ??= [...t.children], r = $total, l = (e = e.target).selectedIndex) {
       if (--l < 3)
-        while (t.appendChild(a[o[l][r]]), --r);
+        while (t.appendChild(a[$orders[l][r]]), --r);
       else
         (location.href = "//ariamaranai.github.io")
     } else if (l == 0)
@@ -18,5 +18,5 @@ ondragstart =e=> !1;
   addEventListener("wheel", Number.isInteger(devicePixelRatio) ?
     e => e.preventDefault(scrollBy(0, e.deltaY > 0 ? 40 - t.scrollTop % 40 || 40 : - t.scrollTop % 40 || -40)) :
     e => e.preventDefault(scrollBy(0, e.deltaY > 0 ? 40 : -40)), { passive: !1 });
-  let l, t = document.body, a, d, o=$orders
+  let l, t = document.body, a, d
 }
