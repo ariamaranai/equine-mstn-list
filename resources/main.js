@@ -16,7 +16,7 @@ ondragstart =e=> !1;
     }
   },
   addEventListener("wheel", Number.isInteger(devicePixelRatio) ?
-    e => e.preventDefault(scrollBy(0, e.deltaY > 0 ? 40 - t.scrollTop % 40 || 40 : - t.scrollTop % 40 || -40)) :
-    e => e.preventDefault(scrollBy(0, e.deltaY > 0 ? 40 : -40)), { passive: !1 });
+    e => (e.preventDefault(),scrollBy(0, e.deltaY > 0 ? 40 - t.scrollTop % 40 || 40 : - t.scrollTop % 40 || -40)) :
+    e => (e.preventDefault(),scrollBy(0, e.deltaY > 0 ? 40 : -40)), { passive: !1 });
   let l, t = document.body, a, d
 }
