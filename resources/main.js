@@ -10,7 +10,7 @@ ondragstart =e=> !1;
       while (t.prepend(a[r]), --r);
     else {
       d ??= a.map(e => e.textContent.toLowerCase()),
-      e = e.value.trim(l = 0).replace(/['.]/g, "").toLowerCase();
+      e = e.value.trim().replace(/['.]/g, "").toLowerCase(), l = 0;
       while (a[r].setAttribute("style", d[r].includes(e) ? (++l, "") : "display:none"), --r);
       p.textContent = l
     }
