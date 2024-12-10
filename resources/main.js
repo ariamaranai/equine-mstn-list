@@ -5,7 +5,7 @@ ondragstart =e=> !1;
       if (--l < 3)
         while (t.appendChild(a[$orders[l][r]]), --r);
       else
-        (location.href = "//ariamaranai.github.io")
+        location.href = "//ariamaranai.github.io"
     } else if (l == 0)
       while (t.prepend(a[r]), --r);
     else {
