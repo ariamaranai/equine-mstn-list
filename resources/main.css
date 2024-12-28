@@ -1,4 +1,5 @@
 a {
+  background-color: #111;
   Color: #999;
   width: 999;
   text-indent: -2;
@@ -18,9 +19,8 @@ a {
   background-Color: #034
 }
 p {
-  background-Color: #222;
+  background-Color: #000;
   display: flex;
-  box-sizing: border-box;
   White-space: pre;
   height: 40;
   padding-top: 1;
@@ -31,7 +31,7 @@ p {
   background: linear-gradient(90deg,#034 50%,#222 50%)
 }
 select {
-  background-Color: #222;
+  background-Color: #111;
   Color: #bbb;
   font-size: 12;
   border: #555 solid 1px;
@@ -42,7 +42,7 @@ select {
   background: linear-gradient(90deg,#420 50%,#222 50%)
 }
 body {
-  background-Color: #111;
+  background-Color: #000;
   Color: #bbb;
   font-size: 12;
   font-family: tahoma,sans-serif;
