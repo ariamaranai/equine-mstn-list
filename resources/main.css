@@ -62,25 +62,22 @@ select {
 ::Placeholder {
   filter: contrast(.1)
 }
-:root {
-  Color-scheme: Dark;
-  font-size: 12;
+body {
+  Color: #bbb;
+  background-Color: #111;
   font-family: tahoma,sans-serif;
-  font-feature-settings: "palt"
-
-}
-input {
-  all: unset;
-  flex-grow: 1
+  font-size: 12;
+  font-feature-settings: "palt";
+  line-height: 40px;
+  margin: 0 max(0px,calc(50% - 412px)) 40;
+  overflow: clip scroll
 }
 @media(hover) {
   p:hover {
     filter: contrast(.8)
   }
 }
-body {
-  Color: #bbb;
-  line-height: 40px;
-  overflow: clip scroll;
-  margin: 0 max(0px,calc(50% - 412px)) 40
+input {
+  all: unset;
+  flex-grow: 1
 }
