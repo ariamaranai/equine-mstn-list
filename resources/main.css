@@ -1,9 +1,8 @@
 a {
-  background-Color: #222;
-  text-indent: -2;
-  text-decoration: unset;
   Color: #999;
   width: 999;
+  text-indent: -2;
+  text-decoration: unset;
   overflow: clip;
   padding: 8 0 0 6;
   font-size: 9;
@@ -19,63 +18,44 @@ a {
   background-Color: #034
 }
 p {
+  background-Color: #222;
   display: flex;
   box-sizing: border-box;
   White-space: pre;
   height: 40;
-  gap: 1px;
   padding-top: 1;
+  gap: 1px;
   margin: 0
 }
 [s] {
   background: linear-gradient(90deg,#034 50%,#222 50%)
 }
-#a {
+select {
   background-Color: #222;
-  position: sticky;
-  z-index: 1;
-  top: 0
+  Color: #bbb;
+  font-size: 12;
+  border: #555 solid 1px;
+  margin: 4;
+  outline: 0
 }
 [h] {
   background: linear-gradient(90deg,#420 50%,#222 50%)
 }
-#p {
-  display: contents
-}
-select {
+body {
+  background-Color: #111;
   Color: #bbb;
-  background-Color: #222;
-  margin: 4;
-  border: 1px solid #555;
   font-size: 12;
-  outline: 0
-}
-[i] {
-  filter: invert(.1)
+  font-family: tahoma,sans-serif;
+  line-height: 40px;
+  margin: 0 max(0px,calc(50% - 412px)) 40;
+  font-feature-settings: "palt";
+  overflow: clip scroll
 }
 :first-line {
   Color: #bbb;
-  line-height: 2;
+  font-size: clamp(10px,2.2vw,12px);
   font-family: arial,sans-serif;
-  font-size: clamp(10px,2.2vw,12px)
-}
-::Placeholder {
-  filter: contrast(.1)
-}
-body {
-  Color: #bbb;
-  background-Color: #111;
-  font-family: tahoma,sans-serif;
-  font-size: 12;
-  font-feature-settings: "palt";
-  line-height: 40px;
-  margin: 0 max(0px,calc(50% - 412px)) 40;
-  overflow: clip scroll
-}
-@media(hover) {
-  p:hover {
-    filter: contrast(.8)
-  }
+  line-height: 2
 }
 input {
   all: unset;

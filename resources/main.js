@@ -12,11 +12,11 @@ ondragstart = e => !1;
       d ??= a.map(e => e.textContent.toLowerCase()),
       e = e.value.trim().replace(/['.]/g, "").toLowerCase(), l = 0;
       while (a[r].setAttribute("style", d[r].includes(e) ? (++l, "") : "display:none"), --r);
-      p.textContent = l
+      s.textContent = l
     }
   },
   addEventListener("wheel", Number.isInteger(devicePixelRatio) ?
     e => (e.preventDefault(),scrollBy(0, e.deltaY > 0 ? 40 - t.scrollTop % 40 || 40 : - t.scrollTop % 40 || -40)) :
     e => (e.preventDefault(),scrollBy(0, e.deltaY > 0 ? 40 : -40)), { passive: !1 });
-  let l, t = document.body, a, d
+  let l, t = document.body, a, s = t.firstchild.children[1], d
 }
