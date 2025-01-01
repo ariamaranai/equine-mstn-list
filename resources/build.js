@@ -33,13 +33,46 @@ for (let i = 0; i < total; ++i) {
       href = " href=" + (
         host == "www.pedigreequery.com"
         ? href.slice(30).split("+").map(v => v[0].toUpperCase() + v.slice(1)).join("+")
-        : host == "www.allbreedpedigree.com" ?
-          "//www.allbreedpedigree.com/" + href.slice(33).split("+").map(v => v[0].toUpperCase() + v.slice(1)).join("+") 
-        : href.slice(6)
+        : host == "www.allbreedpedigree.com"
+          ? "//www.allbreedpedigree.com/" +
+            href.slice(33).split("+").map(v => v[0].toUpperCase() + v.slice(1)).join("+") 
+          : href.slice(6)
       );
     }
-    let mstnAttr = mstn ? mstn == "CC" ? " r" : mstn == "CT" ? " a" : mstn == "TT" ? " e" : mstn[0] == "C" ? " h" : mstn[0] == "T" ? " s" : "" : "";
-    html += `<a${href}${mstnAttr}>${name}\u000a${year ? cnty ? year + "-" + cnty : year : cnty ? cnty : ""}${j ? "" : sex ? "-" + sex : ""}${(mstn = mstn[1]) >= "0" && mstn <= "9" ? " (" + mstn + ")" : ""}`;
+    let mstnAttr =
+      mstn
+        ? mstn == "CC"
+          ? " r"
+          : mstn == "CT"
+            ? " a"
+            : mstn == "TT"
+              ? " e"
+              : mstn[0] == "C"
+                ? " h"
+                : mstn[0] == "T"
+                  ? " s"
+                  : ""
+        : "";
+    html +=
+      `<a${href}${mstnAttr}>${name}\u000a${
+        year 
+          ? cnty
+            ? year + "-" + cnty
+            : year
+          : cnty
+            ? cnty
+            : ""
+        }${
+          j
+            ? ""
+            : sex
+              ? "-" + sex
+              : ""
+        }${
+          (mstn = mstn[1]) >= "0" && mstn <= "9"
+            ? " (" + mstn + ")"
+            : ""
+        }`;
   }
   html += "</a>";
 }
