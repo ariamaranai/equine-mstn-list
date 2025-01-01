@@ -1,28 +1,24 @@
 import horses from "./../../equine-lib/mstn-tb.json";
 
 let total = horses.length;
-let sort = arr =>
-  arr.toSorted((a, b) => a[0] != b[0] && a[0] < b[0] || -1).map(v => v[1] + 1);
+let sort = arr => arr.toSorted((a, b) => a[0] != b[0] && a[0] < b[0] || -1).map(v => v[1] + 1);
 let orderSire = sort(horses.map((v, i) => [v[1].name, i]));
 let orderDam = sort(horses.map((v, i) => [v[2].name, i]));
 let orderDamSire = sort(horses.map((v, i) => [v[3].name, i]));
 let orders = `[[0,${orderSire}],[0,${orderDam}],[0,${orderDamSire}]]`;
-let css =
-  (await Bun.file("main.css").text())
-    .replace(/\n| {2}|\s(?={)|(?<=\:)\s/g, "");
-let js =
-  (await Bun.file("main.js").text())
-    .replace(/(?<!let)\s/g, "")
-    .replaceAll("elseif", "else if")
-    .replaceAll("$total", total)
-    .replace("$orders", orders)
-    .replace("elsel", "else l")
-    .replace("(^|)", "(^| )");
-let html =
-  (await Bun.file("main.htm").text())
-    .replaceAll("\n", "")
-    .replaceAll("$total", total)
-    .replace("/*css*/", css);
+let css = (await Bun.file("main.css").text())
+  .replace(/\n| {2}|\s(?={)|(?<=\:)\s/g, "");
+let js = (await Bun.file("main.js").text())
+  .replace(/(?<!let)\s/g, "")
+  .replaceAll("elseif", "else if")
+  .replaceAll("$total", total)
+  .replace("$orders", orders)
+  .replace("elsel", "else l")
+  .replace("(^|)", "(^| )");
+let html = (await Bun.file("main.htm").text())
+  .replaceAll("\n", "")
+  .replaceAll("$total", total)
+  .replace("/*css*/", css);
 
 for (let i = 0; i < total; ++i) {
   html += "<p>";
@@ -39,20 +35,14 @@ for (let i = 0; i < total; ++i) {
           : href.slice(6)
       );
     }
-    let mstnAttr =
-      mstn
-        ? mstn == "CC"
-          ? " r"
-          : mstn == "CT"
-            ? " a"
-            : mstn == "TT"
-              ? " e"
-              : mstn[0] == "C"
-                ? " h"
-                : mstn[0] == "T"
-                  ? " s"
-                  : ""
-        : "";
+    let mstnAttr = mstn
+      ? mstn == "CC" ? " r"
+      : mstn == "CT" ? " a"
+      : mstn == "TT" ? " e"
+      : mstn[0] == "C" ? " h"
+      : mstn[0] == "T" ? " s"
+      : ""
+      : "";
     html +=
       `<a${href}${mstnAttr}>${name}\u000a${
         year 
