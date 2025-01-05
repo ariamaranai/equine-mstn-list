@@ -29,7 +29,7 @@ p {
   margin: 0
 }
 [s] {
-  background: linear-gradient(90deg,#034 50%,#222 50%)
+  background: linear-gradient(90deg,#034 50%,#111 50%)
 }
 select {
   background-Color: #111;
@@ -40,7 +40,7 @@ select {
   outline: 0
 }
 [h] {
-  background: linear-gradient(90deg,#420 50%,#222 50%)
+  background: linear-gradient(90deg,#420 50%,#111 50%)
 }
 body {
   background-Color: #000;

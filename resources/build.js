@@ -60,7 +60,7 @@ for (let i = 0; i < total; ++i) {
               : ""
         }${
           (mstn = mstn[1]) >= "0" && mstn <= "9"
-            ? " (" + mstn + ")"
+            ? " [" + mstn + "]"
             : ""
         }`;
   }
