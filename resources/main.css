@@ -7,7 +7,6 @@ a {
   overflow: clip;
   padding: 8 0 0 6;
   font-size: 9;
-  font-family: tahoma,sans-serif;
   line-height: 0
 }
 [a] {
@@ -47,6 +46,7 @@ body {
   background-Color: #000;
   Color: #bbb;
   font-size: 12;
+  font-family: tahoma,sans-serif;
   line-height: 40px;
   margin: 0 max(0px,calc(50% - 412px)) 40;
   font-feature-settings: "palt";
