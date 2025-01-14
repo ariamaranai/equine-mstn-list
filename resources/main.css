@@ -1,6 +1,6 @@
 a {
   background-color: #111;
-  Color: #999;
+  color: #999;
   width: 999;
   text-indent: -2;
   text-decoration: unset;
@@ -10,16 +10,16 @@ a {
   line-height: 0
 }
 [a] {
-  background-Color: #230
+  background-color: #230
 }
 [r] {
-  background-Color: #420
+  background-color: #420
 }
 [e] {
-  background-Color: #034
+  background-color: #034
 }
 p {
-  background-Color: #000;
+  background-color: #000;
   display: flex;
   White-space: pre;
   box-sizing: border-box;
@@ -32,8 +32,8 @@ p {
   background: linear-gradient(90deg,#034 50%,#111 50%)
 }
 select {
-  background-Color: #111;
-  Color: #bbb;
+  background-color: #111;
+  color: #bbb;
   font-size: 12;
   border: #555 solid 1px;
   margin: 4;
@@ -43,8 +43,8 @@ select {
   background: linear-gradient(90deg,#420 50%,#111 50%)
 }
 body {
-  background-Color: #000;
-  Color: #bbb;
+  background-color: #000;
+  color: #bbb;
   font-size: 12;
   font-family: tahoma,sans-serif;
   line-height: 40px;
@@ -53,8 +53,8 @@ body {
   overflow: clip scroll
 }
 :first-line {
-  Color: #bbb;
+  color: #bbb;
   font-size: clamp(10px,2.2vw,12px);
-  font-family: arial,sans-serif;
+  font-family: arial,meiryo,sans-serif;
   line-height: 2
 }
