@@ -31,7 +31,7 @@ p {
 [s] {
   background: linear-gradient(90deg,#034 50%,#111 50%)
 }
-select {
+#e {
   background-color: #111;
   color: #bbb;
   font-size: 12;
@@ -41,6 +41,10 @@ select {
 }
 [h] {
   background: linear-gradient(90deg,#420 50%,#111 50%)
+}
+#r {
+  all: unset;
+  flex-grow: 1
 }
 body {
   background-color: #000;
