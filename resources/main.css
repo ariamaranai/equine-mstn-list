@@ -31,6 +31,14 @@ p {
 [s] {
   background: linear-gradient(90deg,#034 50%,#111 50%)
 }
+#a {
+  background-color: #111;
+  position: sticky;
+  top: 0
+}
+[h] {
+  background: linear-gradient(90deg,#420 50%,#111 50%)
+}
 #e {
   background-color: #111;
   color: #bbb;
@@ -38,9 +46,6 @@ p {
   border: #555 solid 1px;
   margin: 8 4;
   outline: 0
-}
-[h] {
-  background: linear-gradient(90deg,#420 50%,#111 50%)
 }
 #r {
   all: unset;
