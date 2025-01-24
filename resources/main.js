@@ -16,10 +16,13 @@ ondragstart = e => !1;
       d ??= (n ??= [...t.children]).map(e => e.textContent.toLowerCase());
       while (n[r].setAttribute("style", d[r].includes(l) ? (++i, "") : "display:none"), --r);
       s.textContent = i
+    } else {
+      while (n[r].style = "", --r);
+      s.textContent = $total
     }
   },
   addEventListener("wheel", Number.isInteger(devicePixelRatio) ?
     e => (e.preventDefault(), scrollBy(0, e.deltaY > 0 ? 40 - t.scrollTop % 40 || 40 : - t.scrollTop % 40 || -40)) :
     e => (e.preventDefault(), scrollBy(0, e.deltaY > 0 ? 40 : -40)), { passive: !1 });
-  let t = document.body, n, s = a.children[1], d
+  let t = document.body, n, s = r.nextSibling, d
 }
