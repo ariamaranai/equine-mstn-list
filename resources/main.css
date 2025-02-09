@@ -1,12 +1,12 @@
 a {
   background-color: #111;
   color: #999;
-  width: 999;
+  width: -webkit-fill-available;
+  padding: 8 0 0 6;
   text-indent: -4;
   text-decoration: unset;
-  overflow: clip;
-  padding: 8 0 0 6;
   font-size: 9;
+  contain: inline-size;
   line-height: 0
 }
 [a] {
@@ -22,9 +22,9 @@ p {
   background-color: #000;
   display: flex;
   White-space: pre;
+  padding-top: 1;
   box-sizing: border-box;
   height: 40;
-  padding-top: 1;
   gap: 1px;
   margin: 0
 }
