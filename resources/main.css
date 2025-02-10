@@ -1,9 +1,10 @@
 a {
   background-color: #111;
   color: #999;
-  width: -webkit-fill-available;
   padding: 8 0 0 6;
+  width: -webkit-fill-available;
   text-indent: -4;
+  width: -moz-available;
   text-decoration: unset;
   font-size: 9;
   contain: inline-size;
