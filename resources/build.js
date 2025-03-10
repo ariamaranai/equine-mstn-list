@@ -28,11 +28,12 @@ for (let i = 0; i < total; ++i) {
       let host = href.slice(8, href.indexOf("/", 10));
       href = " href=" + (
         host == "www.pedigreequery.com"
-        ? href.slice(30).split("+").map(v => v[0].toUpperCase() + v.slice(1)).join("+")
+        ? (/*href.slice(30).replaceAll("+", " ").replace(/[0-9]$/, "").replace(/[0-9]$/, "") != name.toLowerCase() && console.log(name),*/
+          href.slice(30).split("+").map(v => v[0].toUpperCase() + v.slice(1)).join("+"))
         : host == "www.allbreedpedigree.com"
           ? "//www.allbreedpedigree.com/" +
             href.slice(33).split("+").map(v => v[0].toUpperCase() + v.slice(1)).join("+") 
-          : href.slice(6)
+          : (href.slice(6))
       );
     }
     let mstnAttr = mstn
