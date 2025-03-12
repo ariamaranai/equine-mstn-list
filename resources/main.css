@@ -20,26 +20,13 @@ a {
 [e] {
   background-color: #034
 }
-p {
-  background-color: #000;
-  display: flex;
-  white-space: pre;
-  padding-top: 1;
-  box-sizing: border-box;
-  height: 40;
-  gap: 1px;
-  margin: 0
-}
-[s] {
-  background: linear-gradient(90deg,#034 50%,#111 50%)
-}
 #a {
   background-color: #111;
   position: sticky;
   top: 0
 }
-[h] {
-  background: linear-gradient(90deg,#420 50%,#111 50%)
+[s] {
+  background: linear-gradient(90deg,#034 50%,#111 50%)
 }
 #e {
   background-color: #111;
@@ -49,10 +36,23 @@ p {
   margin: 8 4;
   outline: 0
 }
+[h] {
+  background: linear-gradient(90deg,#420 50%,#111 50%)
+}
 #r {
   all: unset;
   width: -webkit-fill-available;
   width: -moz-available
+}
+p {
+  background-color: #000;
+  display: flex;
+  white-space: pre;
+  padding-top: 1;
+  box-sizing: border-box;
+  height: 40;
+  gap: 1px;
+  margin: 0
 }
 body {
   background-color: #000;
