@@ -2,12 +2,13 @@ a {
   background-color: #111;
   color: #999;
   padding: 8 0 0 6;
-  width: -webkit-fill-available;
-  text-indent: -2;
-  width: -moz-available;
-  text-decoration: unset;
   font-size: 9;
   contain: inline-size;
+  text-indent: -2;
+  text-transform: capitalize;
+  text-decoration: unset;
+  width: -webkit-fill-available;
+  width: -moz-available;
   line-height: 0
 }
 [a] {
@@ -22,7 +23,7 @@ a {
 p {
   background-color: #000;
   display: flex;
-  White-space: pre;
+  white-space: pre;
   padding-top: 1;
   box-sizing: border-box;
   height: 40;
@@ -50,7 +51,8 @@ p {
 }
 #r {
   all: unset;
-  flex-grow: 1
+  width: -webkit-fill-available;
+  width: -moz-available
 }
 body {
   background-color: #000;
