@@ -19,11 +19,15 @@ let html = (await Bun.file("main.htm").text())
   .replaceAll("\n", "")
   .replaceAll("$total", total)
   .replace("/*css*/", css);
-
+// let names = horses.map(v => v[0].name);
 for (let i = 0; i < total; ++i) {
   html += "<p>";
   for (let j = 0; j < 4; ++j) {
     let { name, year, cnty, sex, href, mstn } = horses[i][j];
+    /*
+    if (j && mstn)  {
+      names.includes(name) || console.log(name)
+    }*/
     if (href) {
       let host = href.slice(8, href.indexOf("/", 10));
       href = " href=" + (
