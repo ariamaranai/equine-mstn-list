@@ -5,7 +5,6 @@ a {
   font-size: 9;
   contain: inline-size;
   text-indent: -2;
-  text-transform: capitalize;
   text-decoration: unset;
   width: -webkit-fill-available;
   width: -moz-available;
@@ -68,5 +67,6 @@ body {
   color: #bbb;
   font-size: clamp(10px,2.2vw,12px);
   font-family: arial,sans-serif;
-  line-height: 2
+  line-height: 2;
+  text-transform: capitalize
 }
