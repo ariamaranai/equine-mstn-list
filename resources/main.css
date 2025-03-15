@@ -2,8 +2,8 @@ a {
   background-color: #111;
   color: #999;
   padding: 8 0 0 6;
+  contain: size;
   font-size: 9;
-  contain: inline-size;
   text-indent: -2;
   text-decoration: unset;
   width: -webkit-fill-available;
