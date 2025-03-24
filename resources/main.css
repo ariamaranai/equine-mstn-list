@@ -2,7 +2,6 @@ a {
   background-color: #111;
   color: #999;
   padding: 8 0 0 6;
-  contain: size;
   font-size: 9;
   text-indent: -2;
   text-decoration: unset;
@@ -43,6 +42,10 @@ a {
   width: -webkit-fill-available;
   width: -moz-available
 }
+:root {
+  background-color: #000;
+  scrollbar-gutter: stable
+}
 p {
   background-color: #000;
   display: flex;
@@ -54,19 +57,17 @@ p {
   margin: 0
 }
 body {
-  background-color: #000;
   color: #bbb;
   font-size: 12;
   font-family: tahoma,sans-serif;
   line-height: 40px;
   margin: 0 max(0px,calc(50% - 412px)) 40;
   font-feature-settings: "palt";
-  overflow: clip scroll
+  text-transform: capitalize
 }
 :first-line {
   color: #bbb;
   font-size: clamp(10px,2.2vw,12px);
   font-family: arial,sans-serif;
-  line-height: 2;
-  text-transform: capitalize
+  line-height: 2
 }
