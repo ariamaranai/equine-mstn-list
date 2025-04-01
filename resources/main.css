@@ -22,6 +22,7 @@ a {
 #a {
   background-color: #111;
   position: sticky;
+  z-index: 2;
   top: 0
 }
 [s] {
@@ -52,11 +53,10 @@ p {
   display: flex;
   white-space: pre;
   padding-top: 1;
-  box-sizing: border-box;
   height: 40;
-  gap: 1px;
+  box-sizing: border-box;
   content-visibility: auto;
-  contain-intrinsic-height: 40px;
+  gap: 1px;
   margin: 0
 }
 body {
