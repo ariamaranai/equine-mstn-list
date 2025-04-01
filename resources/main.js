@@ -15,14 +15,12 @@ ondragstart = e => !1;
     if (l) {
       l = l[l[0] < ":" ? "toUpperCase" : "toLowerCase"](),
       d ??= (n ??= [...t.children]).map(e => e.textContent);
-      while (t.setAttribute.call(n[r], "style", d[r].includes(l) ? (++i, "") : "display:none"), --r);
+      while (n[r].setAttribute("style", d[r].includes(l) ? (++i, "") : "display:none"), --r);
       s.textContent = i
     } else {
       while (n[r].style = "", --r);
       s.textContent = $total
     }
-  
-  
   },
   addEventListener("wheel", Number.isInteger(devicePixelRatio) ?
     e => (e.preventDefault(), scrollBy(0, e.deltaY > 0 ? 40 - t.scrollTop % 40 || 40 : - t.scrollTop % 40 || -40)) :
