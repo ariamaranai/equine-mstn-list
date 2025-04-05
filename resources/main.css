@@ -44,10 +44,6 @@ a {
   width: -webkit-fill-available;
   width: -moz-available
 }
-:root {
-  background-color: #000;
-  scrollbar-gutter: stable
-}
 p {
   background-color: #000;
   display: flex;
@@ -60,13 +56,15 @@ p {
   margin: 0
 }
 body {
+  background-color: #000;
   color: #bbb;
   font-size: 12;
   font-family: tahoma,sans-serif;
   line-height: 40px;
   margin: 0 max(0px,calc(50% - 412px)) 40;
   font-feature-settings: "palt";
-  text-transform: capitalize
+  text-transform: capitalize;
+  overflow-y: scroll
 }
 :first-line {
   color: #bbb;
