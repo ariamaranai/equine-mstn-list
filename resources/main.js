@@ -22,8 +22,9 @@ ondragstart = e => !1;
       s.textContent = $total
     }
   },
-  addEventListener("wheel", Number.isInteger(devicePixelRatio) ?
-    e => (e.preventDefault(), scrollBy(0, e.deltaY > 0 ? 40 - t.scrollTop % 40 || 40 : - t.scrollTop % 40 || -40)) :
-    e => (e.preventDefault(), scrollBy(0, e.deltaY > 0 ? 40 : -40)), { passive: !1 });
+  addEventListener("wheel", e =>
+    (e.preventDefault(), scrollBy(0, e.deltaY > 0 ? 40 - t.scrollTop % 40 || 40 : - t.scrollTop % 40 || -40)),
+    { passive: !1 }
+  );
   let t = document.body, n, s = r.nextSibling, d
 }
