@@ -71,3 +71,6 @@ body {
   font-family: arial,sans-serif;
   line-height: 2
 }
+.a {
+  display: none
+}

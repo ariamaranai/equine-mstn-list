@@ -15,10 +15,10 @@ ondragstart = e => !1;
     if (l) {
       l = l[l[0] < ":" ? "toUpperCase" : "toLowerCase"](),
       d ??= (n ??= [...t.childNodes]).map(e => e.textContent);
-      while (n[r].setAttribute("style", d[r].includes(l) ? (++i, "") : "display:none"), --r);
+      while (n[r].className = d[r].includes(l) ? (++i, "") : "a", --r);
       s.textContent = i
     } else if (d) {
-      while (n[r].style = "", --r);
+      while (n[r].className = "", --r);
       s.textContent = $total
     }
   },
