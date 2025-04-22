@@ -1,11 +1,11 @@
 import horses from "./../../equine-lib/mstn-tb.json";
 
 let total = horses.length;
-let sort = arr => arr.toSorted((a, b) => a[0] != b[0] && a[0] < b[0] || -1).map(v => v[1] + 1);
+let sort = arr => arr.toSorted((a, b) => a[0] != b[0] && a[0] > b[0] || -1).map(v => v[1]);
 let orderSire = sort(horses.map((v, i) => [v[1].name, i]));
 let orderDam = sort(horses.map((v, i) => [v[2].name, i]));
 let orderDamSire = sort(horses.map((v, i) => [v[3].name, i]));
-let orders = `[[0,${orderSire}],[0,${orderDam}],[0,${orderDamSire}]]`;
+let orders = `[[${orderSire}],[${orderDam}],[${orderDamSire}]]`;
 let css = (await Bun.file("main.css").text())
   .replace(/\n| {2}|\s(?={)|(?<=\:)\s/g, "");
 let js = (await Bun.file("main.js").text())
