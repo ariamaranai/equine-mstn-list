@@ -16,7 +16,7 @@ ondragstart = e => !1;
       l = l[l[0] < ":" ? "toUpperCase" : "toLowerCase"]();
       while (n[r].className = d[r].includes(l) ? (++i, "") : "a", ++r < $total);
       s.textContent = i
-    } else if (d) {
+    } else {
       while (n[r].className = "", ++r < $total);
       s.textContent = $total
     }
