@@ -25,6 +25,5 @@ ondragstart = e => !1;
     let r = t.scrollTop % 40;
     e.preventDefault(scrollBy(0, e.deltaY > 0 ? r < 1 ? 40 : 40 - r : r < 1 ? -40 : -r));
   }, { passive: !1 });
-  let t = document.body, n = [...t.childNodes], s = r.nextSibling, d = n.map(e => e.textContent);
-  n.shift()
+  let t = document.body, n = [...t.childNodes], s =  (n.shift(), r.nextSibling), d = n.map(e => e.textContent)
 }
