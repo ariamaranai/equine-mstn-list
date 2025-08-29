@@ -3,7 +3,7 @@ a {
   color: #999;
   font-size: 9;
   contain: strict;
-  padding: 8 0 0 6;
+  padding: 8+0+0+6;
   text-indent: -2;
   text-decoration: unset;
   flex-grow: 1;
@@ -25,18 +25,18 @@ a {
   top: 0
 }
 [s] {
-  background: linear-gradient(90deg,#034 50%,#111 50%)
+  background: linear-gradient(90deg,#034+50%,#111+50%)
 }
 #e {
   background-color: #111;
   color: #bbb;
   font-size: 12;
   border: 1px solid#555;
-  margin: 8 4;
+  margin: 8+4;
   outline: 0
 }
 [h] {
-  background: linear-gradient(90deg,#420 50%,#111 50%)
+  background: linear-gradient(90deg,#420+50%,#111+50%)
 }
 #r {
   all: unset;
@@ -59,7 +59,7 @@ body {
   font-size: 12;
   font-family: tahoma,sans-serif;
   line-height: 44px;
-  margin: 0 auto 44;
+  margin: 0 auto+44;
   width: min(100%,771px);
   font-feature-settings: "palt";
   text-transform: capitalize;
