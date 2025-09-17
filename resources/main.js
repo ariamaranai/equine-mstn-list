@@ -8,7 +8,7 @@ ondragstart = e => !1;
       while (t.appendChild(n[l ? $orders[l - 1][r] : r]), ++r < $total);
   },
   r.oninput = e => {
-    let r = 0, l = e.target.value.replace(/[^\w -\u30a1-\u30fc]/g, ""), i = 0;
+    let r = 0, l = e.target.value.replace(/[^-\w \u30a1-\u30fc]/g, ""), i = 0;
     if (l) {
       l = l[l[0] < ":" ? "toUpperCase" : "toLowerCase"]();
       while (n[r].className = d[r].includes(l) ? (++i, "") : "a", ++r < $total);
