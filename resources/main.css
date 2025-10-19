@@ -60,7 +60,8 @@ body {
   font-family: tahoma,sans-serif;
   line-height: 44px;
   margin: 0 auto+44;
-  width: min(100%,771px);
+  width: 100%;
+  max-width: 771;
   font-feature-settings: "palt";
   text-transform: capitalize;
   overflow-y: scroll
