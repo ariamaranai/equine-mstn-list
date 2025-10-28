@@ -2,12 +2,13 @@ a {
   background-color: #111;
   color: #999;
   font-size: 9;
-  contain: strict;
   padding: 8+0+0+6;
   text-indent: -2;
   text-decoration: unset;
   flex-grow: 1;
-  line-height: 0
+  overflow: clip;
+  line-height: 0;
+  width: 0
 }
 [a] {
   background-color: #230
@@ -61,9 +62,9 @@ body {
   line-height: 44px;
   margin: 0 auto+44;
   max-width: 771;
+  overflow-y: scroll;
   font-feature-settings: "palt";
-  text-transform: capitalize;
-  overflow-y: scroll
+  text-transform: capitalize
 }
 :first-line {
   color: #bbb;
