@@ -1,3 +1,4 @@
+addEventListener("wheel", e => e.preventDefault(scrollBy(0, e.deltaY > 0 ? 44 : -44)), { passive: !1 }),
 ondragstart = e => !1;
 {
   e.oninput = e => {
@@ -17,10 +18,6 @@ ondragstart = e => !1;
       while (n[r].className = "", ++r < $total);
       s.textContent = "$total"
     }
-  },
-  addEventListener("wheel", e => {
-    let r = t.scrollTop % 44;
-    e.preventDefault(scrollBy(0, e.deltaY > 0 ? r ? 44 - r : 44 : r ? -r : -44))
-  }, { passive: !1 });
+  };
   let t = document.body, n = [...t.childNodes], d = (n.shift(), n).map(e => e.textContent), s = r.nextSibling
 }
