@@ -20,7 +20,7 @@ ondragstart = e => !1;
   },
   addEventListener("wheel", e => {
     let r = t.scrollTop % 44;
-    e.preventDefault(scrollBy(0, e.deltaY > 0 ? r < 1 ? 44 : 44 - r : r < 1 ? -44 : -r))
+    e.preventDefault(scrollBy(0, e.deltaY > 0 ? r ? 44 - r : 44 : r ? -r : -44))
   }, { passive: !1 });
   let t = document.body, n = [...t.childNodes], d = (n.shift(), n).map(e => e.textContent), s = r.nextSibling
 }
