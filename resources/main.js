@@ -11,7 +11,7 @@ ondragstart = e => !1;
   r.oninput = e => {
     let r = 0, l = e.target.value.replace(/[^-\w \u30a1-\u30fc]/g, ""), i = 0;
     if (l) {
-      l = l[l[0] < ":" ? "toUpperCase" : "toLowerCase"]();
+      l = l[0] < ":" ?  l.toUpperCase() : l.toLowerCase();
       while (n[r].className = d[r].includes(l) ? (++i, "") : "a", ++r < $total);
       s.textContent = i
     } else {
