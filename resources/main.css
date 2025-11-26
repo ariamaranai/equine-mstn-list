@@ -5,10 +5,9 @@ a {
   padding: 8+0+0+6;
   text-indent: -2;
   text-decoration: unset;
-  flex-grow: 1;
+  width: -webkit-fill-available;
   overflow: clip;
-  line-height: 0;
-  width: 0
+  line-height: 0
 }
 [a] {
   background-color: #230
@@ -41,7 +40,7 @@ a {
 }
 #r {
   all: unset;
-  flex-grow: 1
+  width: -webkit-fill-available
 }
 p {
   background-color: #000;
@@ -60,7 +59,7 @@ body {
   font-size: 13;
   font-family: tahoma,sans-serif;
   line-height: 44px;
-  margin: 0 auto+44;
+  margin: 0 auto+50;
   max-width: 771;
   overflow-y: scroll;
   font-feature-settings: "palt";
