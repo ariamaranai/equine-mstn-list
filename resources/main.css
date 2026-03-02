@@ -31,7 +31,7 @@ a {
   background-color: #111;
   color: #bbb;
   font-size: 13;
-  border: 1px solid#555;
+  border: solid#555+1px;
   margin: 8+4;
   outline: 0
 }
