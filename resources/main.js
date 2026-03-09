@@ -3,7 +3,7 @@ ondragstart = e => !1;
 {
   e.oninput = e => {
     let r = 0, l = e.target.selectedIndex;
-    if (l > 3)
+    if (l > 2)
       location.href = "//ariamaranai.github.io";
     else
       while (r < n.length) t.appendChild(n[l ? $orders[l - 1][r] : r]), ++r;
